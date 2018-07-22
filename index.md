@@ -1,7 +1,7 @@
 # SMT-V: The Society for Music Theory Videocast Journal
 
 
-<iframe src="https://player.vimeo.com/video/252464918" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/252464918" width="100%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ### "Was it Diegetic, or Just a Dream? Music's Paradoxical Place in the Film *Inception* 
 Christopher Doll (Rutgers University)
