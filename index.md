@@ -1,22 +1,19 @@
-## SMT-V: The Society for Music Theory Videocast Journal
+### SMT-V: The Society for Music Theory Videocast Journal
 
-
-
-### Purpose
-
-SMT-V is a peer-reviewed publication consisting of videos of short to moderate length to be hosted on—or accessible by links from—the SMT website.
-- The videos should deal with some scholarly aspect of music theory or analysis, geared either towards the music theory professional or towards members of the educated public. Although some videos might deal with topics of music theory pedagogy research, they should not be geared directly towards beginning harmony students.
-- The videos should be self-standing, not adjuncts to a written text.
-- The final screens of the videos could contain a bibliography and acknowledgements.
-- The videos will be published one at a time on a regular basis, with previous videos archived on the website.
 
 <iframe src="https://player.vimeo.com/video/252464918" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/252464918">SMT-V 4.1: Christopher Doll, &ldquo;Was it Diegetic, or Just a Dream? Music&#039;s Paradoxical Place in the Film Inception&quot;</a> from <a href="https://vimeo.com/societymusictheory">SMT-V</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-## Organization
+# "Was it Diegetic, or Just a Dream? Music's Paradoxical Place in the Film *Inception* 
+Christopher Doll (Rutgers University)
 
-- SMT-V is overseen by an Editor who organizes the vetting of the videos, along with an Associate Editor who aids with the technical details.
-- Members of an Editorial Board help vet the videos.
+*Between "diegetic" film music (heard by the characters) and "nondiegetic" film music (heard only by the audience) is a paradoxical space called the "fantastical gap." A film such as Inception (2010) makes traversal of this gap into an overt theme, obscuring our sense of place to such a degree that even the literal plot of the movie is open to interpretation, and thus also illustrating the extent to which filmmakers can manipulate an audience's understanding of the filmic world through the blurring of the diegetic/nondiegetic divide.*
+
+## SMT-V Video Archives
+
+# Music, Poetry, and Performance in a Song by Maria Schneider
+Stephen Rodgers (University of Oregon)
+
+*In this video I explore the way song composers respond not just to the meanings of words but also to their sounds. Using a song from Maria Schneider’s 2013 song cycle Winter Morning Walks as a case study, I consider how a particular performance of a song and a particular performance of a poem can heighten our awareness of the connections between music and the materiality of poetry.*
 
 ## Vetting
 
