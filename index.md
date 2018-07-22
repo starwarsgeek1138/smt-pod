@@ -10,6 +10,9 @@ SMT-V is a peer-reviewed publication consisting of videos of short to moderate l
 - The final screens of the videos could contain a bibliography and acknowledgements.
 - The videos will be published one at a time on a regular basis, with previous videos archived on the website.
 
+<iframe src="https://player.vimeo.com/video/252464918" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/252464918">SMT-V 4.1: Christopher Doll, &ldquo;Was it Diegetic, or Just a Dream? Music&#039;s Paradoxical Place in the Film Inception&quot;</a> from <a href="https://vimeo.com/societymusictheory">SMT-V</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
 ## Organization
 
 - SMT-V is overseen by an Editor who organizes the vetting of the videos, along with an Associate Editor who aids with the technical details.
