@@ -10,9 +10,6 @@ SMT-V is a peer-reviewed publication consisting of videos of short to moderate l
 - The final screens of the videos could contain a bibliography and acknowledgements.
 - The videos will be published one at a time on a regular basis, with previous videos archived on the website.
 
-```markdown
-Syntax highlighted code block
-
 ## Organization
 
 - SMT-V is overseen by an Editor who organizes the vetting of the videos, along with an Associate Editor who aids with the technical details.
