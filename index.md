@@ -1,12 +1,14 @@
-## Welcome to GitHub Pages
+## SMT-V: The Society for Music Theory Videocast Journal
 
-You can use the [editor on GitHub](https://github.com/woh2822/smtv-dev/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Purpose
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+SMT-V is a peer-reviewed publication consisting of videos of short to moderate length to be hosted on—or accessible by links from—the SMT website.
+- The videos should deal with some scholarly aspect of music theory or analysis, geared either towards the music theory professional or towards members of the educated public. Although some videos might deal with topics of music theory pedagogy research, they should not be geared directly towards beginning harmony students.
+- The videos should be self-standing, not adjuncts to a written text.
+- The final screens of the videos could contain a bibliography and acknowledgements.
+- The videos will be published one at a time on a regular basis, with previous videos archived on the website.
 
 ```markdown
 Syntax highlighted code block
