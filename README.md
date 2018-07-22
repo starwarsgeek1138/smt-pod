@@ -1,2 +1,1 @@
-# smtv-dev
-testing ground for smt-v website
+# SMT-V: The Society for Music Theory's Videocast Journal
