@@ -13,27 +13,29 @@ SMT-V is a peer-reviewed publication consisting of videos of short to moderate l
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Organization
 
-- Bulleted
-- List
+- SMT-V is overseen by an Editor who organizes the vetting of the videos, along with an Associate Editor who aids with the technical details.
+- Members of an Editorial Board help vet the videos.
 
-1. Numbered
-2. List
+## Vetting
 
-**Bold** and _Italic_ and `Code` text
+Those wishing to publish a video on _SMT-V_ should first submit a written proposal summarizing the proposed project. If the proposed project is deemed appropriate, the author will be invited to submit a draft of a storyboard or script. Upon acceptance of the script, the author will be invited to produce a full video in conjunction with guidance and assessment from selected members of the Editorial Board. Details regarding the submission process are found at [https://societymusictheory.org/smt-v/submission_guidelines](https://societymusictheory.org/smt-v/submission_guidelines).
 
-[Link](url) and ![Image](src)
-```
+If you have any questions about the process, please feel free to contact the [SMT-V Editor](mailto:SMT-V-editor@societymusictheory.org).
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Editorial Board
 
-### Jekyll Themes
+**Editor:** Poundie Burstein (Hunter College and the Graduate Center, CUNY): [SMT-V-editor@societymusictheory.org](mailto:SMT-V-editor@societymusictheory.org).
+**Associate Editor:** Seth Monahan (Eastman School of Music): [SMT-V-associate-editor@societymusictheory.org](SMT-V-associate-editor@societymusictheory.org).
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/woh2822/smtv-dev/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**Members at Large**
+- David Bashwiner, University of New Mexico (2018)
+- Michael Buchler, Florida State University (2020)
+- Jonathan De Souza, University of Western Ontario (2020)
+- Megan Kaes Long, Oberlin College and Conservatory (2020)
+- Elaine Sisman, Columbia University (2018)
+- Janet Schmalfeldt, Tufts University (2018)
+- Daphne Tan, University of Toronto (2019)
+- Christopher White, University of Massachusetts Amherst (2020)
+- Simon Zagorski-Thomas, University of West London (2018)
