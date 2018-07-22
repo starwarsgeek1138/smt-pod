@@ -1,3 +1,28 @@
+<style>
+.collapsible {
+    background-color: #777;
+    color: white;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 15px;
+}
+
+.active, .collapsible:hover {
+    background-color: #555;
+}
+
+.content {
+    padding: 0 18px;
+    display: none;
+    overflow: hidden;
+    background-color: #f1f1f1;
+}
+</style>
+
 # SMT-V: The Society for Music Theory Videocast Journal
 
 
@@ -9,6 +34,13 @@ Christopher Doll (Rutgers University)
 *Between "diegetic" film music (heard by the characters) and "nondiegetic" film music (heard only by the audience) is a paradoxical space called the "fantastical gap." A film such as Inception (2010) makes traversal of this gap into an overt theme, obscuring our sense of place to such a degree that even the literal plot of the movie is open to interpretation, and thus also illustrating the extent to which filmmakers can manipulate an audience's understanding of the filmic world through the blurring of the diegetic/nondiegetic divide.*
 
 ## SMT-V Video Archives
+
+
+
+<button class="collapsible">Open Collapsible</button>
+<div class="content">
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+</div>
 
 ### Music, Poetry, and Performance in a Song by Maria Schneider
 Stephen Rodgers (University of Oregon)
@@ -37,3 +69,21 @@ If you have any questions about the process, please feel free to contact the [SM
 - Daphne Tan, University of Toronto (2019)
 - Christopher White, University of Massachusetts Amherst (2020)
 - Simon Zagorski-Thomas, University of West London (2018)
+
+
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+    coll[i].addEventListener("click", function() {
+        this.classList.toggle("active");
+        var content = this.nextElementSibling;
+        if (content.style.display === "block") {
+            content.style.display = "none";
+        } else {
+            content.style.display = "block";
+        }
+    });
+}
+</script>
