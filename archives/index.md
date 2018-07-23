@@ -3,13 +3,17 @@
 
 
 ## Volume 4 (2018)
+
 ### "Was it Diegetic, or Just a Dream? Music's Paradoxical Place in the Film *Inception* 
 Christopher Doll (Rutgers University)
 Volume 4.1 (April 2018)
 
 *Between "diegetic" film music (heard by the characters) and "nondiegetic" film music (heard only by the audience) is a paradoxical space called the "fantastical gap." A film such as Inception (2010) makes traversal of this gap into an overt theme, obscuring our sense of place to such a degree that even the literal plot of the movie is open to interpretation, and thus also illustrating the extent to which filmmakers can manipulate an audience's understanding of the filmic world through the blurring of the diegetic/nondiegetic divide.*
 
+
+
 ## Volume 3 (2017)
+
 ### Music, Poetry, and Performance in a Song by Maria Schneider
 Stephen Rodgers (University of Oregon)
 Volume 3.3 (December 2017)
@@ -28,7 +32,10 @@ Volume 3.1 (Feburary 2017)
 
 *In a 1789 treatise, the Darmstadt musician J.G. Portmann presents what amounts to a multi-level harmonic analysis of Mozart’s Sonata for Piano in D, K. 284, I. Portmann’s interpretation of the movement's exposition is in line with concepts expressed by other eighteenth-century theorists, but suggestively differs from standard modern conceptions of the form, especially in its understanding of what nowadays is labeled as the secondary theme.*
 
+
+
 ## Volume 2 (2016)
+
 ### Variations on a Theme by a Rogue A.I.: Music, Gameplay, and Storytelling in Portal 2" (Part 1 of 2)
 Volume 2.2 (July 2016)
 ### Variations on a Theme by a Rogue A.I.: Music, Gameplay, and Storytelling in Portal 2" (Part 2 of 2)
@@ -43,7 +50,10 @@ Volume 2.1 (February 2016)
 
 *In his late songs (from 1849-52), Robert Schumann’s vocal rhythm strays much farther than in his earlier songs from the poetic rhythm. His late style of declamation may have been influenced by Clara Schumann’s Lieder of the 1840s. His late songs exhibit the following characteristics, which are also found in her songs: 1) the vocal rhythms are based on the poetic rhythm at least occasionally, so that listeners have a foil against which they can perceive declamatory irregularities; 2) there are numerous deviations from consistent coordination of stresses with strong beats, and of four-bar hypermeasures with poetic units; 3) rests are often employed in an unpredictable manner; and 4) there are text-expressive motivations for declamatory irregularities.*
 
+
+
 ## Volume 1 (2015)
+
 ### Multiple Musical Agency in Mozart's Chamber Music
 Edward Klorman (Queens College and The Julliard School)\
 Volume 1.3 (October 2015)
