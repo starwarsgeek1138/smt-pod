@@ -1,6 +1,6 @@
 # SMT-V Archives
 
-## [Volume 4 (2018)](volume4.md)
+## Volume 4 (2018)
 - Christopher Doll, "Was it Diegetic, or Just a Dream? Music's Paradoxical Place in the Film *Inception*"
 ## Volume 3 (2017)
 - Stephen Rodgers, "Music, Poetry, and Performance in a Song by Maria Schneider"
