@@ -1,3 +1,4 @@
+
 ### Purpose
 
 SMT-V is a peer-reviewed publication consisting of videos of short to moderate length to be hosted on—or accessible by links from—the SMT website.
