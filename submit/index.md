@@ -23,10 +23,10 @@ If you are new to producing your own video, here are some suggestions:
 - Each individual shot should be not less than 5 seconds long. Shorter shots create jumpy footage that can be difficult to track.
 - If you collaborate with a musician, dancer, etc. in your video please acknowledge your collaborator in the title of your video and in supporting material.
 
-See our Resources section for more information on recording slideshows and on video production. In addition, many schools have Media Services departments who can assist you with creating your video.
+See our [Resources] section for more information on recording slideshows and on video production. In addition, many schools have Media Services departments who can assist you with creating your video.
 
 ## Video Hosting
 Videos will be hosted on Vimeo and linked to the SMT-V archive. Please familiarize yourself with Vimeo’s terms and conditions: http://vimeo.com/terms
 
 ## Resources
-As you prepare your submission, you are encouraged to peruse our list of resources pertaining to recording slideshows, video production, and storyboarding, available here.
+As you prepare your submission, you are encouraged to peruse our list of resources pertaining to recording slideshows, video production, and storyboarding, available [here](Resources).
