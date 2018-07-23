@@ -1,6 +1,7 @@
 
-# Purpose
+# 
 
+### Purpose
 SMT-V is a peer-reviewed publication consisting of videos of short to moderate length to be hosted on—or accessible by links from—the SMT website.
 - The videos should deal with some scholarly aspect of music theory or analysis, geared either towards the music theory professional or towards members of the educated public. Although some videos might deal with topics of music theory pedagogy research, they should not be geared directly towards beginning harmony students.
 - The videos should be self-standing, not adjuncts to a written text.
