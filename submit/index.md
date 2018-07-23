@@ -1,39 +1,32 @@
-# SMT-V: The Society for Music Theory Videocast Journal
+# SMT-V Submission Guidelines
 
+SMT-V seeks video submissions showcasing original research or demonstrating an original pedagogical approach. The medium of video offers unique opportunities for the communication of theoretical ideas through the integration of images, spoken word, performance, musical scores, recorded audio, and/or animated visualizations. We are particularly interested in topics that will be well served by video presentation and have the potential to engage both specialists within the field and interested viewers outside the music theory community. If you have questions or preliminary ideas for a video-article that you would like to discuss, feel free to contact the [SMT-V Editor](mailto:SMT-V-editor@societymusictheory.org).
 
-<iframe src="https://player.vimeo.com/video/252464918" width="100%" height="56.5%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+### Length 
+Videos should communicate content as concisely and directly as possible, with a maximum length of 15 minutes.
 
-### "Was it Diegetic, or Just a Dream? Music's Paradoxical Place in the Film *Inception* 
-Christopher Doll (Rutgers University)
+## Review of Submissions
+Submissions will be evaluated in two stages. Authors will first submit a proposal, and then (if the proposal is judged as suitable) a script/storyboard draft that will be sent to peer evaluators for anonymous double-blind review. If the script/storyboard draft is accepted, the author would be invited to produce a video, which would be subject to an open, collaborative review process before being accepted for publication. Send the proposal to the SMT-V Editor.
 
-*Between "diegetic" film music (heard by the characters) and "nondiegetic" film music (heard only by the audience) is a paradoxical space called the "fantastical gap." A film such as Inception (2010) makes traversal of this gap into an overt theme, obscuring our sense of place to such a degree that even the literal plot of the movie is open to interpretation, and thus also illustrating the extent to which filmmakers can manipulate an audience's understanding of the filmic world through the blurring of the diegetic/nondiegetic divide.*
+### Stage I: Abstract and Storyboard/Script Draft
+The author’s initial submission should take the form of a PDF that includes an abstract of no more than 500 words, and back matter of no more than 4 additional pages that complements the abstract with notation, images, tables, bibliography, and so forth. This abstract-proposal will be subject to double-blind review, with a quick turnaround. Pending approval of this abstract, the applicant will be invited to provide a storyboard or script, which will again be submitted to the full double-blind review process.
 
-## SMT-V Video Archives
+## Stage II: Video Submission
+Upon acceptance of your proposal, you will be asked to produce a full video in conjunction with guidance and assessment from selected members of the Editorial Board.
 
-### Music, Poetry, and Performance in a Song by Maria Schneider
-Stephen Rodgers (University of Oregon)
+If you are new to producing your own video, here are some suggestions:
 
-*In this video I explore the way song composers respond not just to the meanings of words but also to their sounds. Using a song from Maria Schneider’s 2013 song cycle Winter Morning Walks as a case study, I consider how a particular performance of a song and a particular performance of a poem can heighten our awareness of the connections between music and the materiality of poetry.*
+- Using a USB microphone will significantly improve the quality of recording. A computer’s built-in microphone often adds distortion and noise.
+- Try to speak in a natural, extemporaneous manner rather than merely reading your script word-for-word.
+- If you choose to include footage of yourself speaking, make eye contact with the camera, and avoid light reflections on your glasses.
+- Stabilize the camera by resting it on a surface or tripod.
+- Each individual shot should be not less than 5 seconds long. Shorter shots create jumpy footage that can be difficult to track.
+- If you collaborate with a musician, dancer, etc. in your video please acknowledge your collaborator in the title of your video and in supporting material.
 
-## Vetting
+See our Resources section for more information on recording slideshows and on video production. In addition, many schools have Media Services departments who can assist you with creating your video.
 
-Those wishing to publish a video on _SMT-V_ should first submit a written proposal summarizing the proposed project. If the proposed project is deemed appropriate, the author will be invited to submit a draft of a storyboard or script. Upon acceptance of the script, the author will be invited to produce a full video in conjunction with guidance and assessment from selected members of the Editorial Board. Details regarding the submission process are found at [https://societymusictheory.org/smt-v/submission_guidelines](https://societymusictheory.org/smt-v/submission_guidelines).
+## Video Hosting
+Videos will be hosted on Vimeo and linked to the SMT-V archive. Please familiarize yourself with Vimeo’s terms and conditions: http://vimeo.com/terms
 
-If you have any questions about the process, please feel free to contact the [SMT-V Editor](mailto:SMT-V-editor@societymusictheory.org).
-
-## Editorial Board
-
-**Editor:** Poundie Burstein (Hunter College and the Graduate Center, CUNY): [SMT-V-editor@societymusictheory.org](mailto:SMT-V-editor@societymusictheory.org).
-
-**Associate Editor:** Seth Monahan (Eastman School of Music): [SMT-V-associate-editor@societymusictheory.org](SMT-V-associate-editor@societymusictheory.org).
-
-**Members at Large**
-- David Bashwiner, University of New Mexico (2018)
-- Michael Buchler, Florida State University (2020)
-- Jonathan De Souza, University of Western Ontario (2020)
-- Megan Kaes Long, Oberlin College and Conservatory (2020)
-- Elaine Sisman, Columbia University (2018)
-- Janet Schmalfeldt, Tufts University (2018)
-- Daphne Tan, University of Toronto (2019)
-- Christopher White, University of Massachusetts Amherst (2020)
-- Simon Zagorski-Thomas, University of West London (2018)
+## Resources
+As you prepare your submission, you are encouraged to peruse our list of resources pertaining to recording slideshows, video production, and storyboarding, available here.
