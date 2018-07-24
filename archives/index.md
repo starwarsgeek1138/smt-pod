@@ -1,15 +1,16 @@
 # SMT-V Archives
 
-## Volume 4 (2018)
+
+### Volume 4 (2018)
 - Christopher Doll, "Was it Diegetic, or Just a Dream? Music's Paradoxical Place in the Film *Inception*"
-## Volume 3 (2017)
+### Volume 3 (2017)
 - Stephen Rodgers, "Music, Poetry, and Performance in a Song by Maria Schneider"
 - J. Daniel Jenkins, "Schoenberg’s ‘Advice for Beginners in Composition with Twelve Tones'"
 - L. Poundie Burstein with Quynh Nguyen, "Parenthetic Aside in a 1789 Analysis of Mozart’s K. 284"
-## Volume 2 (2016)
+### Volume 2 (2016)
 - Steven Reale, "Variations on a Theme by a Rogue A.I.: Music, Gameplay, and Storytelling in Portal 2"
 - Harald Krebs, "The Influence of Clara Schumann's Lieder on Declamation in Robert Schumann's Late Songs"
-## Volume 1 (2015)
+### Volume 1 (2015)
 - Edward Klorman, "Multiple Musical Agency in Mozart's Chamber Music"
 - Peter Schubert, "Contrapuntal Thinking in Haydn"
 - Elizabeth Hellmuth Margulis, "Repetition and Musicality"
