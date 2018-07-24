@@ -12,7 +12,6 @@ Volume 2.2 (July 2016)
 
 <p>&nbsp;</p>
 <hr>
-<p>&nbsp;</p>
 
 ### Variations on a Theme by a Rogue A.I.: Music, Gameplay, and Storytelling in Portal 2 (Part 2 of 2)
 Steven Reale (Youngstown State University)  
@@ -23,7 +22,6 @@ Volume 2.3 (December 2016)
 
 <p>&nbsp;</p>
 <hr>
-<p>&nbsp;</p>
 
 ### The Influence of Clara Schumann's Lieder on Declamation in Robert Schumann's Late Songs
 Harald Krebs (University of Victoria)  
