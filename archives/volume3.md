@@ -37,4 +37,4 @@ Volume 3.1 (Feburary 2017)
 
 *In a 1789 treatise, the Darmstadt musician J.G. Portmann presents what amounts to a multi-level harmonic analysis of Mozart’s Sonata for Piano in D, K. 284, I. Portmann’s interpretation of the movement's exposition is in line with concepts expressed by other eighteenth-century theorists, but suggestively differs from standard modern conceptions of the form, especially in its understanding of what nowadays is labeled as the secondary theme.*
 
-
+[Back to Archive](index.md)
