@@ -33,4 +33,4 @@ Volume 2.1 (February 2016)
 *In his late songs (from 1849-52), Robert Schumann’s vocal rhythm strays much farther than in his earlier songs from the poetic rhythm. His late style of declamation may have been influenced by Clara Schumann’s Lieder of the 1840s. His late songs exhibit the following characteristics, which are also found in her songs: 1) the vocal rhythms are based on the poetic rhythm at least occasionally, so that listeners have a foil against which they can perceive declamatory irregularities; 2) there are numerous deviations from consistent coordination of stresses with strong beats, and of four-bar hypermeasures with poetic units; 3) rests are often employed in an unpredictable manner; and 4) there are text-expressive motivations for declamatory irregularities.*
 
 
-
+[Back to Archive](index.md)
