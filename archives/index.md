@@ -5,7 +5,7 @@
 - Christopher Doll, "Was it Diegetic, or Just a Dream? Music's Paradoxical Place in the Film *Inception*"
 
 ### Volume 3 (2017)
-- Stephen Rodgers, "Music, Poetry, and Performance in a Song by Maria Schneider"
+- [Stephen Rodgers, "Music, Poetry, and Performance in a Song by Maria Schneider"](volume3.md#music-poetry-and-performance-in-a-song-by-maria-schneider)
 - J. Daniel Jenkins, "Schoenberg’s ‘Advice for Beginners in Composition with Twelve Tones'"
 - L. Poundie Burstein with Quynh Nguyen, "Parenthetic Aside in a 1789 Analysis of Mozart’s K. 284"
 
