@@ -26,3 +26,5 @@ Volume 1.1 (February 2015)
 <p>&nbsp;</p>
 
 *This video explores the connection between repetition and musicality. It starts by demonstrating the role of repetition in a popular web app, and then chronicles the centrality of repetition within musical practice at large. Given this centrality, musical repetition has been relatively understudied, but the methods and perspectives of cognitive science might help illuminate its functions. The rest of the video reviews recent empirical work that examines the role of repetition in musical perceptions, suggesting that repetition shapes attention and engagement in powerful ways.*
+
+[Back to Archive](index.md)
