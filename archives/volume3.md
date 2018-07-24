@@ -20,9 +20,9 @@ Volume 3.2 (June 2017)
 
 <iframe src="https://player.vimeo.com/video/220246523" width="720" height="405" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-<br/ >
+<p>&nbsp;</p>
 <hr>
-<br/ >
+<p>&nbsp;</p>
 
 ### Parenthetic Aside in a 1789 Analysis of Mozart’s K. 284
 L. Poundie Burstein with Quynh Nguyen (Hunter College and the Graduate Center, CUNY) 
