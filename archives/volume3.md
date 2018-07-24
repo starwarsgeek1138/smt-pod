@@ -8,9 +8,9 @@ Volume 3.3 (December 2017)
 
 <center><iframe src="https://player.vimeo.com/video/247401988" width="720" height="405" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></center>
 
-<br/ >
+<p>&nbsp;</p>
 <hr>
-<br/ >
+<p>&nbsp;</p>
 
 ### Schoenberg’s ‘Advice for Beginners in Composition with Twelve Tones'
 J. Daniel Jenkins (University of South Carolina)
