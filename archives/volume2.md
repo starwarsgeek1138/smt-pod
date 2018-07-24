@@ -1,6 +1,7 @@
 ## Volume 2 (2016)
 
 ### Variations on a Theme by a Rogue A.I.: Music, Gameplay, and Storytelling in Portal 2 (Part 1 of 2)
+Steven Reale (Youngstown State University)  
 Volume 2.2 (July 2016)
 
 <iframe src="https://player.vimeo.com/video/173480730" width="720" height="405" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
@@ -14,8 +15,9 @@ Volume 2.2 (July 2016)
 <p>&nbsp;</p>
 
 ### Variations on a Theme by a Rogue A.I.: Music, Gameplay, and Storytelling in Portal 2 (Part 2 of 2)
-Volume 2.3 (December 2016)  
-Steven Reale (Youngstown State University)
+Steven Reale (Youngstown State University)  
+Volume 2.3 (December 2016)
+
 
 <iframe src="https://player.vimeo.com/video/191421764" width="720" height="405" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
