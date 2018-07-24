@@ -17,7 +17,6 @@ Volume 2.2 (July 2016)
 Volume 2.3 (December 2016)  
 Steven Reale (Youngstown State University)
 
-<p>&nbsp;</p>
 <iframe src="https://player.vimeo.com/video/191421764" width="720" height="405" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 <p>&nbsp;</p>
@@ -27,6 +26,7 @@ Steven Reale (Youngstown State University)
 ### The Influence of Clara Schumann's Lieder on Declamation in Robert Schumann's Late Songs
 Harald Krebs (University of Victoria)  
 Volume 2.1 (February 2016)  
+
 <iframe src="https://player.vimeo.com/video/150344298" width="720" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p>&nbsp;</p>
 
