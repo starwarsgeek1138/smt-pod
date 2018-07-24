@@ -6,6 +6,8 @@ Volume 3.3 (December 2017)
 
 *In this video I explore the way song composers respond not just to the meanings of words but also to their sounds. Using a song from Maria Schneider’s 2013 song cycle Winter Morning Walks as a case study, I consider how a particular performance of a song and a particular performance of a poem can heighten our awareness of the connections between music and the materiality of poetry.*
 
+<center><iframe src="https://player.vimeo.com/video/247401988" width="720" height="405" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></center>
+
 ### Schoenberg’s ‘Advice for Beginners in Composition with Twelve Tones'
 J. Daniel Jenkins (University of South Carolina)
 Volume 3.2 (June 2017)
