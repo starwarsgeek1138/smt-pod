@@ -2,7 +2,9 @@
 
 ### Latest Issue: 4.1 (April 2018)
 
-<center><iframe src="https://player.vimeo.com/video/252464918" width="100%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></center>
+<div class="intrinsic-container intrinsic-container-16x9">
+<center><iframe src="https://player.vimeo.com/video/252464918" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></center>
+</div>
 <p>&nbsp;</p>
 
 ## "Was it Diegetic, or Just a Dream? Music's Paradoxical Place in the Film *Inception* 
