@@ -3,7 +3,7 @@
 ### Latest Issue: 4.1 (April 2018)
 
 <div class="intrinsic-container intrinsic-container-16x9">
-<center><iframe src="https://player.vimeo.com/video/252464918" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></center>
+<center><iframe src="https://player.vimeo.com/video/252464918" frameborder=0 webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></center>
 </div>
 <p>&nbsp;</p>
 
