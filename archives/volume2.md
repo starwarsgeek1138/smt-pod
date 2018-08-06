@@ -6,7 +6,7 @@ Volume 2.2 (July 2016)
 
 <div class="intrinsic-container intrinsic-container-16x9">
 <center><iframe src="https://player.vimeo.com/video/173480730" width="720" height="405" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></center>
-<div>
+</div>
 
 <p>&nbsp;</p>
 
