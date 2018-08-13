@@ -26,7 +26,7 @@ If you are new to producing your own video, here are some suggestions:
 See our [Resources](resources.md) section for more information on recording slideshows and on video production. In addition, many schools have Media Services departments who can assist you with creating your video.
 
 ## Video Hosting
-Videos will be hosted on Vimeo and linked to the SMT-V archive. Please familiarize yourself with Vimeo’s terms and conditions: http://vimeo.com/terms
+Videos will be hosted on Vimeo and linked to the SMT-V archive. Please familiarize yourself with Vimeo’s terms and conditions: [http://vimeo.com/terms](http://vimeo.com/terms)
 
 ## Resources
 As you prepare your submission, you are encouraged to peruse our list of resources pertaining to recording slideshows, video production, and storyboarding, available [here](resources.md).
