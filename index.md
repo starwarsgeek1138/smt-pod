@@ -14,4 +14,4 @@ Christopher Doll (Rutgers University)
 
 <hr>
 
-SMT-V is an open-access, peer-reviewed publication that showcases the latest research in music theory in a dynamic, audiovisual format. [Read more about SMT-V here.](about)
+SMT-V is the open-access, peer-reviewed video journal of the Society for Music Theory. Founded in 2014, SMT-V publishes video essays that showcase the latest research in music theory in a dynamic, audiovisual format. The journal features a supportive and collaborative production process, and publishes three to four videos per year. [Read more about SMT-V here.](about)
