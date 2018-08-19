@@ -2,8 +2,12 @@
 
 SMT-V seeks video submissions showcasing original research or demonstrating an original pedagogical approach. The medium of video offers unique opportunities for the communication of theoretical ideas through the integration of images, spoken word, performance, musical scores, recorded audio, and/or animated visualizations. We are particularly interested in topics that will be well served by video presentation and have the potential to engage both specialists within the field and interested viewers outside the music theory community. If you have questions or preliminary ideas for a video-article that you would like to discuss, feel free to contact the [SMT-V Editor](mailto:SMT-V-editor@societymusictheory.org).
 
-### Length 
-Videos should communicate content as concisely and directly as possible, with a maximum length of 15 minutes.
+### Format 
+- The videos should deal with some scholarly aspect of music theory or analysis, geared either towards the music theory professional or towards members of the educated public. Although some videos might deal with topics of music theory pedagogy research, they should not be geared directly towards beginning harmony students.
+- Videos should communicate content as concisely and directly as possible, with a maximum length of 15 minutes.
+- The videos should be self-standing, not adjuncts to a written text.
+- The final screens of the videos could contain a bibliography and acknowledgements.
+- The videos will be published one at a time on a regular basis, with previous videos archived on the website.
 
 ### Review of Submissions
 Submissions will be evaluated in two stages. Authors will first submit a proposal, and then (if the proposal is judged as suitable) a script/storyboard draft that will be sent to peer evaluators for anonymous double-blind review. If the script/storyboard draft is accepted, the author would be invited to produce a video, which would be subject to an open, collaborative review process before being accepted for publication. Send the proposal to the [SMT-V Editor](mailto:SMT-V-editor@societymusictheory.org).
