@@ -1,10 +1,6 @@
 # About
 
-SMT-V is a peer-reviewed publication consisting of videos of short to moderate length to be hosted on—or accessible by links from—the SMT website.
-- The videos should deal with some scholarly aspect of music theory or analysis, geared either towards the music theory professional or towards members of the educated public. Although some videos might deal with topics of music theory pedagogy research, they should not be geared directly towards beginning harmony students.
-- The videos should be self-standing, not adjuncts to a written text.
-- The final screens of the videos could contain a bibliography and acknowledgements.
-- The videos will be published one at a time on a regular basis, with previous videos archived on the website.
+SMT-V is the open-access, peer-reviewed video journal of the Society for Music Theory. Founded in 2014, SMT-V publishes video essays that showcase the latest research in music theory in a dynamic, audiovisual format. The journal features a supportive and collaborative production process, and publishes three to four videos per year.
 
 ### Organization
 
