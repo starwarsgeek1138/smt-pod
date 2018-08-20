@@ -4,7 +4,7 @@ SMT-V is the open-access, peer-reviewed video journal of the Society for Music T
 
 <hr>
 
-### Latest Issue: 4.1 (April 2018)
+## Latest Issue: 4.1 (April 2018)
 
 <div class="intrinsic-container intrinsic-container-16x9">
 <center><iframe src="https://player.vimeo.com/video/252464918" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></center>
@@ -18,5 +18,5 @@ Christopher Doll (Rutgers University)
 
 <hr>
 
-### [Browse previous issues](archive)
+## [Browse previous issues](archive)
 
