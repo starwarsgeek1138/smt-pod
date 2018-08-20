@@ -34,3 +34,8 @@ Videos will be hosted on Vimeo and linked to the SMT-V archive. Please familiari
 
 ## Resources
 As you prepare your submission, you are encouraged to peruse our list of resources pertaining to recording slideshows, video production, and storyboarding, available [here](resources.md).
+
+<p>&nbsp;</p>
+<hr>
+
+<h3><a href="{{ "/" | relative_url }}">Back to home</a></h3>
