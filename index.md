@@ -18,5 +18,5 @@ Christopher Doll (Rutgers University)
 
 <hr>
 
-## [Browse previous issues](archive)
+## [Browse previous issues](archives)
 
