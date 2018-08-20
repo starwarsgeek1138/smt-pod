@@ -72,3 +72,8 @@
   - $4.99
   - Eight brushes, cutouts for quick arranging, image import, text notes
   - works with Android
+
+<p>&nbsp;</p>
+<hr>
+
+<h3><a href="{{ "/" | relative_url }}">Back to home</a></h3>
