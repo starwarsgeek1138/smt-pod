@@ -21,4 +21,4 @@
 <p>&nbsp;</p>
 <hr>
 
-### <a class="site-title" href="{{ "/" | relative_url }}">Back to home]</a>
+<a href="{{ "/" | relative_url }}">Back to home</a>
