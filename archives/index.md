@@ -18,4 +18,7 @@
 - [Peter Schubert, "Contrapuntal Thinking in Haydn"](volume1.md#contrapuntal-thinking-in-haydn)
 - [Elizabeth Hellmuth Margulis, "Repetition and Musicality"](volume1.md#repetition-and-musicality)
 
+<p>&nbsp;</p>
+<hr>
 
+### <a class="site-title" href="{{ "/" | relative_url }}">Back to home]</a>
