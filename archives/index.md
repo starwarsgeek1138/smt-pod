@@ -3,7 +3,7 @@
 
 ### Volume 4 (2018)
 - [Christopher Doll, "Was it Diegetic, or Just a Dream? Music's Paradoxical Place in the Film *Inception*"](volume4.md)
-- [Carmel Raz, "Anne Young’s Musical Games (1801): Music Theory, Gender, and Game Design"](volume4.md#anne-youngs-musical-games)
+- [Carmel Raz, "Anne Young’s Musical Games (1801): Music Theory, Gender, and Game Design"](volume4.md#anne-youngs-musical-games-1801-music-theory-gender-and-game-design)
 
 ### Volume 3 (2017)
 - [Stephen Rodgers, "Music, Poetry, and Performance in a Song by Maria Schneider"](volume3.md#music-poetry-and-performance-in-a-song-by-maria-schneider)
