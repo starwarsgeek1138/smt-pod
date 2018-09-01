@@ -24,6 +24,8 @@ Volume 4.2 (September 2018)
 
 *In 1801, the Scottish music theorist Anne Young (1756-1827) created an elaborate board game set designed to teach musical fundamentals. This video offers some thoughts on the creation and reception of her works, contextualizing their creation and reception within the history of education in late eighteenth century Britain.*
 
+*Keywords: history of music theory, history of music pedagogy, educational games, women in music theory*
+
 <p>&nbsp;</p>
 <hr>
 
