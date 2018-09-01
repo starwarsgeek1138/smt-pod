@@ -16,6 +16,7 @@ Carmel Raz (Max Planck Institute for Empirical Aesthetics)
 
 *In 1801, the Scottish music theorist Anne Young (1756-1827) created an elaborate board game set designed to teach musical fundamentals. This video offers some thoughts on the creation and reception of her works, contextualizing their creation and reception within the history of education in late eighteenth century Britain.*
 
+*Keywords: history of music theory, history of music pedagogy, educational games, women in music theory*
 <hr>
 
 ## [Browse previous issues](archives)
