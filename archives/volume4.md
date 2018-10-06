@@ -33,7 +33,7 @@ Volume 4.2 (September 2018)
 Carmel Raz (Max Planck Institute for Empirical Aesthetics)
 Volume 4.3 (October 2018)
 <div class="intrinsic-container intrinsic-container-16x9">
-<center><iframe src="https://player.vimeo.com/video/278578821" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></center>
+<center><iframe src="https://player.vimeo.com/video/278578821" width="720" height="405" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></center>
 </div>
 <p>&nbsp;</p>
 
