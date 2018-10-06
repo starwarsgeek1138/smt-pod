@@ -4,17 +4,17 @@ SMT-V is the open-access, peer-reviewed video journal of the Society for Music T
 
 <hr>
 
-## Latest Issue: 4.2 (September 2018)
+## Latest Issue: 4.3 (October 2018)
 
 <div class="intrinsic-container intrinsic-container-16x9">
 <center><iframe src="https://player.vimeo.com/video/278344604" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></center>
 </div>
 <p>&nbsp;</p>
 
-## “Anne Young’s Musical Games (1801): Music Theory, Gender, and Game Design”
+### Anne Young’s *Introduction to Music* (1803): Pedagogical, Speculative, and Ludic Music Theory
 Carmel Raz (Max Planck Institute for Empirical Aesthetics)
 
-*In 1801, the Scottish music theorist Anne Young (1756-1827) created an elaborate board game set designed to teach musical fundamentals. This video offers some thoughts on the creation and reception of her works, contextualizing their creation and reception within the history of education in late eighteenth century Britain.*
+*Though ostensibly designed to explain a set of pedagogical games geared toward children, An Introduction to Music (1803)—a treatise by the Scottish music theorist Anne Young (1756-1827)—advances some intriguing ideas that touch on advanced music theoretic concepts. This video explores these concepts, along with impact of the author's gender on the nature and reception of her treatise.*
 
 *Keywords: history of music theory, history of music pedagogy, educational games, women in music theory*
 <hr>
