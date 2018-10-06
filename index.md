@@ -7,9 +7,8 @@ SMT-V is the open-access, peer-reviewed video journal of the Society for Music T
 ## Latest Issue: 4.3 (October 2018)
 
 <div class="intrinsic-container intrinsic-container-16x9">
-<center><iframe src="https://player.vimeo.com/video/278344604" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></center>
-</div>
-<p>&nbsp;</p>
+<center><iframe src="https://player.vimeo.com/video/278578821" width="720" height="405" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></center>
+</div><p>&nbsp;</p>
 
 ### Anne Young’s *Introduction to Music* (1803): Pedagogical, Speculative, and Ludic Music Theory
 Carmel Raz (Max Planck Institute for Empirical Aesthetics)
