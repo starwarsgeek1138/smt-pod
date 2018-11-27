@@ -12,7 +12,7 @@ The _SMT-V_ Editorial Board can help with all the technical details in putting t
 
 Authors who prepare their own videos are also encouraged to peruse this list of resources pertaining to recording slideshows, video production, and storyboarding:
 
-## Video Hosting Details
+### Video Hosting Details
 Videos will be hosted on Vimeo and linked to the SMT-V archive. Please familiarize yourself with Vimeo’s terms and conditions: [http://vimeo.com/terms](http://vimeo.com/terms)
 
 ### Recording Slideshows
