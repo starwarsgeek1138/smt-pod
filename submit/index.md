@@ -1,39 +1,25 @@
 ## SMT-V Submission Guidelines
 
-SMT-V seeks video submissions showcasing original research or demonstrating an original pedagogical approach. The medium of video offers unique opportunities for the communication of theoretical ideas through the integration of images, spoken word, performance, musical scores, recorded audio, and/or animated visualizations. We are particularly interested in topics that will be well served by video presentation and have the potential to engage both specialists within the field and interested viewers outside the music theory community. If you have questions or preliminary ideas for a video-article that you would like to discuss, feel free to contact the [SMT-V Editor](mailto:SMT-V-editor@societymusictheory.org).
+SMT-V seeks video submissions showcasing original research or demonstrating a creative and engaging approach to presenting topics that relate to music theory and analysis. We are particularly interested in topics that will be well-served by video presentation and have the potential to engage both specialists within the field and interested viewers outside the music theory community. The medium of video offers unique opportunities for the communication of theoretical ideas through the integration of images, spoken word, performance, musical scores, recorded audio, and/or animated visualizations. If you have questions or preliminary ideas for a video-article that you would like to discuss, feel free to contact the [SMT-V Editor](mailto:SMT-V-editor@societymusictheory.org).
 
 ### Format 
-- The videos should deal with some scholarly aspect of music theory or analysis, geared either towards the music theory professional or towards members of the educated public. Although some videos might deal with topics of music theory pedagogy research, they should not be geared directly towards beginning harmony students.
-- Videos should communicate content as concisely and directly as possible, with a maximum length of 15 minutes.
+- Videos should communicate content as concisely and directly as possible. They are usually around 10 minutes long. The maximum length for an _SMT-V_ video-article is 15 minutes.
 - The videos should be self-standing, not adjuncts to a written text.
 - The final screens of the videos could contain a bibliography and acknowledgements.
 - The videos will be published one at a time on a regular basis, with previous videos archived on the website.
+- The video-articles undergo double-blind review; each _SMT-V_ publication is a peer-reviewed article.
 
-### Review of Submissions
-Submissions will be evaluated in two stages. Authors will first submit a proposal, and then (if the proposal is judged as suitable) a script/storyboard draft that will be sent to peer evaluators for anonymous double-blind review. If the script/storyboard draft is accepted, the author would be invited to produce a video, which would be subject to an open, collaborative review process before being accepted for publication. Send the proposal to the [SMT-V Editor](mailto:SMT-V-editor@societymusictheory.org).
+### Submissions
+Submissions will be evaluated in three stages. (1) Authors submit a short proposal to the [_SMT-V_ editor](mailto:SMT-V-editor@societymusictheory.org), who will arrange for double-blind review with quick turnaround. (2) If the proposal is judged as suitable, a script/storyboard draft will be sent to peer evaluators for double-blind review. (3) If the script/storyboard draft is accepted, the author is invited to produce a video in collaboration with the editors; the final version would be subject to a final approval by the editors before publication.
 
 ### Stage I: Abstract and Storyboard/Script Draft
-The author’s initial submission should take the form of a PDF that includes an abstract of no more than 500 words, and back matter of no more than 4 additional pages that complements the abstract with notation, images, tables, bibliography, and so forth. This abstract-proposal will be subject to double-blind review, with a quick turnaround. Pending approval of this abstract, the applicant will be invited to provide a storyboard or script, which will again be submitted to the full double-blind review process.
+The author’s initial submission should take the form of a PDF that includes an abstract of no more than 500 words, and back matter of no more than 4 additional pages that complements the abstract with notation, images, tables, bibliography, and so forth. This abstract-proposal will be subject to double-blind review with a quick turnaround. 
 
-### Stage II: Video Submission
-Upon acceptance of your proposal, you will be asked to produce a full video in conjunction with guidance and assessment from selected members of the Editorial Board.
+### Stage II: Storyboard and/or Script Draft
+Pending approval of this abstract, the applicant will be invited to provide a storyboard or script (or both), which will again be submitted to the full double-blind review process. (In special circumstances, authors can also request to send a video draft at this stage instead of a storyboard/script, subject to the approval of the editors; as the _SMT-V_ Editor for details.)
 
-If you are new to producing your own video, here are some suggestions:
-
-- Using a USB microphone will significantly improve the quality of recording. A computer’s built-in microphone often adds distortion and noise.
-- Try to speak in a natural, extemporaneous manner rather than merely reading your script word-for-word.
-- If you choose to include footage of yourself speaking, make eye contact with the camera, and avoid light reflections on your glasses.
-- Stabilize the camera by resting it on a surface or tripod.
-- Each individual shot should be not less than 5 seconds long. Shorter shots create jumpy footage that can be difficult to track.
-- If you collaborate with a musician, dancer, etc. in your video please acknowledge your collaborator in the title of your video and in supporting material.
-
-See our [Resources](resources.md) section for more information on recording slideshows and on video production. In addition, many schools have Media Services departments who can assist you with creating your video.
-
-## Video Hosting
-Videos will be hosted on Vimeo and linked to the SMT-V archive. Please familiarize yourself with Vimeo’s terms and conditions: [http://vimeo.com/terms](http://vimeo.com/terms)
-
-## Resources
-As you prepare your submission, you are encouraged to peruse our list of resources pertaining to recording slideshows, video production, and storyboarding, available [here](resources.md).
+### Stage III: Video Submission
+Upon acceptance of the storyboard/script, authors will be asked to produce a full video in conjunction with guidance and assessment from selected members of the Editorial Board. The Board can help with all the technical details in putting together the video, and it is also possible for SMT to provide funds to allay the costs of filming, recording, etc. Authors are also invited to produce their own videos; if you choose to do so, see our [Resources](resources.md) page for suggestions.
 
 <p>&nbsp;</p>
 <hr>
