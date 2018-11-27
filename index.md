@@ -1,6 +1,6 @@
 # SMT-V: The Society for Music Theory Videocast Journal
 
-SMT-V is the open-access, peer-reviewed video journal of the Society for Music Theory. Founded in 2014, SMT-V publishes video essays that showcase the latest research in music theory in a dynamic, audiovisual format. The journal features a supportive and collaborative production process, and publishes three to four videos per year. [Read more about SMT-V here.](about)
+SMT-V is the open-access, peer-reviewed video journal of the Society for Music Theory. Founded in 2014, SMT-V publishes video essays that showcase research in music theory in a dynamic, audiovisual format, presented so as to have the potential to engage both specialists within the field as well as interested viewers outside the music theory community. The journal features a supportive and collaborative production process, and publishes three to four videos per year. [Read more about SMT-V here.](about)
 
 <hr>
 
