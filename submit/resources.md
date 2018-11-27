@@ -1,5 +1,20 @@
 # Video Production and Storyboarding Resources
 
+The _SMT-V_ Editorial Board can help with all the technical details in putting together the video, and it is also possible for SMT to provide funds to allay the costs of filming, recording, etc. Authors are also invited to produce their own videos; authors who choose to do so are encouraged to consider the following:
+
+- Using a USB microphone will significantly improve the quality of recording. A computer’s built-in microphone often adds distortion and noise.
+- Try to speak in a natural, extemporaneous manner rather than merely reading your script word-for-word.
+- If you choose to include footage of yourself speaking, make eye contact with the camera, and avoid light reflections on your glasses.
+- Stabilize the camera by resting it on a surface or tripod.
+- Each individual shot should be not less than 5 seconds long. Shorter shots create jumpy footage that can be difficult to track.
+- If you collaborate with a musician, dancer, etc. in your video please acknowledge your collaborator in the title of your video and in supporting material.
+- In addition, many schools have Media Services departments who can assist you with creating your video.
+
+Authors who prepare their own videos are also encouraged to peruse this list of resources pertaining to recording slideshows, video production, and storyboarding:
+
+## Video Hosting Details
+Videos will be hosted on Vimeo and linked to the SMT-V archive. Please familiarize yourself with Vimeo’s terms and conditions: [http://vimeo.com/terms](http://vimeo.com/terms)
+
 ### Recording Slideshows
 - [Using Powerpoint](https://support.office.com/en-za/article/Record-your-slide-show-in-PowerPoint-9d136e4a-9717-49ad-876e-77aeca9c17eb)
 - [Using Keynote](https://support.apple.com/kb/PH26006?viewlocale=en_US&locale=en_US)
