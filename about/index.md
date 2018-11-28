@@ -17,14 +17,16 @@ If you have any questions about the process, please feel free to contact the [SM
 **Associate Editor:** Seth Monahan (Eastman School of Music): [SMT-V-associate-editor@societymusictheory.org](SMT-V-associate-editor@societymusictheory.org).
 
 **Members at Large**
-- David Bashwiner, University of New Mexico (2018)
 - Michael Buchler, Florida State University (2020)
 - Jonathan De Souza, University of Western Ontario (2020)
+- Melissa Hoag, Oakland University, (2021)
 - Megan Kaes Long, Oberlin College and Conservatory (2020)
-- Elaine Sisman, Columbia University (2018)
-- Janet Schmalfeldt, Tufts University (2018)
+- Henry Martin, Rutgers University (2021)
+- David Neumeyer, University of Texas (2021)
+- Drew Nobile, University of Oregon (2019)
+- Carmel Raz, Max Planck Institute (2021)
 - Daphne Tan, University of Toronto (2019)
 - Christopher White, University of Massachusetts Amherst (2020)
-- Simon Zagorski-Thomas, University of West London (2018)
+
 
 **Webmaster:** William O'Hara (Gettysburg College): [wohara@gettysburg.edu](mailto:wohara@gettysburg.edu)
