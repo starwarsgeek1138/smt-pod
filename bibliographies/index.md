@@ -17,7 +17,7 @@ This page contains bibliographic information for video essays published by SMT-V
 - [Harald Krebs, "The Influence of Clara Schumann's Lieder on Declamation in Robert Schumann's Late Songs"](2_1_Krebs.pdf)
 
 ### Volume 1 (2015)
-- [Edward Klorman, "Multiple Musical Agency in Mozart's Chamber Music"](volume1.md#multiple-musical-agency-in-mozarts-chamber-music)
+- [Edward Klorman, "Multiple Musical Agency in Mozart's Chamber Music"](1_3_Klorman.pdf)
 - [Peter Schubert, "Contrapuntal Thinking in Haydn"](1_2_Schubert.pdf)
 - [Elizabeth Hellmuth Margulis, "Repetition and Musicality"](volume1.md#repetition-and-musicality)
 
