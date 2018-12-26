@@ -5,6 +5,8 @@ main:
     url: /about/
   - title: "Archives"
     url: /archives/
+  - title: "Bibliographies"
+    url: /bibliographies/
   - title: "Submit"
     url: /submit/
   - title: "SMT Home"
