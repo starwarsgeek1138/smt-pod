@@ -14,11 +14,11 @@ This page contains bibliographic information for video essays published by SMT-V
 
 ### Volume 2 (2016)
 - [Steven Reale, "Variations on a Theme by a Rogue A.I.: Music, Gameplay, and Storytelling in Portal 2"](volume2.md#variations-on-a-theme-by-a-rogue-ai-music-gameplay-and-storytelling-in-portal-2-part-1-of-2)
-- [Harald Krebs, "The Influence of Clara Schumann's Lieder on Declamation in Robert Schumann's Late Songs"](volume2.md#the-influence-of-clara-schumanns-lieder-on-declamation-in-robert-schumanns-late-songs)
+- [Harald Krebs, "The Influence of Clara Schumann's Lieder on Declamation in Robert Schumann's Late Songs"](2_1_Krebs.pdf)
 
 ### Volume 1 (2015)
 - [Edward Klorman, "Multiple Musical Agency in Mozart's Chamber Music"](volume1.md#multiple-musical-agency-in-mozarts-chamber-music)
-- [Peter Schubert, "Contrapuntal Thinking in Haydn"](volume1.md#contrapuntal-thinking-in-haydn)
+- [Peter Schubert, "Contrapuntal Thinking in Haydn"](1_2_Schubert.pdf)
 - [Elizabeth Hellmuth Margulis, "Repetition and Musicality"](volume1.md#repetition-and-musicality)
 
 <p>&nbsp;</p>
