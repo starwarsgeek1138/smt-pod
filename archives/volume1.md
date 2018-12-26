@@ -1,7 +1,7 @@
 ## Volume 1 (2015)
 
-### Multiple Musical Agency in Mozart's Chamber Music
-Edward Klorman (Queens College and The Julliard School)  
+### Multiple Agency in Mozart's Chamber Music
+Edward Klorman (Queens College and The Juilliard School)  
 Volume 1.3 (October 2015)
 
 <div class="intrinsic-container intrinsic-container-16x9">
