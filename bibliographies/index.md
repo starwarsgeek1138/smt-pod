@@ -8,9 +8,9 @@ This page contains bibliographic information for video essays published by SMT-V
 - [Carmel Raz, "Anne Young’s *Introduction to Music* (1803): Pedagogical, Speculative, and Ludic Music Theory"](4_3_Raz.pdf)
 
 ### Volume 3 (2017)
-- [Stephen Rodgers, "Music, Poetry, and Performance in a Song by Maria Schneider"](volume3.md#music-poetry-and-performance-in-a-song-by-maria-schneider)
-- [J. Daniel Jenkins, "Schoenberg’s ‘Advice for Beginners in Composition with Twelve Tones'"](volume3.md#schoenbergs-advice-for-beginners-in-composition-with-twelve-tones)
-- [L. Poundie Burstein with Quynh Nguyen, "Parenthetic Aside in a 1789 Analysis of Mozart’s K. 284"](volume3.md#parenthetic-aside-in-a-1789-analysis-of-mozarts-k-284)
+- [Stephen Rodgers, "Music, Poetry, and Performance in a Song by Maria Schneider"](3_3_Rodgers.pdf)
+- [J. Daniel Jenkins, "Schoenberg’s ‘Advice for Beginners in Composition with Twelve Tones'"](3_2_Jenkins.pdf)
+- [L. Poundie Burstein with Quynh Nguyen, "Parenthetic Aside in a 1789 Analysis of Mozart’s K. 284"](3_1_Burstein_Nguyen.pdf)
 
 ### Volume 2 (2016)
 - [Steven Reale, "Variations on a Theme by a Rogue A.I.: Music, Gameplay, and Storytelling in Portal 2"](volume2.md#variations-on-a-theme-by-a-rogue-ai-music-gameplay-and-storytelling-in-portal-2-part-1-of-2)
