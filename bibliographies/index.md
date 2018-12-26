@@ -1,6 +1,6 @@
 # Bibliographies
 
-This page contains bibliographic information for video essays published by SMT-V.
+This page contains bibliographic information, extensive keyword lists, and acknowledgements. for video essays published by SMT-V. For the videos themselves, please see the [archives](/archives.md)
 
 ### Volume 4 (2018)
 - [Christopher Doll, "Was it Diegetic, or Just a Dream? Music's Paradoxical Place in the Film *Inception*"](4_1_Doll.pdf)
