@@ -19,7 +19,7 @@ This page contains bibliographic information, extensive keyword lists, and ackno
 ### Volume 1 (2015)
 - [Edward Klorman, "Multiple Musical Agency in Mozart's Chamber Music"](1_3_Klorman.pdf)
 - [Peter Schubert, "Contrapuntal Thinking in Haydn"](1_2_Schubert.pdf)
-- [Elizabeth Hellmuth Margulis, "Repetition and Musicality"](1_1_Margulis.pdf")
+- [Elizabeth Hellmuth Margulis, "Repetition and Musicality"](1_1_Margulis.pdf)
 
 <p>&nbsp;</p>
 <hr>
