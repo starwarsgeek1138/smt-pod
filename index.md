@@ -6,6 +6,8 @@ SMT-V is the open-access, peer-reviewed video journal of the Society for Music T
 
 # Latest Issues: 5.1 - 5.3 (March 2019)
 
+*This three-part video essay explores the surprising indeterminacy between pre- compositional structures and composed surfaces in Milton Babbitt’s music, and in doing so identifies significant affiliations with music (such as jazz) that is predominantly improvised. It thereby suggests a different way of understanding and appreciating the nature of Babbitt’s creativity.*
+
 ## Babbitt’s Beguiling Surfaces, Improvised Inside; Part I: Freedoms
 Joshua Banks Mailman
 
