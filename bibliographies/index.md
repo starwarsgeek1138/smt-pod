@@ -2,6 +2,11 @@
 
 This page contains bibliographic information, extensive keyword lists, and acknowledgements for the video essays published by SMT-V. For the videos themselves, please see the [archives](../archives).
 
+### Volume 5 (2019)
+- [Joshua Banks Mailman, "Babbitt’s Beguiling Surfaces, Improvised Inside; Part I: Freedoms"](5_123_Mailman.pdf)
+- [Joshua Banks Mailman, "Babbitt’s Beguiling Surfaces, Improvised Inside; Part II: Diversities"](5_123_Mailman.pdf)
+- [Joshua Banks Mailman, "Babbitt’s Beguiling Surfaces, Improvised Inside; Part III: Opportunities"](5_123_Mailman.pdf)
+
 ### Volume 4 (2018)
 - [Christopher Doll, "Was it Diegetic, or Just a Dream? Music's Paradoxical Place in the Film *Inception*"](4_1_Doll.pdf)
 - [Carmel Raz, "Anne Young’s Musical Games (1801): Music Theory, Gender, and Game Design"](4_2_Raz.pdf)
