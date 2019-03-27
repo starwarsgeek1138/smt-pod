@@ -1,5 +1,9 @@
 # SMT-V Archives
 
+### Volume 5 (2019)
+- [Joshua Banks Mailman, "Babbitt's Beguiling Surfaces, Improvised Inside; Part I: Freedoms"](volume5.md)
+- [Joshua Banks Mailman, "Babbitt's Beguiling Surfaces, Improvised Inside; Part II: Diversities"](volume5.md#babbitts-beguiling-surfaces-improvised-inside-part-ii-diversities)
+- [Joshua Banks Mailman, "Babbitt's Beguiling Surfaces, Improvised Inside; Part III: Opportunities"](volume5.md#babbitts-beguiling-surfaces-improvised-inside-part-iii-opportunities)
 
 ### Volume 4 (2018)
 - [Christopher Doll, "Was it Diegetic, or Just a Dream? Music's Paradoxical Place in the Film *Inception*"](volume4.md)
