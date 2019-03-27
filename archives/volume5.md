@@ -1,6 +1,6 @@
 ## Volume 5 (2019)
 
-## Babbitt’s Beguiling Surfaces, Improvised Inside; Part I: Freedoms
+### Babbitt’s Beguiling Surfaces, Improvised Inside; Part I: Freedoms
 Joshua Banks Mailman
 
 <div class="intrinsic-container intrinsic-container-16x9">
@@ -14,7 +14,7 @@ Joshua Banks Mailman
 <p>&nbsp;</p>
 <hr>
 
-## Babbitt’s Beguiling Surfaces, Improvised Inside; Part II: Diversities
+### Babbitt’s Beguiling Surfaces, Improvised Inside; Part II: Diversities
 Joshua Banks Mailman
 
 <div class="intrinsic-container intrinsic-container-16x9">
@@ -30,7 +30,7 @@ Joshua Banks Mailman
 <p>&nbsp;</p>
 <hr>
 
-## Babbitt’s Beguiling Surfaces, Improvised Inside; Part III: Opportunities
+### Babbitt’s Beguiling Surfaces, Improvised Inside; Part III: Opportunities
 Joshua Banks Mailman
 
 <div class="intrinsic-container intrinsic-container-16x9">
