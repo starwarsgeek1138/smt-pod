@@ -4,7 +4,7 @@
 Joshua Banks Mailman
 
 <div class="intrinsic-container intrinsic-container-16x9">
-<center><iframe src="https://player.vimeo.com/video/319607754?byline=0&portrait=0" width="720" height="405" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></center>
+<center><iframe src="https://player.vimeo.com/video/319607754?title=0&byline=0&portrait=0" width="720" height="405" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></center>
 </div><p>&nbsp;</p>
 
 *Milton Babbitt has been a controversial and iconic figure, which has indirectly led to fallacious assumptions about how his music is made, and therefore to fundamental misconceptions about how it might be heard and appreciated. This video (the first of a three-part video essay) reconsiders his music in light of both his personal traits and a more precise examination of the constraints and freedoms entailed by his unusual and often misunderstood compositional practices, which are based inherently on partial ordering (as well as pitch repetition), which enables a surprising amount of freedom to compose the surface details we hear. The opening of Babbitt’s* Composition for Four Instruments *(1948) and three recompositions (based on re-ordering of pitches) demonstrate the freedoms intrinsic to partial ordering.*
@@ -18,7 +18,7 @@ Joshua Banks Mailman
 Joshua Banks Mailman
 
 <div class="intrinsic-container intrinsic-container-16x9">
-<center><iframe src="https://player.vimeo.com/video/324224224?byline=0&portrait=0" width="720" height="405" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></center>
+<center><iframe src="https://player.vimeo.com/video/324224224?title=0&byline=0&portrait=0" width="720" height="405" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></center>
 </div><p>&nbsp;</p>
 
 
@@ -34,7 +34,7 @@ Joshua Banks Mailman
 Joshua Banks Mailman
 
 <div class="intrinsic-container intrinsic-container-16x9">
-<center><iframe src="https://player.vimeo.com/video/324232755?byline=0&portrait=0" width="720" height="405" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></center>
+<center><iframe src="https://player.vimeo.com/video/324232755?title=0&byline=0&portrait=0" width="720" height="405" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></center>
 </div><p>&nbsp;</p>
 
 *Babbitt’s relatively early composition* Semi-Simple Variations *(1956) presents intriguing surface patterns that are not determined by its pre-compositional plan, but rather result from subsequent “improvised” decisions that are strategic. This video (the third of a three-part video essay) considers Babbitt’s own conversational pronouncements (in radio interviews) together with some particulars of his life-long musical activities, that together suggest uncanny affiliations to jazz improvisation. As a result of Babbitt’s creative reconceptualizing of planning and spontaneity in music, his pre-compositional structures (partial orderings) fit in an unexpected way into (or reformulate) the ecosystem relating music composition to the physical means of its performance.*
