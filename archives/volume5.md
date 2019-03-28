@@ -11,7 +11,7 @@ Joshua Banks Mailman
 
 *Milton Babbitt has been a controversial and iconic figure, which has indirectly led to fallacious assumptions about how his music is made, and therefore to fundamental misconceptions about how it might be heard and appreciated. This video (the first of a three-part video essay) reconsiders his music in light of both his personal traits and a more precise examination of the constraints and freedoms entailed by his unusual and often misunderstood compositional practices, which are based inherently on partial ordering (as well as pitch repetition), which enables a surprising amount of freedom to compose the surface details we hear. The opening of Babbitt’s* Composition for Four Instruments *(1948) and three recompositions (based on re-ordering of pitches) demonstrate the freedoms intrinsic to partial ordering.*
 
-*Keywords: cold war, historiography, improvisation, integral serialism, partial ordering, recomposition, twelve-tone, ludic *
+*Keywords: cold war, historiography, improvisation, integral serialism, partial ordering, recomposition, twelve-tone, ludic*
 
 <p>&nbsp;</p>
 <hr>
