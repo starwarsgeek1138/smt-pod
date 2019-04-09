@@ -1,7 +1,7 @@
 ## Volume 5 (2019)
 
 ### Babbitt’s Beguiling Surfaces, Improvised Inside; Part I: Freedoms
-Joshua Banks Mailman
+Joshua Banks Mailman (Columbia University)
 
 <div class="intrinsic-container intrinsic-container-16x9">
 <center><iframe src="https://player.vimeo.com/video/319607754?title=0&byline=0&portrait=0" width="720" height="405" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></center>
@@ -17,7 +17,7 @@ Joshua Banks Mailman
 <hr>
 
 ### Babbitt’s Beguiling Surfaces, Improvised Inside; Part II: Diversities
-Joshua Banks Mailman
+Joshua Banks Mailman (Columbia University)
 
 <div class="intrinsic-container intrinsic-container-16x9">
 <center><iframe src="https://player.vimeo.com/video/324224224?title=0&byline=0&portrait=0" width="720" height="405" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></center>
@@ -36,7 +36,7 @@ Joshua Banks Mailman
 <hr>
 
 ### Babbitt’s Beguiling Surfaces, Improvised Inside; Part III: Opportunities
-Joshua Banks Mailman
+Joshua Banks Mailman (Columbia University)
 
 <div class="intrinsic-container intrinsic-container-16x9">
 <center><iframe src="https://player.vimeo.com/video/324232755?title=0&byline=0&portrait=0" width="720" height="405" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></center>
