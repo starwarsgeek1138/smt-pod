@@ -21,7 +21,7 @@ Joshua Banks Mailman (Columbia University)
 
 *Keywords: cold war, historiography, improvisation, integral serialism, partial ordering, recomposition, twelve-tone, ludic*
 
-*DOI: (http://doi.org/10.30535/smtv.5.1)
+*DOI: [http://doi.org/10.30535/smtv.5.1](http://doi.org/10.30535/smtv.5.1)*
 
 <p>&nbsp;</p>
 <hr>
