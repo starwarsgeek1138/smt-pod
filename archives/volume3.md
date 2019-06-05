@@ -10,6 +10,7 @@ Volume 3.3 (December 2017)
 <p>&nbsp;</p>
 *In this video I explore the way song composers respond not just to the meanings of words but also to their sounds. Using a song from Maria Schneider’s 2013 song cycle Winter Morning Walks as a case study, I consider how a particular performance of a song and a particular performance of a poem can heighten our awareness of the connections between music and the materiality of poetry.*
 
+*DOI: [http://doi.org/10.30535/smtv.3.3](http://doi.org/10.30535/smtv.3.3)*
 
 
 <p>&nbsp;</p>
@@ -27,6 +28,8 @@ Volume 3.2 (June 2017)
 <p>&nbsp;</p>
 *In 1951, Schoenberg received a letter from composer Humphrey Searle asking Schoenberg to record a lecture for the BBC radio program “Music Magazine.” Schoenberg immediately proposed a subject, “Advice for Beginners in Composition with Twelve-Tones,” and requested to use television rather than radio because his musical examples “were perhaps less easily to realize by the ear than by the eye.” Although Schoenberg wrote a script, he died before he could record it. Only recently has this fascinating document been published, providing keen insights into Schoenberg’s compositional process, and posing interesting questions about the reception of twelve-tone composition after his death.*
 
+*DOI: [http://doi.org/10.30535/smtv.3.2](http://doi.org/10.30535/smtv.3.2)*
+
 
 
 <p>&nbsp;</p>
@@ -43,6 +46,8 @@ Volume 3.1 (Feburary 2017)
 <p>&nbsp;</p>
 
 *In a 1789 treatise, the Darmstadt musician J.G. Portmann presents what amounts to a multi-level harmonic analysis of Mozart’s Sonata for Piano in D, K. 284, I. Portmann’s interpretation of the movement's exposition is in line with concepts expressed by other eighteenth-century theorists, but suggestively differs from standard modern conceptions of the form, especially in its understanding of what nowadays is labeled as the secondary theme.*
+
+*DOI: [http://doi.org/10.30535/smtv.3.1](http://doi.org/10.30535/smtv.3.1)*
 
 <p>&nbsp;</p>
 <hr>
