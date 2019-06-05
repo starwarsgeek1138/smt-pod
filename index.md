@@ -39,7 +39,7 @@ Joshua Banks Mailman (Columbia University)
 
 *Keywords: array, blues, David Lewin, dodecaphony, George Lewis, indeterminacy, partition, permutation, row, visualization*
 
-*DOI: (http://doi.org/10.30535/smtv.5.2)
+*DOI: [http://doi.org/10.30535/smtv.5.2](http://doi.org/10.30535/smtv.5.2)*
 
 <p>&nbsp;</p>
 <hr>
@@ -57,7 +57,7 @@ Joshua Banks Mailman (Columbia University)
 
 *Keywords: Bad Plus, Boulez, contrafact, interval class,  jazz, revisions, voice-leading space, Robert Morris*
 
-*DOI: (http://doi.org/10.30535/smtv.5.3)
+*DOI: [http://doi.org/10.30535/smtv.5.3](http://doi.org/10.30535/smtv.5.3)*
 
 <p>&nbsp;</p>
 <hr>
