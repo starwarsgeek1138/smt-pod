@@ -21,6 +21,8 @@ Joshua Banks Mailman (Columbia University)
 
 *Keywords: cold war, historiography, improvisation, integral serialism, partial ordering, recomposition, twelve-tone, ludic*
 
+*DOI: (http://doi.org/10.30535/smtv.5.1)
+
 <p>&nbsp;</p>
 <hr>
 
@@ -37,6 +39,8 @@ Joshua Banks Mailman (Columbia University)
 
 *Keywords: array, blues, David Lewin, dodecaphony, George Lewis, indeterminacy, partition, permutation, row, visualization*
 
+*DOI: (http://doi.org/10.30535/smtv.5.2)
+
 <p>&nbsp;</p>
 <hr>
 
@@ -52,6 +56,8 @@ Joshua Banks Mailman (Columbia University)
 *Babbitt’s relatively early composition* Semi-Simple Variations *(1956) presents intriguing surface patterns that are not determined by its pre-compositional plan, but rather result from subsequent “improvised” decisions that are strategic. This video (the third of a three-part video essay) considers Babbitt’s own conversational pronouncements (in radio interviews) together with some particulars of his life-long musical activities, that together suggest uncanny affiliations to jazz improvisation. As a result of Babbitt’s creative reconceptualizing of planning and spontaneity in music, his pre-compositional structures (partial orderings) fit in an unexpected way into (or reformulate) the ecosystem relating music composition to the physical means of its performance.*
 
 *Keywords: Bad Plus, Boulez, contrafact, interval class,  jazz, revisions, voice-leading space, Robert Morris*
+
+*DOI: (http://doi.org/10.30535/smtv.5.3)
 
 <p>&nbsp;</p>
 <hr>
