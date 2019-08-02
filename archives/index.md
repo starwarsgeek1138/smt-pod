@@ -1,7 +1,8 @@
 # SMT-V Archives
 
 ### Volume 5 (2019)
-- [Joshua Banks Mailman, "Babbitt's Beguiling Surfaces, Improvised Inside; Part I: Freedoms"](volume5.md)
+- [Scott Murphy, "'Fifth Above, Third Below': Discerning Canonic Potential"](volume5.md)
+- [Joshua Banks Mailman, "Babbitt's Beguiling Surfaces, Improvised Inside; Part I: Freedoms"](volume5.md#babbitts-beguiling-surfaces-improvised-inside-part-i-freedoms)
 - [Joshua Banks Mailman, "Babbitt's Beguiling Surfaces, Improvised Inside; Part II: Diversities"](volume5.md#babbitts-beguiling-surfaces-improvised-inside-part-ii-diversities)
 - [Joshua Banks Mailman, "Babbitt's Beguiling Surfaces, Improvised Inside; Part III: Opportunities"](volume5.md#babbitts-beguiling-surfaces-improvised-inside-part-iii-opportunities)
 
