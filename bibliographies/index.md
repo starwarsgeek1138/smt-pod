@@ -3,6 +3,7 @@
 This page contains bibliographic information, extensive keyword lists, and acknowledgements for the video essays published by SMT-V. For the videos themselves, please see the [archives](../archives).
 
 ### Volume 5 (2019)
+- [Scott Murphy, "'Fifth Above, Third Below': Discerning Canonic Potential"](5_4_Murphy.pdf)
 - [Joshua Banks Mailman, "Babbitt’s Beguiling Surfaces, Improvised Inside; Part I: Freedoms"](5_123_Mailman.pdf)
 - [Joshua Banks Mailman, "Babbitt’s Beguiling Surfaces, Improvised Inside; Part II: Diversities"](5_123_Mailman.pdf)
 - [Joshua Banks Mailman, "Babbitt’s Beguiling Surfaces, Improvised Inside; Part III: Opportunities"](5_123_Mailman.pdf)
