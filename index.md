@@ -20,8 +20,6 @@ This video equips the viewer with a method to do this regarding canonic combinat
 
 *Keywords: canon, stretto, counterpoint, J. S. Bach, Clara Schumann*
 
-*DOI forthcoming*
-
 <p>&nbsp;</p>
 <hr>
 
