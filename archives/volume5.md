@@ -1,38 +1,5 @@
 ## Volume 5 (2019)
 
-### Seeing Stories, Hearing Stories in Narrative Music Video
-Matthew E. Ferrandino (University of Kansas) and Brad Osborn (University of Kansas)
-
-<div class="intrinsic-container intrinsic-container-16x9">
-<center><iframe src="https://player.vimeo.com/video/357096231?title=0&byline=0&portrait=0" width="720" height="405" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></center>
-</div><p>&nbsp;</p>
-
-*[Link to notes](http://www.smt-v.org/bibliographies/5_5_Ferrandino_Osborn.pdf)*
-
-*Music video combines moving images with a preexisting song. The narrative implied by a music video’s visual content can either support or seem at odds with the narrative suggested by the song’s music and lyrics, in ways that have fascinating repercussions. In this video, we explore four different relationships between image and sound and how these interactions influence our interpretation of music video.*
-
-*Keywords: Benny Blanco, Beyoncé, Crash Test Dummies, David Guetta,  music video, narrative, Sia*
-
-<p>&nbsp;</p>
-<hr>
-
-### "Fifth Above, Third Below": Discerning Canonic Potential
-Scott Murphy (University of Kansas)
-
-<div class="intrinsic-container intrinsic-container-16x9">
-<center><iframe src="https://player.vimeo.com/video/351095893?title=0&byline=0&portrait=0" width="720" height="405" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></center>
-</div><p>&nbsp;</p>
-
-*[Link to notes](http://www.smt-v.org/bibliographies/5_4_Murphy.pdf)*
-
-*C.P.E. Bach once testified how his father, J.S. Bach, could anticipate if and how the subject of a fugue might contrapuntally combine with other lines later in the composition.
-This video equips the viewer with a method to do this regarding canonic combinations in particular, using stretto combinations from Clara Schumann’s fugue op. 16, no. 3.*
-
-*Keywords: canon, stretto, counterpoint, J. S. Bach, Clara Schumann*
-
-<p>&nbsp;</p>
-<hr>
-
 ### Babbitt’s Beguiling Surfaces, Improvised Inside; Part I: Freedoms
 Joshua Banks Mailman (Columbia University)
 
@@ -84,6 +51,39 @@ Joshua Banks Mailman (Columbia University)
 *Keywords: Bad Plus, Boulez, contrafact, interval class,  jazz, revisions, voice-leading space, Robert Morris*
 
 *DOI: [http://doi.org/10.30535/smtv.5.3](http://doi.org/10.30535/smtv.5.3)*
+
+<p>&nbsp;</p>
+<hr>
+
+### "Fifth Above, Third Below": Discerning Canonic Potential
+Scott Murphy (University of Kansas)
+
+<div class="intrinsic-container intrinsic-container-16x9">
+<center><iframe src="https://player.vimeo.com/video/351095893?title=0&byline=0&portrait=0" width="720" height="405" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></center>
+</div><p>&nbsp;</p>
+
+*[Link to notes](http://www.smt-v.org/bibliographies/5_4_Murphy.pdf)*
+
+*C.P.E. Bach once testified how his father, J.S. Bach, could anticipate if and how the subject of a fugue might contrapuntally combine with other lines later in the composition.
+This video equips the viewer with a method to do this regarding canonic combinations in particular, using stretto combinations from Clara Schumann’s fugue op. 16, no. 3.*
+
+*Keywords: canon, stretto, counterpoint, J. S. Bach, Clara Schumann*
+
+<p>&nbsp;</p>
+<hr>
+
+### Seeing Stories, Hearing Stories in Narrative Music Video
+Matthew E. Ferrandino (University of Kansas) and Brad Osborn (University of Kansas)
+
+<div class="intrinsic-container intrinsic-container-16x9">
+<center><iframe src="https://player.vimeo.com/video/357096231?title=0&byline=0&portrait=0" width="720" height="405" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></center>
+</div><p>&nbsp;</p>
+
+*[Link to notes](http://www.smt-v.org/bibliographies/5_5_Ferrandino_Osborn.pdf)*
+
+*Music video combines moving images with a preexisting song. The narrative implied by a music video’s visual content can either support or seem at odds with the narrative suggested by the song’s music and lyrics, in ways that have fascinating repercussions. In this video, we explore four different relationships between image and sound and how these interactions influence our interpretation of music video.*
+
+*Keywords: Benny Blanco, Beyoncé, Crash Test Dummies, David Guetta,  music video, narrative, Sia*
 
 <p>&nbsp;</p>
 <hr>
