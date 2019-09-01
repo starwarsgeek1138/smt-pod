@@ -1,10 +1,11 @@
 # SMT-V Archives
 
 ### Volume 5 (2019)
-- [Scott Murphy, "'Fifth Above, Third Below': Discerning Canonic Potential"](volume5.md)
 - [Joshua Banks Mailman, "Babbitt's Beguiling Surfaces, Improvised Inside; Part I: Freedoms"](volume5.md#babbitts-beguiling-surfaces-improvised-inside-part-i-freedoms)
 - [Joshua Banks Mailman, "Babbitt's Beguiling Surfaces, Improvised Inside; Part II: Diversities"](volume5.md#babbitts-beguiling-surfaces-improvised-inside-part-ii-diversities)
 - [Joshua Banks Mailman, "Babbitt's Beguiling Surfaces, Improvised Inside; Part III: Opportunities"](volume5.md#babbitts-beguiling-surfaces-improvised-inside-part-iii-opportunities)
+- [Scott Murphy, "'Fifth Above, Third Below': Discerning Canonic Potential"](volume5.md#fifth-above-third-below-discerning-canonic-potential)
+- [Matthew E. Ferrandino and Brad Osborn, "Seeing Stories, Hearing Stories in Narrative Music Video"](volume5.md#seeing-stories-hearing-stories-in-narrative-music-video)
 
 ### Volume 4 (2018)
 - [Carmel Raz, "Anne Young’s *Introduction to Music* (1803): Pedagogical, Speculative, and Ludic Music Theory"](volume4.md#anne-youngs-introduction-to-music-1803-pedagogical-speculative-and-ludic-music-theory)
