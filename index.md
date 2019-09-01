@@ -4,21 +4,20 @@ SMT-V is the open-access, peer-reviewed video journal of the Society for Music T
 
 <hr>
 
-# Latest Issue: 5.4 (August 2019)
+# Latest Issue: 5.5 (September 2019)
 
-## "Fifth Above, Third Below": Discerning Canonic Potential
-Scott Murphy (University of Kansas)
+## Seeing Stories, Hearing Stories in Narrative Music Video
+Matthew E. Ferrandino (University of Kansas) and Brad Osborn (University of Kansas)
 
 <div class="intrinsic-container intrinsic-container-16x9">
 <center><iframe src="https://player.vimeo.com/video/351095893?title=0&byline=0&portrait=0" width="720" height="405" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></center>
 </div><p>&nbsp;</p>
 
-*[Link to notes](http://www.smt-v.org/bibliographies/5_4_Murphy.pdf)*
+*[Link to notes](http://www.smt-v.org/bibliographies/5_5_Ferrandino_Osborn.pdf)*
 
-*C.P.E. Bach once testified how his father, J.S. Bach, could anticipate if and how the subject of a fugue might contrapuntally combine with other lines later in the composition.
-This video equips the viewer with a method to do this regarding canonic combinations in particular, using stretto combinations from Clara Schumann’s fugue op. 16, no. 3.*
+*Music video combines moving images with a preexisting song. The narrative implied by a music video’s visual content can either support or seem at odds with the narrative suggested by the song’s music and lyrics, in ways that have fascinating repercussions. In this video, we explore four different relationships between image and sound and how these interactions influence our interpretation of music video.*
 
-*Keywords: canon, stretto, counterpoint, J. S. Bach, Clara Schumann*
+*Keywords: Benny Blanco, Beyoncé, Crash Test Dummies, David Guetta,  music video, narrative, Sia*
 
 <p>&nbsp;</p>
 <hr>
