@@ -3,10 +3,11 @@
 This page contains bibliographic information, extensive keyword lists, and acknowledgements for the video essays published by SMT-V. For the videos themselves, please see the [archives](../archives).
 
 ### Volume 5 (2019)
-- [Scott Murphy, "'Fifth Above, Third Below': Discerning Canonic Potential"](5_4_Murphy.pdf)
 - [Joshua Banks Mailman, "Babbitt’s Beguiling Surfaces, Improvised Inside; Part I: Freedoms"](5_123_Mailman.pdf)
 - [Joshua Banks Mailman, "Babbitt’s Beguiling Surfaces, Improvised Inside; Part II: Diversities"](5_123_Mailman.pdf)
 - [Joshua Banks Mailman, "Babbitt’s Beguiling Surfaces, Improvised Inside; Part III: Opportunities"](5_123_Mailman.pdf)
+- [Scott Murphy, "'Fifth Above, Third Below': Discerning Canonic Potential"](5_4_Murphy.pdf)
+- [Matthew E. Ferrandino and Brad Osborn, "Seeing Stories, Hearing Stories in Narrative Music Video"](5_5_Ferrandino_Osborn.pdf)
 
 ### Volume 4 (2018)
 - [Christopher Doll, "Was it Diegetic, or Just a Dream? Music's Paradoxical Place in the Film *Inception*"](4_1_Doll.pdf)
