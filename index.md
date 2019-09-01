@@ -10,7 +10,7 @@ SMT-V is the open-access, peer-reviewed video journal of the Society for Music T
 Matthew E. Ferrandino (University of Kansas) and Brad Osborn (University of Kansas)
 
 <div class="intrinsic-container intrinsic-container-16x9">
-<center><iframe src="https://player.vimeo.com/video/351095893?title=0&byline=0&portrait=0" width="720" height="405" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></center>
+<center><iframe src="https://player.vimeo.com/video/357096231?title=0&byline=0&portrait=0" width="720" height="405" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></center>
 </div><p>&nbsp;</p>
 
 *[Link to notes](http://www.smt-v.org/bibliographies/5_5_Ferrandino_Osborn.pdf)*
