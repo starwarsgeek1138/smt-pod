@@ -19,6 +19,8 @@ Matthew E. Ferrandino (University of Kansas) and Brad Osborn (University of Kans
 
 *Keywords: Benny Blanco, Beyoncé, Crash Test Dummies, David Guetta,  music video, narrative, Sia*
 
+*DOI: [http://doi.org/10.30535/smtv.5.5](http://doi.org/10.30535/smtv.5.5)*
+
 <p>&nbsp;</p>
 <hr>
 
