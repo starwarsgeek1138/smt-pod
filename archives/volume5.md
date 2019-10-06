@@ -69,6 +69,8 @@ This video equips the viewer with a method to do this regarding canonic combinat
 
 *Keywords: canon, stretto, counterpoint, J. S. Bach, Clara Schumann*
 
+*DOI: [http://doi.org/10.30535/smtv.5.4](http://doi.org/10.30535/smtv.5.4)*
+
 <p>&nbsp;</p>
 <hr>
 
@@ -84,6 +86,8 @@ Matthew E. Ferrandino (University of Kansas) and Brad Osborn (University of Kans
 *Music video combines moving images with a preexisting song. The narrative implied by a music video’s visual content can either support or seem at odds with the narrative suggested by the song’s music and lyrics, in ways that have fascinating repercussions. In this video, we explore four different relationships between image and sound and how these interactions influence our interpretation of music video.*
 
 *Keywords: Benny Blanco, Beyoncé, Crash Test Dummies, David Guetta,  music video, narrative, Sia*
+
+*DOI: [http://doi.org/10.30535/smtv.5.5](http://doi.org/10.30535/smtv.5.5)*
 
 <p>&nbsp;</p>
 <hr>
