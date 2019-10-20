@@ -1,6 +1,6 @@
 # About
 
-SMT-V is the open-access, peer-reviewed video journal of the Society for Music Theory. Founded in 2014, SMT-V publishes video essays that showcase research in music theory in a dynamic, audiovisual format, presented so as to have the potential to engage both specialists within the field as well as interested viewers outside the music theory community. The journal features a supportive and collaborative production process, and publishes three to four videos per year.
+_SMT-V_ is the open-access, peer-reviewed video journal of the Society for Music Theory. Founded in 2014, _SMT-V_ publishes video essays that showcase research in music theory in a dynamic, audiovisual format, presented so as to have the potential to engage both specialists within the field as well as interested viewers outside the music theory community. The journal features a supportive and collaborative production process, and publishes three to four videos per year.
 
 ### Organization
 
@@ -14,7 +14,7 @@ If you have any questions about the process, please feel free to contact the [SM
 
 **Editor:** Poundie Burstein (Hunter College and the Graduate Center, CUNY): [SMT-V-editor@societymusictheory.org](mailto:SMT-V-editor@societymusictheory.org).
 
-**Associate Editor:** Seth Monahan (Eastman School of Music): [SMT-V-associate-editor@societymusictheory.org](SMT-V-associate-editor@societymusictheory.org).
+**Associate Editor:** Seth Monahan (Yale School of Music): [SMT-V-associate-editor@societymusictheory.org](SMT-V-associate-editor@societymusictheory.org).
 
 **Members at Large**
 - Michael Buchler, Florida State University (2020)
