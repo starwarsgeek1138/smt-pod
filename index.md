@@ -1,6 +1,6 @@
 # SMT-V: The Society for Music Theory Videocast Journal
 
-SMT-V is the open-access, peer-reviewed video journal of the Society for Music Theory. Founded in 2014, SMT-V publishes video essays that showcase research in music theory in a dynamic, audiovisual format, presented so as to have the potential to engage both specialists within the field as well as interested viewers outside the music theory community. The journal features a supportive and collaborative production process, and publishes three to four videos per year. [Read more about SMT-V here.](about)
+_SMT-V_ is the open-access, peer-reviewed video journal of the Society for Music Theory. Founded in 2014, _SMT-V_ publishes video essays that showcase research in music theory in a dynamic, audiovisual format, presented so as to have the potential to engage both specialists within the field as well as interested viewers outside the music theory community. The journal features a supportive and collaborative production process, and publishes three to four videos per year. [Read more about _SMT-V_ here.](about)
 
 <hr>
 
@@ -20,6 +20,9 @@ Matthew E. Ferrandino (University of Kansas) and Brad Osborn (University of Kans
 *Keywords: Benny Blanco, Beyoncé, Crash Test Dummies, David Guetta,  music video, narrative, Sia*
 
 *DOI: [http://doi.org/10.30535/smtv.5.5](http://doi.org/10.30535/smtv.5.5)*
+
+Suggested citation:
+Ferrandino, Matthew R., and Brad Osborn. 2019. "Seeing Stories, Hearing Stories in Narrative Music Video." _SMT-V_ 5/5. [http://doi.org/10.30535/smtv.5.5](http://doi.org/10.30535/smtv.5.5). 
 
 <p>&nbsp;</p>
 <hr>
