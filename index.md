@@ -22,6 +22,7 @@ Matthew E. Ferrandino (University of Kansas) and Brad Osborn (University of Kans
 *DOI: [http://doi.org/10.30535/smtv.5.5](http://doi.org/10.30535/smtv.5.5)*
 
 Suggested citation:
+
 Ferrandino, Matthew R., and Brad Osborn. 2019. "Seeing Stories, Hearing Stories in Narrative Music Video." _SMT-V_ 5/5. [http://doi.org/10.30535/smtv.5.5](http://doi.org/10.30535/smtv.5.5). 
 
 <p>&nbsp;</p>
