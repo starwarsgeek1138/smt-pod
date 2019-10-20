@@ -41,6 +41,10 @@ Volume 2.1 (February 2016)
 
 *DOI: [http://doi.org/10.30535/smtv.2.1](http://doi.org/10.30535/smtv.2.1)*
 
+Suggested citation:
+
+Krebs, Harald. 2016. "The Influence of Clara Schumann's Lieder on Declamation in Robert Schumann's Late Songs." _SMT-V_ 2/1. [http://doi.org/10.30535/smtv.2.1](http://doi.org/10.30535/smtv.2.1).
+
 <p>&nbsp;</p>
 <hr>
 
