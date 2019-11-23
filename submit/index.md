@@ -1,6 +1,6 @@
 ## _SMT-V_ Submission Guidelines
 
-_SMT-V_ seeks video submissions showcasing original research or demonstrating a creative and engaging approach to presenting topics that relate to music theory and analysis. We are particularly interested in topics that will be well-served by video presentation and have the potential to engage both specialists within the field and interested viewers outside the music theory community. The medium of video offers unique opportunities for the communication of theoretical ideas through the integration of images, spoken word, performance, musical scores, recorded audio, and/or animated visualizations. If you have questions or preliminary ideas for a video-article that you would like to discuss, feel free to contact the [SMT-V Editor](mailto:SMT-V-editor@societymusictheory.org).
+_SMT-V_ seeks video submissions showcasing original research or demonstrating a creative and engaging approach to presenting topics that relate to music theory and analysis. We are particularly interested in topics that will be well-served by video presentation and have the potential to engage both specialists within the field and interested viewers outside the music theory community. The medium of video offers unique opportunities for the communication of theoretical ideas through the integration of images, spoken word, performance, musical scores, recorded audio, and/or animated visualizations. The general criteria we use to vet submissions may be found [here](criteria.pdf). If you have questions or preliminary ideas for a video-article that you would like to discuss, feel free to contact the [SMT-V Editor](mailto:SMT-V-editor@societymusictheory.org).
 
 ### Format 
 - Videos should communicate content as concisely and directly as possible. They are usually around 10 minutes long. The maximum length for an _SMT-V_ video-article is 15 minutes.
@@ -8,6 +8,7 @@ _SMT-V_ seeks video submissions showcasing original research or demonstrating a 
 - The final screens of the videos could contain a bibliography and acknowledgements.
 - The videos will be published one at a time on a regular basis, with previous videos archived on the website.
 - The video-articles undergo double-blind review; each _SMT-V_ publication is a peer-reviewed article.
+- As of 2020, _SMT-V_ no longer accepts multi-part videos (though separate videos on related subjects are still welcome).
 
 ### Submissions
 Submissions will be evaluated in three stages. (1) Authors submit a short proposal to the [_SMT-V_ editor](mailto:SMT-V-editor@societymusictheory.org), who will arrange for double-blind review with quick turnaround. (2) If the proposal is judged as suitable, a script/storyboard draft will be sent to peer evaluators for double-blind review. (3) If the script/storyboard draft is accepted, the author is invited to produce a video in collaboration with the editors; the final version would be subject to a final approval by the editors before publication.
