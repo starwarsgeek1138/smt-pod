@@ -24,11 +24,11 @@ If you have any questions about the process, please feel free to contact the [_S
 - Melissa Hoag, Oakland University, (2021)
 - Megan Kaes Long, Oberlin College and Conservatory (2020)
 - Henry Martin, Rutgers University (2021)
-- David Neumeyer, University of Texas (2021)
-- Drew Nobile, University of Oregon (2019)
+- David Neumeyer, University of Texas-Austin (2021)
+- Jeremy Day-O'Connell, Skidmore College (2022)
 - Carmel Raz, Max Planck Institute (2021)
-- Daphne Tan, University of Toronto (2019)
+- John Turci-Escobar, University of Texas-Austin (2022)
 - Christopher White, University of Massachusetts Amherst (2020)
-
+- Kara Yoo Leaman, Oberlin College and Conservatory (2022)
 
 **Webmaster:** William O'Hara (Gettysburg College): [wohara@gettysburg.edu](mailto:wohara@gettysburg.edu)
