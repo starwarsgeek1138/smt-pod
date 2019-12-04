@@ -22,7 +22,8 @@
 
 ### Volume 2 (2016)
 - [Harald Krebs, "The Influence of Clara Schumann's Lieder on Declamation in Robert Schumann's Late Songs"](volume2.md#the-influence-of-clara-schumanns-lieder-on-declamation-in-robert-schumanns-late-songs)
-- [Steven Reale, "Variations on a Theme by a Rogue A.I.: Music, Gameplay, and Storytelling in Portal 2"](volume2.md#variations-on-a-theme-by-a-rogue-ai-music-gameplay-and-storytelling-in-portal-2-part-1-of-2)
+- [Steven Reale, "Variations on a Theme by a Rogue A.I.: Music, Gameplay, and Storytelling in Portal 2" (Part 1)](volume2.md#variations-on-a-theme-by-a-rogue-ai-music-gameplay-and-storytelling-in-portal-2-part-1-of-2)
+- [Steven Reale, "Variations on a Theme by a Rogue A.I.: Music, Gameplay, and Storytelling in Portal 2" (Part 2)](volume2.md#variations-on-a-theme-by-a-rogue-ai-music-gameplay-and-storytelling-in-portal-2-part-2-of-2)
 
 
 ### Volume 1 (2015)
