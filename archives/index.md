@@ -1,5 +1,9 @@
 # SMT-V Archives
 
+### Volume 6 (2020)
+- [Cecilia Oinas, "Sensitivity, Intimacy, and Bodily Interaction in Kurtág’s Four-Handed Piano Works"](volume6.md#sensitivity- intimacy-and-bodily-interaction-in-kurtágs-four-handed-piano-works)
+
+
 ### Volume 5 (2019)
 - [Joshua Banks Mailman, "Babbitt's Beguiling Surfaces, Improvised Inside; Part I: Freedoms"](volume5.md#babbitts-beguiling-surfaces-improvised-inside-part-i-freedoms)
 - [Joshua Banks Mailman, "Babbitt's Beguiling Surfaces, Improvised Inside; Part II: Diversities"](volume5.md#babbitts-beguiling-surfaces-improvised-inside-part-ii-diversities)
