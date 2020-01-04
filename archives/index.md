@@ -1,7 +1,7 @@
 # SMT-V Archives
 
 ### Volume 6 (2020)
-- [Cecilia Oinas, "Sensitivity, Intimacy, and Bodily Interaction in Kurtág’s Four-Handed Piano Works"](volume6.md#sensitivity- intimacy-and-bodily-interaction-in-kurtágs-four-handed-piano-works)
+- [Cecilia Oinas, "Sensitivity, Intimacy, and Bodily Interaction in Kurtág’s Four-Handed Piano Works"](volume6.md#sensitivity-intimacy-and-bodily-interaction-in-kurtágs-four-handed-piano-works)
 
 
 ### Volume 5 (2019)
