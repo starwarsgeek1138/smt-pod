@@ -4,26 +4,23 @@ _SMT-V_ is the open-access, peer-reviewed video journal of the Society for Music
 
 <hr>
 
-# Latest Issue: 5.5 (September 2019)
+# Latest Issue: 6.1 (January 2020)
 
-## Seeing Stories, Hearing Stories in Narrative Music Video
-Matthew E. Ferrandino (University of Kansas) and Brad Osborn (University of Kansas)
+## Sensitivity, Intimacy, and Bodily Interaction in Kurtág’s Four-Handed Piano Works
+Cecilia Oinas (Sibelius Academy)
 
 <div class="intrinsic-container intrinsic-container-16x9">
-<center><iframe src="https://player.vimeo.com/video/357096231?title=0&byline=0&portrait=0" width="720" height="405" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></center>
+<center><iframe src="https://player.vimeo.com/video/357104045?title=0&byline=0&portrait=0" width="720" height="405" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></center>
 </div><p>&nbsp;</p>
 
-*[Link to notes](http://www.smt-v.org/bibliographies/5_5_Ferrandino_Osborn.pdf)*
+*[Link to notes](http://www.smt-v.org/bibliographies/6_1_Oinas.pdf)*
 
-*Music video combines moving images with a preexisting song. The narrative implied by a music video’s visual content can either support or seem at odds with the narrative suggested by the song’s music and lyrics, in ways that have fascinating repercussions. In this video, we explore four different relationships between image and sound and how these interactions influence our interpretation of music video.*
+*György Kurtág’s four-handed piano works often demonstrate a highly unorthodox distribution of the primo and second parts in which the embodied, physical interactions between the two pianists play a central role in the composition. A sense of the variety of ways in which this interaction can be realized may be witnessed in two movement’s from Kurtág’s Games (Játékok) VII: “Flowers we are . . .” (Virág az ember...”) and “Beating Quarreling” (“ Verés - veszekedés”).*
 
-*Keywords: Benny Blanco, Beyoncé, Crash Test Dummies, David Guetta,  music video, narrative, Sia*
+*Piano Duos: (1) György Kurtág (1926– ) and Márta Kurtág (1927–2019); (2) Maija Parko and Cecilia Oinas. Permission to use Kurtág’s compositions in this article generously granted by © Universal Music Publishing Editio Musica Budapest.*
+ 
+*Keywords: Kurtág, four-hand piano music, post-war music, musical embodiment.*
 
-*DOI: [http://doi.org/10.30535/smtv.5.5](http://doi.org/10.30535/smtv.5.5)*
-
-Suggested citation:
-
-Ferrandino, Matthew R., and Brad Osborn. 2019. "Seeing Stories, Hearing Stories in Narrative Music Video." _SMT-V_ 5/5. [http://doi.org/10.30535/smtv.5.5](http://doi.org/10.30535/smtv.5.5). 
 
 <p>&nbsp;</p>
 <hr>
