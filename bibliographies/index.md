@@ -2,6 +2,9 @@
 
 This page contains bibliographic information, extensive keyword lists, and acknowledgements for the video essays published by _SMT-V_. For the videos themselves, please see the [archives](../archives).
 
+### Volume 6 (2020)
+- [Cecilia Oinas, "Sensitivity, Intimacy, and Bodily Interaction in Kurtág’s Four-Handed Piano Works"](6_1_Oinas.pdf)
+
 ### Volume 5 (2019)
 - [Joshua Banks Mailman, "Babbitt’s Beguiling Surfaces, Improvised Inside; Part I: Freedoms"](5_123_Mailman.pdf)
 - [Joshua Banks Mailman, "Babbitt’s Beguiling Surfaces, Improvised Inside; Part II: Diversities"](5_123_Mailman.pdf)
