@@ -21,6 +21,7 @@ Cecilia Oinas (Sibelius Academy)
  
 *Keywords: Kurtág, four-hand piano music, post-war music, musical embodiment.*
 
+*DOI: [http://doi.org/10.30535/smtv.6.1](http://doi.org/10.30535/smtv.6.1)*
 
 <p>&nbsp;</p>
 <hr>
