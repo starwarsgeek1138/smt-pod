@@ -1,6 +1,9 @@
 # SMT-V Archives
 
 ### Volume 6 (2020)
+<!---
+- [Brian Edward Jarvis and John Peterson, "Detour or Bridge? Contrasting Sections and Storytelling in Musical Theater"](volume6.md#detour-or-bridge-contrasting-sections-and-storytelling-in-musical-theater)
+--->
 - [Cecilia Oinas, "Sensitivity, Intimacy, and Bodily Interaction in Kurtág’s Four-Handed Piano Works"](volume6.md#sensitivity-intimacy-and-bodily-interaction-in-kurtágs-four-handed-piano-works)
 
 
