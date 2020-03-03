@@ -31,4 +31,4 @@ If you have any questions about the process, please feel free to contact the [_S
 - John Turci-Escobar, University of Texas-Austin (2022)
 - Christopher White, University of Massachusetts Amherst (2020)
 
-**Webmaster:** William O'Hara (Gettysburg College): [wohara@gettysburg.edu](mailto:wohara@gettysburg.edu)
+**Webmaster:** William O'Hara (Gettysburg College): [williamevanohara@gmail.com](mailto:williamevanohara@gmail.com)
