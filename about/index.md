@@ -8,7 +8,7 @@ _SMT-V_'s ISSN is 2689-5471.
 
 _SMT-V_ is overseen by an Editor who organizes the vetting of the videos, along with an Associate Editor who aids with the technical details. Members of the editorial board help to vet submitted videos. 
 
-Those wishing to publish a video on _SMT-V_ should first submit a written proposal summarizing the proposed project. If the proposed project is deemed appropriate, the author will be invited to submit a draft of a storyboard or script. Upon acceptance of the script, the author will be invited to produce a full video in conjunction with guidance and assessment from selected members of the Editorial Board. Details regarding the submission process are found at [https://societymusictheory.org/smt-v/submission_guidelines](https://societymusictheory.org/smt-v/submission_guidelines).
+Those wishing to publish a video on _SMT-V_ should first submit a written proposal summarizing the proposed project. If the proposed project is deemed appropriate, the author will be invited to submit a draft of a storyboard or script. Upon acceptance of the script, the author will be invited to produce a full video in conjunction with guidance and assessment from selected members of the Editorial Board. Details regarding the submission process are found [https://smt-v.org/submit](here).
 
 If you have any questions about the process, please feel free to contact the [_SMT-V_ Editor](mailto:SMT-V-editor@societymusictheory.org).
 
