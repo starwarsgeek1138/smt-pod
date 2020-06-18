@@ -1,21 +1,20 @@
 ## Volume 3 (2017)
 
-### Music, Poetry, and Performance in a Song by Maria Schneider
-Stephen Rodgers (University of Oregon)  
-Volume 3.3 (December 2017)
+### Parenthetic Aside in a 1789 Analysis of Mozart’s K. 284
+L. Poundie Burstein with Quynh Nguyen (Hunter College and the Graduate Center, CUNY)  
+Volume 3.1 (Feburary 2017)
 
 <div class="intrinsic-container intrinsic-container-16x9">
-<center><iframe src="https://player.vimeo.com/video/247401988" width="720" height="405" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></center>
+<center><iframe src="https://player.vimeo.com/video/204630884" width="720" height="405" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></center>
 </div>
 <p>&nbsp;</p>
-*In this video I explore the way song composers respond not just to the meanings of words but also to their sounds. Using a song from Maria Schneider’s 2013 song cycle Winter Morning Walks as a case study, I consider how a particular performance of a song and a particular performance of a poem can heighten our awareness of the connections between music and the materiality of poetry.*
 
-*DOI: [http://doi.org/10.30535/smtv.3.3](http://doi.org/10.30535/smtv.3.3)*
+*In a 1789 treatise, the Darmstadt musician J.G. Portmann presents what amounts to a multi-level harmonic analysis of Mozart’s Sonata for Piano in D, K. 284, I. Portmann’s interpretation of the movement's exposition is in line with concepts expressed by other eighteenth-century theorists, but suggestively differs from standard modern conceptions of the form, especially in its understanding of what nowadays is labeled as the secondary theme.*
 
+*DOI: [http://doi.org/10.30535/smtv.3.1](http://doi.org/10.30535/smtv.3.1)*
 
 <p>&nbsp;</p>
 <hr>
-
 
 ### Schoenberg’s ‘Advice for Beginners in Composition with Twelve Tones'
 J. Daniel Jenkins (University of South Carolina)  
@@ -30,24 +29,21 @@ Volume 3.2 (June 2017)
 
 *DOI: [http://doi.org/10.30535/smtv.3.2](http://doi.org/10.30535/smtv.3.2)*
 
-
-
 <p>&nbsp;</p>
 <hr>
 
-
-### Parenthetic Aside in a 1789 Analysis of Mozart’s K. 284
-L. Poundie Burstein with Quynh Nguyen (Hunter College and the Graduate Center, CUNY)  
-Volume 3.1 (Feburary 2017)
+### Music, Poetry, and Performance in a Song by Maria Schneider
+Stephen Rodgers (University of Oregon)  
+Volume 3.3 (December 2017)
 
 <div class="intrinsic-container intrinsic-container-16x9">
-<center><iframe src="https://player.vimeo.com/video/204630884" width="720" height="405" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></center>
+<center><iframe src="https://player.vimeo.com/video/247401988" width="720" height="405" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></center>
 </div>
 <p>&nbsp;</p>
+*In this video I explore the way song composers respond not just to the meanings of words but also to their sounds. Using a song from Maria Schneider’s 2013 song cycle Winter Morning Walks as a case study, I consider how a particular performance of a song and a particular performance of a poem can heighten our awareness of the connections between music and the materiality of poetry.*
 
-*In a 1789 treatise, the Darmstadt musician J.G. Portmann presents what amounts to a multi-level harmonic analysis of Mozart’s Sonata for Piano in D, K. 284, I. Portmann’s interpretation of the movement's exposition is in line with concepts expressed by other eighteenth-century theorists, but suggestively differs from standard modern conceptions of the form, especially in its understanding of what nowadays is labeled as the secondary theme.*
+*DOI: [http://doi.org/10.30535/smtv.3.3](http://doi.org/10.30535/smtv.3.3)*
 
-*DOI: [http://doi.org/10.30535/smtv.3.1](http://doi.org/10.30535/smtv.3.1)*
 
 <p>&nbsp;</p>
 <hr>
