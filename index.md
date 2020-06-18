@@ -17,7 +17,7 @@ Daniel Ketter (Missouri State University)
 
 *This video-article presents the concept of "essential voices" in Bach's solo instrumental works, which explains how notes can be connected together or implied so as to form continuous musical voices that support the solo part. The contrapuntal lines that essential voices highlight are often repeated in transformed ways within movements to relate different thematic rotations and heighten the musical drama. The video concludes with an analysis and performance of the intriguing Sarabande from J.S. Bach's Cello Suite No. 5 in C Minor, BWV 1011, accompanied by a four-part setting of essential voices for cello ensemble.*
 
-*Keywords: cello, violoncello, solo cello, solo violoncello, Johann Sebastian Bach, Bach suite, cello suite, analysis, sarabande, C minor suite, Suite No. 5, BWV 1011, BWV 1007, G major suite, Suite no. 1, Prelude, polyphony, polyphonic, essential voice, Heinrich Schenker, Schenkerian analysis, voice leading, performance guide, violin, solo violin, sonata, partita, viola, solo viola, bass, contrabass, solo bass, cello ensemble, cello suite arrangements, cello pedagogy, violin pedagogy, performance and analysis, Baroque, thoroughbass, imaginary continuo, Friederich Wilhelm Stade, Robert Schumann, Johannes Brahms, C. P. E. Bach, rotation, parallel section, heightened activity, “There are many things in music which, not fully heard, must be imagined”*
+*Keywords: Bach, cello suites, essential voices*
 
 <!---*DOI: [http://doi.org/10.30535/smtv.6.3](http://doi.org/10.30535/smtv.6.3)*--->
 <p>&nbsp;</p>
