@@ -15,6 +15,9 @@ Daniel Ketter (Missouri State University)
 
 <!---*DOI: [http://doi.org/10.30535/smtv.6.3](http://doi.org/10.30535/smtv.6.3)*--->
 
+<p>&nbsp;</p>
+<hr>
+
 ## Detour or Bridge? Contrasting Sections and Storytelling in Musical Theater
 Brian Edward Jarvis (University of Texas at El Paso) and John Peterson (James Madison University)
 
