@@ -5,6 +5,7 @@ This page contains bibliographic information, extensive keyword lists, and ackno
 ### Volume 6 (2020)
 - [Cecilia Oinas, "Sensitivity, Intimacy, and Bodily Interaction in Kurtág’s Four-Handed Piano Works"](6_1_Oinas.pdf)
 - [Brian Edward Jarvis and John Peterson, "Detour or Bridge? Contrasting Sections and Storytelling in Musical Theater"](6_2_JarvisPeterson.pdf)
+- [Daniel Ketter, "Discovering Essential Voices in Johann Sebastian Bach's Solo Instrumental Suite Movements"](6_3_Ketter.pdf)
 
 ### Volume 5 (2019)
 - [Joshua Banks Mailman, "Babbitt’s Beguiling Surfaces, Improvised Inside; Part I: Freedoms"](5_123_Mailman.pdf)
