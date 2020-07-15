@@ -19,7 +19,7 @@ Daniel Ketter (Missouri State University)
 
 *Keywords: Bach, cello suites, essential voices*
 
-<!---*DOI: [http://doi.org/10.30535/smtv.6.3](http://doi.org/10.30535/smtv.6.3)*--->
+DOI: [http://doi.org/10.30535/smtv.6.3](http://doi.org/10.30535/smtv.6.3)
 <p>&nbsp;</p>
 <hr>
 
