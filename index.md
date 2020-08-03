@@ -19,7 +19,7 @@ Alyssa Barna (University of Minnesota)
 
 *Keywords: Dance, Popular Music, Top-40, Electronic Dance Music*
 
-<!--DOI: [http://doi.org/10.30535/smtv.6.4](http://doi.org/10.30535/smtv.6.4)-->
+DOI: [http://doi.org/10.30535/smtv.6.4](http://doi.org/10.30535/smtv.6.4)
 <p>&nbsp;</p>
 <hr>
 
