@@ -6,8 +6,8 @@ _SMT-V_ is the open-access, peer-reviewed video journal of the Society for Music
 
 # Latest Issue: 6.5 (August 2020)
 
-## The Dance Chorus in Recent Top-40 Music
-Alyssa Barna (University of Minnesota)
+## Melodic Language & Linguistic Melodies:  Text Setting in Ìgbò
+Aaron Carter-Ényì (Morehouse College) & Quintina Carter-Ényì (University of Georgia)
 
 <div class="intrinsic-container intrinsic-container-16x9">
 <center><iframe src="https://player.vimeo.com/video/440793933?title=0&byline=0&portrait=0" width="720" height="405" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></center>
@@ -19,14 +19,14 @@ Alyssa Barna (University of Minnesota)
 
 *Because of the link between lyrics and melody in tone languages, composers of vocal music in tone languages have argued that one should not compose vocal music in isolation from text or vice-versa. In 1974, Laz Ekwueme, a doctoral advisee of Allen Forte, published an article on Ìgbò text setting and harmonization. In addition to parallel harmony, Ekwueme recommends staggering text (as in European polyphony or African call-and-response) and using alliterative sounds (vocables and onomatopoeia) in subordinate voices.
 
-Drawing on field recordings gathered in Nigeria from 2011–2020 by the authors, and commentary by Ekwueme and Dr. Christian Onyeji, this SMT-V article studies the phenomenon of “tone-and-tune” in Ìgbò culture.
+*Drawing on field recordings gathered in Nigeria from 2011–2020 by the authors, and commentary by Ekwueme and Dr. Christian Onyeji, this SMT-V article studies the phenomenon of “tone-and-tune” in Ìgbò culture.*
 
-* Compositions by Laz Èkwúèmé, Sam Òjúkwū, Christian Ònyéji, Joshua Úzọ̀ígwē
-* Commentary by Laz Èkwúèmé, Christian Ònyéjì
-* Performances by Ogene Uzodinma, Laz Ekwueme Chorale, Agbani-Nguru Ikorodo, Lagos City Chorale, Elizabeth Ime Ònyéjì, University of Lagos
-Choir, Morehouse College Glee Club
-* Video scores by Ebruphiyor Omodoro
-* Field recordings and interviews are provided by the Africana Digital Ethnography Project (ADEPt), with support from the American Council of Learned Societies (ACLS), the Fulbright Program, and the National Endowment for the Humanities (NEH).
+* *Compositions by Laz Èkwúèmé, Sam Òjúkwū, Christian Ònyéji, Joshua Úzọ̀ígwē*
+* *Commentary by Laz Èkwúèmé, Christian Ònyéjì*
+* *Performances by Ogene Uzodinma, Laz Ekwueme Chorale, Agbani-Nguru Ikorodo, Lagos City Chorale, Elizabeth Ime Ònyéjì, University of Lagos
+Choir, Morehouse College Glee Club*
+* *Video scores by Ebruphiyor Omodoro*
+* *Field recordings and interviews are provided by the Africana Digital Ethnography Project (ADEPt), with support from the American Council of Learned Societies (ACLS), the Fulbright Program, and the National Endowment for the Humanities (NEH).*
 
 *Keywords:Igbo, Nigeria, Melody, Harmony, Colonialism*
 
