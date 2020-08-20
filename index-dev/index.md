@@ -28,7 +28,7 @@ Choir, Morehouse College Glee Club*
 * *Video scores by Ebruphiyor Omodoro*
 * *Field recordings and interviews are provided by the Africana Digital Ethnography Project (ADEPt), with support from the American Council of Learned Societies (ACLS), the Fulbright Program, and the National Endowment for the Humanities (NEH).*
 
-*Keywords:Igbo, Nigeria, Melody, Harmony, Colonialism*
+*Keywords: Igbo, Nigeria, Melody, Harmony, Colonialism*
 
 DOI: [http://doi.org/10.30535/smtv.6.5](http://doi.org/10.30535/smtv.6.5)
 <p>&nbsp;</p>
