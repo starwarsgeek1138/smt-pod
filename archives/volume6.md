@@ -1,6 +1,6 @@
 ## Volume 6 (2020)
 
-## Melodic Language & Linguistic Melodies:  Text Setting in Ìgbò
+## Melodic Language and Linguistic Melodies:  Text Setting in Ìgbò
 Aaron Carter-Ényì (Morehouse College) & Quintina Carter-Ényì (University of Georgia)
 
 <div class="intrinsic-container intrinsic-container-16x9">
