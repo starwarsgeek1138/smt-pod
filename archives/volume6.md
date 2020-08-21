@@ -10,7 +10,7 @@ Mauris luctus ut nulla sit amet egestas. Pellentesque a laoreet risus, vel trist
 
 Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi metus mi, luctus eget augue in, porttitor vulputate urna. Praesent nec magna tortor. Pellentesque ac fermentum sapien. Aenean suscipit urna ac ex consectetur bibendum. Integer ac enim nunc. Etiam a lorem ligula. Mauris lobortis urna non mauris commodo dapibus.
 
-## Melodic Language and Linguistic Melodies: Text Setting in Ìgbò
+## Melodic Language and Linguistic Melodies: Text Setting in Igbo
 Aaron Carter-Ényì (Morehouse College) & Quintina Carter-Ényì (University of Georgia)
 
 <div class="intrinsic-container intrinsic-container-16x9">
