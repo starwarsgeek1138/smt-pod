@@ -13,7 +13,7 @@ Aaron Carter-Ényì (Morehouse College) & Quintina Carter-Ényì (University of 
 <center><iframe src="https://player.vimeo.com/video/448178213?title=0&byline=0&portrait=0" width="720" height="405" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></center>
 </div><p>&nbsp;</p>
 
-*[Link to notes](http://www.smt-v.org/bibliographies/6_5_carter-enyi_carter-enyi)*
+*[Link to notes](http://www.smt-v.org/bibliographies/6_5_carter-enyi_carter-enyi.pdf)*
 
 *There are no other sense-altering aspects of culture that equate with language’s effect on aural perception (hearing). Increased sensitivity to pitch is a cognitive characteristic in the 60% of the world’s ethnolinguistic cultures that speak tone languages (Yip 2002). Lexical tone is a pitch contrast akin to the contour of a melody that distinguishes between words. An example is [íké] (high-high, like a repeated note) and [íkè] (high-low, like a falling interval) which forms a minimal pair between the Ìgbò words for strength and buttocks. Being a tone language speaker also impacts ways of musicking, especially singing. This is the case in sub-Saharan Africa, where “language and music are tied, as if by an umbilical cord” (Agawu 2016:113). A favorite tool for evangelism among 19th- and 20th-century European missionaries in West Africa was to translate European hymn texts into the language of the missionized and teach them to sing the translation to the original hymn tune. An example included in the video is “All hail the power of Jesus’ name” which is often sung to the Coronation hymn tune by Oliver Holden (1792). Unfortunately, early missionaries would translate the texts metrically (to preserve the number of syllables) but had no understanding of the necessary tone.*
 
