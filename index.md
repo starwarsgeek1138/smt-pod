@@ -30,7 +30,7 @@ Choir, Morehouse College Glee Club*
 
 *Keywords: Igbo, Nigeria, Melody, Harmony, Colonialism*
 
-<!--DOI: [http://doi.org/10.30535/smtv.6.5](http://doi.org/10.30535/smtv.6.5)-->
+DOI: [http://doi.org/10.30535/smtv.6.5](http://doi.org/10.30535/smtv.6.5)
 <p>&nbsp;</p>
 <hr>
 
