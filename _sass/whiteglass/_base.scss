@@ -99,15 +99,15 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: $brand-color;
+  color: #0000EE;
   text-decoration: none;
 
   &:visited {
-    color: darken($brand-color, 10%);
+    color: darken(#0000EE, 10%);
   }
 
   &:hover {
-    color: $text-color;
+    color: darken(#0000EE, 10%);
     text-decoration: underline;
   }
 }
