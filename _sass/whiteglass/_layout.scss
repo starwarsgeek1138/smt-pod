@@ -96,6 +96,7 @@
   list-style: none;
 
   .post-link {
+    color: #fff;
     font-size: 24px;
   }
 
@@ -112,7 +113,7 @@
 .post-link {
   &,
   &:visited {
-    color: $text-color;
+    color: #fff;
   }
 
   &:hover {
