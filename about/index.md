@@ -14,21 +14,21 @@ If you have any questions about the process, please feel free to contact the [_S
 
 ### Editorial Board
 
-**Editor:** Poundie Burstein (Hunter College and the Graduate Center, CUNY): [SMT-V-editor@societymusictheory.org](mailto:SMT-V-editor@societymusictheory.org).
+**Editor:** Megan Kaes Long (Oberlin College): [SMT-V-editor@societymusictheory.org](mailto:SMT-V-editor@societymusictheory.org).
 
-**Associate Editor:** Seth Monahan (Yale School of Music): [SMT-V-associate-editor@societymusictheory.org](SMT-V-associate-editor@societymusictheory.org).
+**Associate Editor:** Jonathan De Souza (University of Western Ontario): [SMT-V-associate-editor@societymusictheory.org](SMT-V-associate-editor@societymusictheory.org).
 
 **Members at Large**
-- Michael Buchler, Florida State University (2020)
+- Christopher Brody, University of Louisville (2023)
+- Juan Chattah, University of Miami (2023)
 - Jeremy Day-O'Connell, Skidmore College (2022)
-- Jonathan De Souza, University of Western Ontario (2020)
+- Tomoko Deguchi, Winthrop University (2023)
 - Melissa Hoag, Oakland University (2021)
+- Kristina Knowles, Arizona State University (2023)
 - Kara Yoo Leaman, Oberlin College and Conservatory (2022)
-- Megan Kaes Long, Oberlin College and Conservatory (2020)
 - Henry Martin, Rutgers University (2021)
 - Carmel Raz, Max Planck Institute (2021)
 - Cara Stroud, Michigan State University (2022)
 - John Turci-Escobar, University of Texas-Austin (2022)
-- Christopher White, University of Massachusetts Amherst (2020)
 
 **Webmaster:** William O'Hara (Gettysburg College): [williamevanohara@gmail.com](mailto:williamevanohara@gmail.com)
