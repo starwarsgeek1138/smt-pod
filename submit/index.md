@@ -14,6 +14,8 @@ _SMT-V_ seeks video submissions showcasing original research or demonstrating a 
 ### Submissions
 Submissions will be evaluated in three stages. (1) Authors submit a short proposal to the [_SMT-V_ editor](mailto:SMT-V-editor@societymusictheory.org), who will arrange for double-blind review with quick turnaround. (2) If the proposal is judged as suitable, a script/storyboard draft will be sent to peer evaluators for double-blind review. (3) If the script/storyboard draft is accepted, the author is invited to produce a video in collaboration with the editors; the final version would be subject to a final approval by the editors before publication.
 
+Throughout the process, authors and prospective authors are invited to consult our [Resources](resources.md) page for information about creating video articles.
+
 #### Stage I: Abstract and Storyboard/Script Draft
 The author’s initial submission should take the form of a PDF that includes an abstract of no more than 500 words, and back matter of no more than 4 additional pages that complements the abstract with notation, images, tables, bibliography, and so forth. This abstract-proposal will be subject to double-blind review with a quick turnaround. 
 
