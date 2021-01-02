@@ -2,6 +2,7 @@
 
 ## Music Appreciation Through Animation: Percy Scholes's 'AudioGraphic' Piano Rolls
 Stephanie Probst (University of Cologne)
+
 Volume 7.1 (January 2021)
 
 <div class="intrinsic-container intrinsic-container-16x9">
