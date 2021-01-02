@@ -2,6 +2,9 @@
 
 This page contains bibliographic information, extensive keyword lists, and acknowledgements for the video essays published by _SMT-V_. For the videos themselves, please see the [archives](../archives).
 
+### Volume 7 (2021)
+- [Stephanie Probst, "Music Appreciation Through Animation: Percy Scholes's 'AudioGraphic' Piano Rolls"](7_1_Probst.pdf)
+
 ### Volume 6 (2020)
 - [Cecilia Oinas, "Sensitivity, Intimacy, and Bodily Interaction in Kurtág’s Four-Handed Piano Works"](6_1_Oinas.pdf)
 - [Brian Edward Jarvis and John Peterson, "Detour or Bridge? Contrasting Sections and Storytelling in Musical Theater"](6_2_JarvisPeterson.pdf)
