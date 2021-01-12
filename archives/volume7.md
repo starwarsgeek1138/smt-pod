@@ -15,7 +15,7 @@ Volume 7.1 (January 2021)
 
 *Keywords: player piano, music rolls, music appreciation, public music theory, Percy Scholes, J. S. Bach, fugue*
 
-<!--DOI: [http://doi.org/10.30535/smtv.6.5](http://doi.org/10.30535/smtv.7.1)-->
+DOI: [http://doi.org/10.30535/smtv.7.1](http://doi.org/10.30535/smtv.7.1)
 <p>&nbsp;</p>
 <hr>
 
