@@ -18,6 +18,7 @@ _Editor: L. Poundie Burstein, Associate Editor: Seth Monahan_
 
 ### Volume 5 (2019)
 _5.1 - 5.3: Editor: Scott Murphy, Associate Editors Anna Gawboy and Bryn Hughes_
+
 _5.4 - 5.5.: Editor: L. Poundie Burstein, Associate Editor: Seth Monahan_
 - [5.1: Joshua Banks Mailman, "Babbitt's Beguiling Surfaces, Improvised Inside; Part I: Freedoms"](volume5.md#babbitts-beguiling-surfaces-improvised-inside-part-i-freedoms)
 - [5.2: Joshua Banks Mailman, "Babbitt's Beguiling Surfaces, Improvised Inside; Part II: Diversities"](volume5.md#babbitts-beguiling-surfaces-improvised-inside-part-ii-diversities)
