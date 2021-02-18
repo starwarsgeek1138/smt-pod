@@ -21,7 +21,7 @@ Kara Yoo Leaman (Oberlin College)
 
 *Excerpts of Concerto Barocco used with permission from the New York City Ballet.*
 
-<!--DOI: [http://doi.org/10.30535/smtv.7.1](http://doi.org/10.30535/smtv.7.2)-->
+DOI: [http://doi.org/10.30535/smtv.7.2](http://doi.org/10.30535/smtv.7.2)
 <p>&nbsp;</p>
 <hr>
 
