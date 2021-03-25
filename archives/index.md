@@ -3,8 +3,8 @@
 ### Volume 7 (2021)
 _Editor: L. Poundie Burstein, Associate Editor: Seth Monahan_
 - [7.1: Stephanie Probst, "Music Appreciation Through Animation: Percy Scholes's 'AudioGraphic' Piano Rolls"](volume7.md#music-appreciation-through-animation-percy-scholess-audiographic-piano-rolls)
-- [7.2: Kara Yoo Leaman, “Dance as Music in George Balanchine’s’ Concerto Barocco”](volume7.md#dance-as-music-in-george-balanchines-concerto-barocco)
-- 7.3: Orit Hilewicz and Stephen Sewell, “A Film Scene for Schoenberg’s Begleitungsmusik zu einer Lichtspielscene” (forthcoming) 
+- [7.2: Kara Yoo Leaman, “Dance as Music in George Balanchine’s Concerto Barocco”](volume7.md#dance-as-music-in-george-balanchines-concerto-barocco)
+- [7.3: Orit Hilewicz and Stephen Sewell, “A Film Scene for Schoenberg’s Begleitungsmusik zu einer Lichtspielscene”](volume7.md#a-film-scene-for-schoenbergs-begleitungsmusik-zu-einer-lichtspielscene) 
 - 7.4: Michael Buchler, “I Don’t Care if I Never Get Back: Optimism and Ascent in ‘Take Me Out to The Ball Game’” (forthcoming)
 - 7.5: Adem Merter Birson, “Understanding Turkish Classical Makam: Identifying Modes Through Characteristic Melodies (forthcoming)
 
