@@ -4,7 +4,7 @@ This page contains bibliographic information, extensive keyword lists, and ackno
 
 ### Volume 7 (2021)
 - [Stephanie Probst, "Music Appreciation Through Animation: Percy Scholes's 'AudioGraphic' Piano Rolls"](7_1_Probst.pdf)
-- [Kara Yoo Leaman, “Dance as Music in George Balanchine’s’ Concerto Barocco”](7_2_Leaman.pdf)
+- [Kara Yoo Leaman, “Dance as Music in George Balanchine’s Concerto Barocco”](7_2_Leaman.pdf)
 - [Orit Hiliewicz and Stephen Sewell, "A Film Scene for Schoenberg’s Begleitungsmusik zu einer Lichtspielscene"](7_3_Hilewicz_and_Sewell.pdf)
 
 ### Volume 6 (2020)
