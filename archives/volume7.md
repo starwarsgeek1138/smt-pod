@@ -13,7 +13,7 @@ Volume 7.3 (March 2021)
 
 *This article presents a wordless analytic interpretation of* Begleitungsmusik zu einer Lichtspielscene, *Op. 34, 1929–1930, by Arnold Schoenberg, performed by Takuo Yuasa and the Ulster Orchestra (2002), courtesy of Naxos of America, Inc.*
 
-*For a gloss on this video, see Orit Hilewicz, 2021 (forthcoming), “Schoenberg’s Cinematographic Blueprint: A Programmatic Analysis of Begleitungsmusik zu einer Lichtspielscene (1929–1930),” MTO 27.1, http://mtosmt.org.*
+*For a gloss on this video, see Orit Hilewicz, 2021, [“Schoenberg’s Cinematographic Blueprint: A Programmatic Analysis of Begleitungsmusik zu einer Lichtspielscene (1929–1930)](https://mtosmt.org/issues/mto.21.27.1/mto.21.27.1.hilewicz.html),” MTO 27.1, [http://mtosmt.org](http://mtosmt.org).*
 
 <!--DOI: [http://doi.org/10.30535/smtv.7.3](http://doi.org/10.30535/smtv.7.3)-->
 <p>&nbsp;</p>
