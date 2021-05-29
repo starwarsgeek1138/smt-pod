@@ -8,11 +8,11 @@
 
 _SMT-Pod_ is a peer-reviewed, collaborative, and creative venue for timely conversations about music theory. Audio-only podcasts offer a unique—though non-traditional—way of engaging with music, analysis, and contemporary issues in the field. As opposed to the heavy, jargon-laden publications we are used to working through at our desks, _SMT-Pod_ publications are easy to listen to and think about in the car, on your run, or while grading.\
 \
-	The format of each episode is dictated by its content. For some topics, interviews with individual scholars or panel discussions may be effective; for others, sample lessons may prove useful; for more traditional analysis topics (that would not require visual aids), single-author lectures with plenty of audio examples may suffice. If none of these formats seem beneficial to the episode you are proposing, feel free to design your own. The choice is up to you!\
+The format of each episode is dictated by its content. For some topics, interviews with individual scholars or panel discussions may be effective; for others, sample lessons may prove useful; for more traditional analysis topics (that would not require visual aids), single-author lectures with plenty of audio examples may suffice. If none of these formats seem beneficial to the episode you are proposing, feel free to design your own. The choice is up to you!\
 \
 We welcome proposals from all scholars: those who are avid podcast listeners and those who are less familiar with the medium; whether you have years of experience or are new to the recording process.
 \
-If you think you have an idea for SMT-Pod, here are some things you should prepare/consider as we work together to create your podcast. 
+If you think you have an idea for SMT-Pod, here are some things you should prepare/consider as we work together to create your podcast.\
 The initial proposal (300–500 words) should include information about the topic, format, and content of your episode. You’ll submit your proposal on this Google Form, where you’ll also be asked about the structure of the episode and any technological needs you may have. You can see specifics about the rest of the process below.\
 \
 
@@ -21,7 +21,7 @@ The initial proposal (300–500 words) should include information about the topi
 To read more about SMT-Pod’s Open Collaborative Peer Review (OCPR) Process, click here.
 
 #### Phase 1: Proposal and initial review
-1. Submission of 300–500 word episode proposal (Submitted via this Google Form)
+1. Submission of 300–500 word episode proposal (Submitted via [this Google Form] (https://docs.google.com/forms/d/e/1FAIpQLSfZwVoKnYBTsNdtj-e9y6pQkQm5E8pfEntkj15s5BZWai7Kjw/viewform)
    * Include:  
      - Topic of episode
      - Format of episode (single-author presentation, panel discussion, “tiny desk concert,” etc.)
