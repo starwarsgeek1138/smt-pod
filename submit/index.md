@@ -4,7 +4,7 @@
 >Submissions received by July 31, 2021 will be given full consideration.\
 >Submissions received after this date will be considered for Season 2.
 
-### Overview
+## Overview
 
 _SMT-Pod_ is a peer-reviewed, collaborative, and creative venue for timely conversations about music theory. Audio-only podcasts offer a unique—though non-traditional—way of engaging with music, analysis, and contemporary issues in the field. As opposed to the heavy, jargon-laden publications we are used to working through at our desks, _SMT-Pod_ publications are easy to listen to and think about in the car, on your run, or while grading.\
 \
