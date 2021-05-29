@@ -1,4 +1,4 @@
-<div class="hero-image" style="background-image:"../images/soundtrap-h6PDEdr9IZo-unsplash.jpg";">
+<div class="hero-image" style="background-image: url('../images/soundtrap-h6PDEdr9IZo-unsplash.jpg');">
   <div class="hero-text">
     <h1>SMT-Pod: The Society for Music Theory Podcast</h1>
   </div>
