@@ -15,21 +15,21 @@ If you have any questions about the process, please feel free to contact the [_S
 
 Contact us at [smt-pod@societymusictheory.org](mailto:smt-pod@societymusictheory.org).
 
-**Chairs**
-Jennifer Beavers (University of Texas, San Antonio)
+**Chairs**\
+Jennifer Beavers (University of Texas, San Antonio)\
 Megan Lyons (University of Connecticut)
 
-**Program Committee:**
-Lydia Bangura (Roosevelt University)
-Richard Desinord (Howard University)
-Anna Rose Nelson (University of Michigan)
-Jennifer Weaver (Dallas Baptist University)
+**Program Committee**\
+Lydia Bangura (Roosevelt University)\
+Richard Desinord (Howard University)\
+Anna Rose Nelson (University of Michigan)\
+Jennifer Weaver (Dallas Baptist University)\
 Thomas Yee (University of Texas, San Antonio)
 
-**Production Committee**
-Katrina Roush (University of Texas, Rio Grande Valley)
+**Production Committee**\
+Katrina Roush (University of Texas, Rio Grande Valley)\
 David Thurmaier (University of Missouri, Kansas City)
 
-**Website and Technology Committee**
-Stefanie Acevedo (University of Dayton)
+**Website and Technology Committee**\
+Stefanie Acevedo (University of Dayton)\
 William O’Hara (Gettysburg College)
