@@ -3,11 +3,9 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Archives"
-    url: /archives/
-  - title: "Bibliographies"
-    url: /bibliographies/
-  - title: "Submit"
-    url: /submit/
+  - title: "Pitch A Pod"
+    url: /pitch/
+  - title: "Contact"
+
   - title: "SMT Home"
     url: http://www.societymusictheory.org
