@@ -1,4 +1,4 @@
-# Pitch a Pod: _SMT-Pod_ Submission Guidelines
+# Pitch a Pod: Submission Guidelines
 
 >**Currently accepting submissions for Season 1!**\
 >Submissions received by July 31, 2021 will be given full consideration.\
