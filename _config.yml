@@ -1,3 +1,4 @@
-remote_theme: yous/whiteglass
-
-theme: jekyll-theme-modernist
+title: SMT-Pod
+description: The Society for Music Theory Podcast
+remote_theme: yeos/whiteglass
+theme: yeos/whiteglass
