@@ -27,7 +27,7 @@
   line-height: 56px;
 
   .page-link {
-    color: #000;
+    color: #fff;
     line-height: $base-line-height;
 
     // Gaps between nav items, but not on the last one
@@ -55,9 +55,10 @@
  */
 .site-footer {
   padding: $spacing-unit 0;
+  background: $grey-color-dark;
   font-size: 15px;
-  color: $grey-color;
-  text-align: center;
+  color: $grey-color-light;
+  text-align: left;
 }
 
 
