@@ -14,9 +14,10 @@ $base-line-height: 1.5;
 $spacing-unit:     30px;
 
 $text-color:       #252525;
-$link-color:       #0000EE;
+$link-color:       #de4d00;
 $background-color: #fff;
 $brand-color:      #de4d00;
+$contrast-color:   #ffffcc;
 
 $grey-color:       #535A58;
 $grey-color-light: lighten($grey-color, 40%);
@@ -33,6 +34,11 @@ $on-laptop:        800px;
     text-color: #fff;
     link-color: #fff;
     page-link: #fff;
+}
+
+.site-header:hover {
+    text-color: $contrast-color;
+    text-decoration: none;
 }
 
 .intrinsic-container {
