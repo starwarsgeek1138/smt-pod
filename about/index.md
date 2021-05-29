@@ -1,34 +1,35 @@
 # About
 
-_SMT-V_ is the open-access, peer-reviewed video journal of the Society for Music Theory. Founded in 2014, _SMT-V_ publishes video essays that showcase research in music theory in a dynamic, audiovisual format, presented so as to have the potential to engage both specialists within the field as well as interested viewers outside the music theory community. The journal features a supportive and collaborative production process, and publishes three to five videos per year.
-
-_SMT-V_'s ISSN is 2689-5471.
+### Mission Statement
+_SMT-Pod_ is a creative venue for timely conversations about music, with episodes chosen through an open, collaborative peer review process. Audio-only podcasts offer a unique—though non-traditional—way of engaging with music, analysis, and contemporary issues in the field. This new publication medium affords our society both the ability to face outwards, by engaging in public scholarship, and inwards, by hosting meaningful conversations about the activity of music analysis. The variety of episode topics will reflect the diversity of the scholars and their scholarship in our field, making _SMT-Pod_ an invaluable publication for music analysts at any stage. Through its goal of promoting a sense of community and inclusivity, _SMT-Pod_ will reach beyond the boundaries of the SMT at this critical moment of calls for the revitalization of our field
 
 ### Organization
 
-_SMT-V_ is overseen by an Editor who organizes the vetting of the videos, along with an Associate Editor who aids with the technical details. Members of the editorial board help to vet submitted videos. 
+_SMT-Pod_ is overseen by a Board who participates in the creation of the Podcasts through Open and Collaborative Peer-Review and technical support.
 
-Those wishing to publish a video on _SMT-V_ should first submit a written proposal summarizing the proposed project. If the proposed project is deemed appropriate, the author will be invited to submit a draft of a storyboard or script. Upon acceptance of the script, the author will be invited to produce a full video in conjunction with guidance and assessment from selected members of the Editorial Board. Details regarding the submission process are found [here](https://www.smt-v.org/submit).
+Those wishing to publish a podcast on _SMT-Pod_ should first submit a written proposal summarizing the project. If approved, the board will guide the author(s) through a three-phrase process of collaborative/open peer-review, production, and post-production/final review. Details regarding the process are found [here](submit).
 
-If you have any questions about the process, please feel free to contact the [_SMT-V_ Editor](mailto:SMT-V-editor@societymusictheory.org).
+If you have any questions about the process, please feel free to contact the [_SMT-Pod_ Board](mailto:smt-pod@societymusictheory.org).
 
 ### Editorial Board
 
-**Editor:** Megan Kaes Long (Oberlin College): [SMT-V-editor@societymusictheory.org](mailto:SMT-V-editor@societymusictheory.org).
+Contact us at [smt-pod@societymusictheory.org](mailto:smt-pod@societymusictheory.org).
 
-**Associate Editor:** Jonathan De Souza (University of Western Ontario): [SMT-V-associate-editor@societymusictheory.org](SMT-V-associate-editor@societymusictheory.org).
+**Chairs**
+Jennifer Beavers (University of Texas, San Antonio)
+Megan Lyons (University of Connecticut)
 
-**Members at Large**
-- Christopher Brody, University of Louisville (2023)
-- Juan Chattah, University of Miami (2023)
-- Jeremy Day-O'Connell, Skidmore College (2022)
-- Tomoko Deguchi, Winthrop University (2023)
-- Melissa Hoag, Oakland University (2021)
-- Kristina Knowles, Arizona State University (2023)
-- Kara Yoo Leaman, Oberlin College and Conservatory (2022)
-- Henry Martin, Rutgers University (2021)
-- Carmel Raz, Max Planck Institute (2021)
-- Cara Stroud, Michigan State University (2022)
-- John Turci-Escobar, University of Texas-Austin (2022)
+**Program Committee:**
+Lydia Bangura (Roosevelt University)
+Richard Desinord (Howard University)
+Anna Rose Nelson (University of Michigan)
+Jennifer Weaver (Dallas Baptist University)
+Thomas Yee (University of Texas, San Antonio)
 
-**Webmaster:** William O'Hara (Gettysburg College): [williamevanohara@gmail.com](mailto:williamevanohara@gmail.com)
+**Production Committee**
+Katrina Roush (University of Texas, Rio Grande Valley)
+David Thurmaier (University of Missouri, Kansas City)
+
+**Website and Technology Committee**
+Stefanie Acevedo (University of Dayton)
+William O’Hara (Gettysburg College)
