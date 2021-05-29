@@ -1,1 +1,1 @@
-# SMT-V: The Society for Music Theory's Videocast Journal
+# SMT-Pod: The Society for Music Theory's Podcast
