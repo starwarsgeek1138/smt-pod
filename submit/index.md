@@ -58,4 +58,4 @@ To read more about SMT-Pod’s Open Collaborative Peer Review (OCPR) Process, cl
 <p>&nbsp;</p>
 <hr>
 
-<h3><a href="{{ "/" | relative_url }}">Back to home</a></h3>
+<h4><a href="#top">Back to Top</a></h4>
