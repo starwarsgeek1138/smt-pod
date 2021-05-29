@@ -6,6 +6,7 @@
 // Our variables
 $base-font-family: Bitter, "Apple SD Gothic Neo", AppleGothic, NanumBarunGothic, "Malgun Gothic", Dotum, sans-serif;
 $monospace-font-family: Monaco, Menlo, Consolas, "Courier New", DotumChe, monospace;
+$sans-font-family: Roboto, sans-serif;
 $base-font-size:   14px;
 $base-font-weight: 400;
 $small-font-size:  $base-font-size * 0.875;
@@ -34,7 +35,7 @@ $on-laptop:        800px;
     text-color: #fff;
     link-color: $contrast-color;
     page-link: $contrast-color;
-    font: $monospace-font-family;
+    font: arial, sans-serif;
 }
 
 .intrinsic-container {
