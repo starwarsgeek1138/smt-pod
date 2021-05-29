@@ -29,10 +29,12 @@
   .page-link {
     color: #fff;
     line-height: $base-line-height;
+    font-weight: bold;
+    font-size: 20px;
 
     // Gaps between nav items, but not on the last one
     &:not(:last-child) {
-      margin-right: 20px;
+      margin-right: 15px;
     }
   }
 
@@ -55,9 +57,10 @@
  */
 .site-footer {
   padding: $spacing-unit 0;
+  background: $grey-color-dark;
   font-size: 15px;
-  color: $grey-color;
-  text-align: center;
+  color: $grey-color-light;
+  text-align: left;
 }
 
 
