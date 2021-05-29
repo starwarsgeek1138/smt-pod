@@ -32,13 +32,9 @@ $on-laptop:        800px;
 .site-header {
     background-color: #de4d00;
     text-color: #fff;
-    link-color: #fff;
-    page-link: #fff;
-}
-
-.site-header:hover {
-    text-color: $contrast-color;
-    text-decoration: none;
+    link-color: $contrast-color;
+    page-link: $contrast-color;
+    font: $monospace-font-family;
 }
 
 .intrinsic-container {
