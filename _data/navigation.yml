@@ -3,9 +3,11 @@
 main:
   - title: "About"
     url: /about/
+  - title: "Episodes"
+    url: 
   - title: "Pitch A Pod"
     url: /submit/
   - title: "Contact"
-
+    url: mailto:smt-pod@societymusictheory.org
   - title: "SMT Home"
     url: http://www.societymusictheory.org
