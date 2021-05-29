@@ -1,4 +1,4 @@
 title: SMT-Pod
 description: The Society for Music Theory Podcast
-
-theme: jekyll-theme-modernist
+remote_theme: yous/whiteglass
+theme: yeos/whiteglass
