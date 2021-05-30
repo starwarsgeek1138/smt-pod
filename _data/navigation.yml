@@ -1,11 +1,13 @@
 # If you want to link only specific pages in your header, add the path to the
 # pages in order as they should show up.
 main:
-  - title: "About"
+  - title: "ABOUT"
     url: /about/
-  - title: "Pitch A Pod"
+  - title: "EPISODES"
+    url: /episodes/
+  - title: "PITCH A POD"
     url: /submit/
-  - title: "Contact"
-
-  - title: "SMT Home"
+  - title: "CONTACT"
+    url: mailto:smt-pod@societymusictheory.org
+  - title: "SMT HOME"
     url: http://www.societymusictheory.org

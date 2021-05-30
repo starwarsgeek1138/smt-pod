@@ -6,6 +6,7 @@
 // Our variables
 $base-font-family: Bitter, "Apple SD Gothic Neo", AppleGothic, NanumBarunGothic, "Malgun Gothic", Dotum, sans-serif;
 $monospace-font-family: Monaco, Menlo, Consolas, "Courier New", DotumChe, monospace;
+$sans-font-family: Roboto, "Arial", sans-serif;
 $base-font-size:   14px;
 $base-font-weight: 400;
 $small-font-size:  $base-font-size * 0.875;
@@ -14,9 +15,10 @@ $base-line-height: 1.5;
 $spacing-unit:     30px;
 
 $text-color:       #252525;
-$link-color:       #0000EE;
+$link-color:       #de4d00;
 $background-color: #fff;
 $brand-color:      #de4d00;
+$contrast-color:   #ffffcc;
 
 $grey-color:       #535A58;
 $grey-color-light: lighten($grey-color, 40%);
@@ -24,15 +26,46 @@ $grey-color-dark:  darken($grey-color, 25%);
 
 // Width of the content area
 $content-width:    800px;
-
 $on-palm:          600px;
 $on-laptop:        800px;
 
 .site-header {
     background-color: #de4d00;
     text-color: #fff;
-    link-color: #fff;
-    page-link: #fff;
+    link-color: $contrast-color;
+    page-link: $contrast-color;
+    margin-bottom: 0px;
+}
+
+.hero-image {
+  margin: -15px -15px 20px -15px;
+  background-color: $brand-color;
+  height: 300px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.hero-text {
+  text-align: left;
+  position: absolute;
+  top: 50%;
+  left: 35%;
+  transform: translate(-50%, -50%);
+  color: $brand-color;
+  font-weight: 900;
+  text-shadow: 1px 1px 2px $contrast-color;
+}
+
+.home {
+background: #fff;
+padding: $spacing-unit/2
+}
+
+.post {
+background: #fff;
+padding: $spacing-unit/2
 }
 
 .intrinsic-container {
@@ -72,8 +105,8 @@ $on-laptop:        800px;
        line-height: 0;
        clear: both;
        border: none;
-       border-top: 1px solid #535A58;
-       border-bottom: 1px solid #535A58;
+       border-top: 1px solid $brand-color;
+       border-bottom: 1px solid $brand-color;
     }
 
 

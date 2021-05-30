@@ -6,6 +6,7 @@
 
   // Positioning context for the mobile navigation icon
   position: relative;
+  margin-bottom: 0px;
 }
 
 .site-title {
@@ -27,10 +28,11 @@
   line-height: 56px;
 
   .page-link {
-    color: #fff;
+    font-family: $sans-font-family;
+    color: #ffffff;
     line-height: $base-line-height;
-    font-weight: bold;
-    font-size: 20px;
+    font-weight: bolder;
+    font-size: 15px;
 
     // Gaps between nav items, but not on the last one
     &:not(:last-child) {
@@ -61,6 +63,7 @@
   font-size: 15px;
   color: $grey-color-light;
   text-align: left;
+  margin-top: $spacing-unit * -1;
 }
 
 
@@ -69,7 +72,9 @@
  * Page content
  */
 .page-content {
+  margin-top: 0px;
   padding: $spacing-unit 0;
+  padding-top: 0px;
 }
 
 .page-heading {
@@ -142,6 +147,33 @@
   }
 }
 
+.subscribe {
+padding-top: $spacing-unit * 2;
+padding-bottom: $spacing-unit;
+margin: 0px $spacing-unit / -2 $spacing-unit * -1 $spacing-unit / -2;
+background: $grey-color;
+text-align: center;
+color: $contrast-color;
+font-size: 20px;
+font-family: $sans-font-family;
+}
+
+button {
+background: $brand-color;
+color: $contrast-color;
+line-height: $base-line-height;
+cursor: pointer;
+border-radius: 5px;
+text-decoration: none;
+font-weight: bold;
+font-size: 15px;
+border: 1px solid $contrast-color;
+}
+
+button:hover {
+color: $brand-color;
+background: $grey-color;}
+
 
 
 /**
@@ -163,6 +195,7 @@
 
 .post-content {
   margin-bottom: $spacing-unit;
+  
 
   h1 {
     font-size: 38px;
