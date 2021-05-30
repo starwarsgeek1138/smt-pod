@@ -4,7 +4,7 @@
   </div>
 </div>
 
-Purpose of collaborative, open peer review:
+## Purpose of collaborative, open peer review:
 1. Allows for collaborative and inclusive discussion
    - Building on our SMT-Pod mission statement which “...affords our society both the ability to face outwards, by engaging in public scholarship, and inwards, by hosting meaningful conversations about the activity of music analysis...Through its goal of promoting a sense of community and inclusivity, SMT-Pod will reach beyond the boundaries of the SMT at this critical moment of calls for the revitalization of our field,” we hope to reconsider what it means for a product of research to be “peer reviewed.”
 
