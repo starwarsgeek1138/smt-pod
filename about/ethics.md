@@ -1,8 +1,6 @@
-<div class="hero-image" style="background-image: url('../images/pexels-startup-stock-photos-7097.jpg');" alt="Group of People Having a Meeting. Credit: Startup Stock Photos">
-  <div class="hero-text">
+<div class="hero-text">
     <h1>Ethics and Standards</h1>
   </div>
-</div>
 
 SMT-Pod is committed to the SMT standards of ethics and professionalism, including the following: 
 - Anti-harassment and anti-discrimination: non-sexist, antiracist, non-homophobic, non-transphobic, and gender neutral language. Reviewers and authors are to disclose any conflicts of interest or biases during the review process. We will not tolerate harassment or discrimination based on race, color, ethnicity, national origin, sex, sexual orientation, gender identity or expression, marital status, religious affiliation or belief, disability, caregiver status, military status, or age. 
