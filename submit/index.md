@@ -15,13 +15,13 @@ _SMT-Pod_ is a peer-reviewed, collaborative, and creative venue for timely conve
 The format of each episode is dictated by its content. For some topics, interviews with individual scholars or panel discussions may be effective; for others, sample lessons may prove useful; for more traditional analysis topics (that would not require visual aids), single-author lectures with plenty of audio examples may suffice. If none of these formats seem beneficial to the episode you are proposing, feel free to design your own. The choice is up to you!\
 \
 We welcome proposals from all scholars: those who are avid podcast listeners and those who are less familiar with the medium; whether you have years of experience or are new to the recording process.
-\
-If you think you have an idea for SMT-Pod, here are some things you should prepare/consider as we work together to create your podcast.\
-The initial proposal (300–500 words) should include information about the topic, format, and content of your episode. You’ll submit your proposal on this Google Form, where you’ll also be asked about the structure of the episode and any technological needs you may have. You can see specifics about the rest of the process below.\
 
 ### Publication Process
+If you think you have an idea for SMT-Pod, here are some things you should prepare/consider as we work together to create your podcast.
 
-To read more about SMT-Pod’s Open Collaborative Peer Review (OCPR) Process, click here.
+The initial proposal (300–500 words) should include information about the topic, format, and content of your episode. You’ll submit your proposal on this Google Form, where you’ll also be asked about the structure of the episode and any technological needs you may have. You can see specifics about the rest of the process below.
+
+**To read more about SMT-Pod’s Open Collaborative Peer Review (OCPR) Process, click here.**
 
 #### Phase 1: Proposal and initial review
 1. Submission of 300–500 word episode proposal (Submitted via <a href="https://docs.google.com/forms/d/e/1FAIpQLSfZwVoKnYBTsNdtj-e9y6pQkQm5E8pfEntkj15s5BZWai7Kjw/viewform" Target="_blank">this Google Form</a>)
