@@ -1,4 +1,8 @@
-# Our Open, Collaborative Peer-Review Process
+<div class="hero-image" style="background-image: url('../images/pexels-startup-stock-photos-7097.jpg');" alt="Group of People Having a Meeting. Credit: Startup Stock Photos">
+  <div class="hero-text">
+    <h1>Our Open, Collaborative Peer-Review Process</h1>
+  </div>
+</div>
 
 Purpose of collaborative, open peer review:
 1. Allows for collaborative and inclusive discussion
