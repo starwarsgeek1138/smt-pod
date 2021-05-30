@@ -150,10 +150,11 @@
 .subscribe {
 padding-top: $spacing-unit;
 padding-bottom: $spacing-unit;
-margin: 0, $spacing-unit * -1, $spacing-unit * -1, $spacing-unit * -1;
+margin: 0, $spacing-unit * -1, $spacing-unit * -2, $spacing-unit * -1;
 background: $grey-color;
 text-align: center;
 color: $contrast-color;
+font-size: 15px;
 font-family: $sans-font-family;
 }
 
