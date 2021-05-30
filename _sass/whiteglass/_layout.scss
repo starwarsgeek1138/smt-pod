@@ -150,7 +150,7 @@
 
 .subscribe {
 padding: $spacing-unit;
-margin-bottom: $spacing-unit * -1;
+margin: 0, $spacing-unit * -1;
 line-height: 2;
 background: $grey-color;
 text-align: center;
