@@ -1,4 +1,8 @@
-# Pitch a Pod: Submission Guidelines
+<div class="hero-image" style="background-image: url('../images/pexels-tommy-lopez-765139.jpg');" alt="Computer screen foregrounded by microphone. Credit: Photo by Tommy Lopez">
+  <div class="hero-text">
+    <h1>Pitch a Pod: Submission Guidelines</h1>
+  </div>
+</div>
 
 >**Currently accepting submissions for Season 1!**\
 >Submissions received by July 31, 2021 will be given full consideration.\
