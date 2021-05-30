@@ -37,3 +37,6 @@ David Thurmaier (University of Missouri, Kansas City)
 **Website and Technology Committee**\
 Stefanie Acevedo (University of Dayton)\
 William O’Hara (Gettysburg College)
+<hr>
+<h4><a href="#top">Back to Top</a></h4>
+
