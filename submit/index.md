@@ -21,7 +21,7 @@ If you think you have an idea for SMT-Pod, here are some things you should prepa
 
 The initial proposal (300–500 words) should include information about the topic, format, and content of your episode. You’ll submit your proposal on this Google Form, where you’ll also be asked about the structure of the episode and any technological needs you may have. You can see specifics about the rest of the process below.
 
-### [To read more about SMT-Pod’s Open Collaborative Peer Review (OCPR) Process, click here](OCPR)
+#### [To read more about SMT-Pod’s Open Collaborative Peer Review (OCPR) Process, click here](OCPR)
 
 #### Phase 1: Proposal and initial review
 1. Submission of 300–500 word episode proposal (Submitted via <a href="https://docs.google.com/forms/d/e/1FAIpQLSfZwVoKnYBTsNdtj-e9y6pQkQm5E8pfEntkj15s5BZWai7Kjw/viewform" Target="_blank">this Google Form</a>)
