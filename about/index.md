@@ -10,6 +10,7 @@ _SMT-Pod_ is a creative venue for timely conversations about music, with episode
 
 >#### [Read more about our submission process](../submit)
 >#### [Read more about our Open Collaborative Peer Review (OCPR)](../submit/OCPR)
+>#### [Read about our ethics and standards for publication](ethics)
 
 If you have any questions about the process, please feel free to contact the [_SMT-Pod_ Board](mailto:smt-pod@societymusictheory.org).
 
