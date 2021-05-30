@@ -57,9 +57,5 @@ To read more about SMT-Pod’s Open Collaborative Peer Review (OCPR) Process, cl
    * A promise of a follow-up episode
    * A combination of the above and/or any other formats (with approval from the Program Committee and the author(s))
 
-
-
-<p>&nbsp;</p>
 <hr>
-
 <h4><a href="#top">Back to Top</a></h4>
