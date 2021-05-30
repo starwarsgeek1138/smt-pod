@@ -56,7 +56,17 @@ $on-laptop:        800px;
   left: 35%;
   transform: translate(-50%, -50%);
   color: $brand-color;
+  font-weight: bold;
 }
+
+.home {
+background: #fff;
+}
+
+.post {
+background: #fff;
+}
+
 .intrinsic-container {
   position: relative;
   height: 0;
