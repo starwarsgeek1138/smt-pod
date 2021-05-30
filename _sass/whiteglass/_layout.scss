@@ -29,7 +29,7 @@
 
   .page-link {
     font-family: $sans-font-family;
-    color: #ffffcc;
+    color: #ffffff;
     line-height: $base-line-height;
     font-weight: bolder;
     font-size: 15px;
@@ -150,17 +150,19 @@
 
 .subscribe {
 padding: $spacing-unit;
-height: 60px;
+margin: $spacing-unit * -1;
+height: 50px;
 line-height: 2;
 background: $grey-color;
 text-align: center;
 color: $contrast-color;
+font-family: $sans-font-family;
 }
 
 button {
 background: $brand-color;
 color: $contrast-color;
-line-height: 2;
+line-height: $base-line-height;
 cursor: pointer;
 border-radius: 5px;
 text-decoration: none;
