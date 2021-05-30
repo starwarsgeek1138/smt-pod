@@ -7,11 +7,9 @@
 ### Mission Statement
 _SMT-Pod_ is a creative venue for timely conversations about music, with episodes chosen through an open, collaborative peer review process. Audio-only podcasts offer a unique—though non-traditional—way of engaging with music, analysis, and contemporary issues in the field. This new publication medium affords our society both the ability to face outwards, by engaging in public scholarship, and inwards, by hosting meaningful conversations about the activity of music analysis. The variety of episode topics will reflect the diversity of the scholars and their scholarship in our field, making _SMT-Pod_ an invaluable publication for music analysts at any stage. Through its goal of promoting a sense of community and inclusivity, _SMT-Pod_ will reach beyond the boundaries of the SMT at this critical moment of calls for the revitalization of our field
 
-### Organization
 
-_SMT-Pod_ is overseen by a Board who participates in the creation of the Podcasts through Open and Collaborative Peer-Review and technical support.
-
-Those wishing to publish a podcast on _SMT-Pod_ should first submit a written proposal summarizing the project. If approved, the board will guide the author(s) through a three-phrase process of collaborative/open peer-review, production, and post-production/final review. Details regarding the process are found [here](submit).
+#### [Read more about our submission process](/submit)
+#### [Read more about our Open, Collaborative Peer Review](/submit/ocpr.md).
 
 If you have any questions about the process, please feel free to contact the [_SMT-Pod_ Board](mailto:smt-pod@societymusictheory.org).
 
