@@ -10,7 +10,7 @@ _SMT-Pod_ is a peer-reviewed, collaborative, and creative venue for timely conve
 
 # Latest News
 <div class="subscribe">
-<p><strong>Subscribe</strong>
+<p style="padding-right: 30px;">Subscribe
 <a href="http://google.com" target="_blank"><button>Apple Podcasts</button></a>
 <a href="http://google.com" target="_blank"><button>Spotify</button></a>
 <a href="http://google.com" target="_blank"><button>Stitcher</button></a>
