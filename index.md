@@ -8,4 +8,12 @@ _SMT-Pod_ is a peer-reviewed, collaborative, and creative venue for timely conve
 
 <hr>
 
-# Latest News (June 2021)
+# Latest News
+<div class="subscribe">
+<p><strong>Subscribe</strong>
+<a href="http://google.com" target="_blank"><button>Apple Podcasts</button></a>
+<a href="http://google.com" target="_blank"><button>Spotify</button></a>
+<a href="http://google.com" target="_blank"><button>Stitcher</button></a>
+<a href="http://google.com" target="_blank"><button>RSS</button></a>
+</p></div>
+
