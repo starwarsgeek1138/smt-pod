@@ -9,6 +9,10 @@ _SMT-Pod_ is a peer-reviewed, collaborative, and creative venue for timely conve
 <hr>
 
 # Latest News
+June 1, 2021: \
+[Call for Season 1 Podcast Submissions](../submit) \
+Call for Compositions
+  
 <div class="subscribe">
 <p style="padding-right: 30px;">Subscribe
 <a href="http://google.com" target="_blank"><button>Apple Podcasts</button></a>
