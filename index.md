@@ -10,8 +10,8 @@ _SMT-Pod_ is a peer-reviewed, collaborative, and creative venue for timely conve
 
 # Latest News
 **June 1, 2021:**
-* [Call for Season 1 Podcast Submissions](submit)
-* Call for Compositions
+* [Call for Season 1 Podcast Submissions](submit) (Deadline: July 31)
+* Call for Compositions (Deadline: July 31)
   
 <div class="subscribe">
 <p style="padding-right: 30px;">Subscribe
