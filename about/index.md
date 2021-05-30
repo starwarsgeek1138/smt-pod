@@ -1,5 +1,5 @@
 <div class="hero-image" style="background-image: url('../images/pexels-maria-orlova-4947406.jpg');" alt="Headphones, iPhone, and coffee. Credit: Photo by Maria Orlova">
-  <div class="hero-text">
+  <div class="hero-text" style="left:15%;">
     <h1>About</h1>
   </div>
 </div>
