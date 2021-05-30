@@ -149,9 +149,9 @@
 }
 
 .subscribe {
-padding: $spacing-unit;
-margin: 0, $spacing-unit * -1;
-line-height: 2;
+padding-top: $spacing-unit;
+padding-bottom: $spacing-unit;
+margin: 0, $spacing-unit * -1, $spacing-unit * -1, $spacing-unit * -1;
 background: $grey-color;
 text-align: center;
 color: $contrast-color;
