@@ -148,6 +148,29 @@
   }
 }
 
+.subscribe {
+padding: $spacing-unit;
+height: 60px;
+line-height: 2;
+background: $grey-color;
+text-align: center;
+color: $contrast-color;
+}
+
+button {
+background: $brand-color;
+color: $contrast-color;
+line-height: 2;
+cursor: pointer;
+border-radius: 5px;
+text-decoration: none;
+border: 1px $contrast-color solid;
+}
+
+button:hover {
+color: $brand-color;
+background: $grey-color;}
+
 
 
 /**
