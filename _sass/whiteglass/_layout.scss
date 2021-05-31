@@ -52,6 +52,83 @@
   }
 }
 
+/**
+ * Accordions
+ */
+// General
+input.accordionInput {
+  position: absolute;
+  opacity: 0;
+  z-index: -1;
+}
+.accordion {
+  overflow: hidden;
+}
+
+.accordTab {
+  width: 100%;
+  color: white;
+  overflow: hidden;
+  /* Tab Label */
+  &-label {
+    display: flex;
+    padding: $spacing-unit/2;
+    margin: 0px;
+    justify-content: space-between;
+    background: $grey-color-light;
+    color: $brand-color;
+    font-weight: bold;
+    cursor: pointer;
+    /* Icon */
+    &:hover {
+      color: $contrast-color;
+      background:$grey-color;
+        }
+    &::after {
+      content: "\276F";
+      width: 1em;
+      height: 1em;
+      text-align: center;
+      transition: all .35s;
+    }
+  }
+  /* Content container DIV */
+  &-content {
+    padding: $spacing-unit/2;
+    max-height: 0px;
+    color: $grey-color;
+    background: white;
+    transition: all .35s;
+  }
+  &-close {
+    display: flex;
+    justify-content: flex-end;
+    background: $grey-color-light;
+    cursor: pointer;
+    &:hover {
+      color: $grey-color;
+    }
+  }
+}
+
+// :checked input (to open)
+input.accordionInput:checked {
+  + .accordTab-label {
+    background: $grey-color-light;
+    &:hover {
+      background: $grey-color;
+    &::after {
+      transform: rotate(90deg);
+    }
+  }
+  ~ .accordTab-content {
+    max-height: 100%;
+  }
+}
+}
+
+
+
 
 
 /**
@@ -195,7 +272,7 @@ background: $grey-color;}
 
 .post-content {
   margin-bottom: $spacing-unit;
-  
+
 
   h1 {
     font-size: 38px;
