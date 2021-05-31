@@ -1,6 +1,6 @@
 title: SMT-Pod
 description: The Society for Music Theory Podcast
-baseurl: "/smt-pod"
-url: "https://starwarsgeek1138.github.io"
+baseurl: "/"
+url: "https://smt-pod.org"
 remote_theme: yous/whiteglass
 theme: yeos/whiteglasss
