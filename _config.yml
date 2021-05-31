@@ -3,4 +3,21 @@ description: The Society for Music Theory Podcast
 baseurl: "/"
 url: "https://smt-pod.org"
 remote_theme: yous/whiteglass
-theme: yous/whiteglasss
+theme: yous/whiteglass
+plugins:
+  - jekyll-archives
+  - jekyll-paginate
+  - jekyll-sitemap
+
+permalink: /:year/:month/:day/:title/
+paginate_path: /posts/:num/
+paginate: 5
+
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layout: category_archives
+  permalinks:
+    category: /categories/:name/
+    tag: /tags/:name/
