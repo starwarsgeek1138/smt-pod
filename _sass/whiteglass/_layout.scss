@@ -114,9 +114,8 @@ input.accordionInput {
 // :checked input (to open)
 input.accordionInput:checked {
   + .accordTab-label {
-    background: $grey-color-light;
-    &:hover {
-      background: $grey-color;
+    background: $grey-color;
+    color: $contrast-color;
     &::after {
       transform: rotate(90deg);
     }
@@ -124,7 +123,6 @@ input.accordionInput:checked {
   ~ .accordTab-content {
     max-height: 100%;
   }
-}
 }
 
 
@@ -304,6 +302,15 @@ background: $grey-color;}
     @include media-query($on-laptop) {
       font-size: 18px;
     }
+
+    h5 {
+      font-size: 26px;
+      color: $brand-color;
+      font-style: italic;
+
+      @include media-query($on-laptop) {
+        font-size: 26px;
+      }
   }
 }
 
@@ -337,4 +344,5 @@ background: $grey-color;}
   .next {
     float: right;
   }
+}
 }
