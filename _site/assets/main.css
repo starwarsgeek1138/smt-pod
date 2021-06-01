@@ -87,7 +87,7 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 .site-title { font-size: 26px; font-weight: 300; line-height: 56px; letter-spacing: -1px; margin-bottom: 0; float: left; }
 .site-title, .site-title:visited { color: #161817; }
 
-.site-nav { float: right; line-height: 56px; padding-right: 20px; }
+.site-nav { float: right; line-height: 56px; padding-right: 20px; display: block; }
 .site-nav .page-link { font-family: Roboto, "Arial", sans-serif; color: #ffffff; line-height: 1.5; text-shadow: 1px 1px 3px #535A58; font-weight: bolder; font-size: 15px; }
 .site-nav .page-link:not(:last-child) { margin-right: 15px; }
 @media screen and (max-width: 600px) { .site-nav .page-link { padding: 20px 0; margin-left: 20px; }
