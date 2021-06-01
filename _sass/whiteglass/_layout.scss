@@ -80,12 +80,14 @@ input.accordionInput {
     justify-content: space-between;
     background: $grey-color-light;
     color: $brand-color;
-    font-weight: bold;
+    font-family: $sans-font-family;
+    font-weight: bolder;
     cursor: pointer;
     /* Icon */
     &:hover {
       color: $contrast-color;
       background:$grey-color;
+      text-shadow: none;
         }
     &::after {
       content: "\276F";

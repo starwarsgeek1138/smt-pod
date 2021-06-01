@@ -99,8 +99,8 @@ input.accordionInput { position: absolute; opacity: 0; z-index: -1; }
 .accordion { overflow: hidden; }
 
 .accordTab { width: 100%; color: white; overflow: hidden; /* Tab Label */ /* Content container DIV */ }
-.accordTab-label { display: flex; padding: 15px; margin: 0px; justify-content: space-between; background: #babfbe; color: #de4d00; font-weight: bold; cursor: pointer; /* Icon */ }
-.accordTab-label:hover { color: #ffffcc; background: #535A58; }
+.accordTab-label { display: flex; padding: 15px; margin: 0px; justify-content: space-between; background: #babfbe; color: #de4d00; font-family: Roboto, "Arial", sans-serif; font-weight: bolder; cursor: pointer; /* Icon */ }
+.accordTab-label:hover { color: #ffffcc; background: #535A58; text-shadow: none; }
 .accordTab-label::after { content: "\276F"; width: 1em; height: 1em; text-align: center; transition: all .35s; }
 .accordTab-content { padding: 15px; max-height: 0px; color: #535A58; background: white; transition: all .35s; }
 .accordTab-close { display: flex; justify-content: flex-end; background: #babfbe; cursor: pointer; }
