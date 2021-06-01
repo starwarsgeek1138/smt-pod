@@ -8,6 +8,8 @@ div.announce { border-radius: 5px; border-style: solid; border-width: 5px; borde
 
 .hero-text { text-align: left; position: absolute; top: 50%; left: 35%; transform: translate(-50%, -50%); color: #de4d00; font-weight: 900; text-shadow: 1px 1px 2px #ffffcc; }
 
+.socialmedia { position: relative; padding-right: 20px; float: right; padding-top: 20px; color: #ffffcc; line-height: 1em; padding-bottom: 30px; font-size: 14px; font-family: Roboto, "Arial", sans-serif; font-weight: bold; font-variant: small-caps; text-shadow: 1px 1px 4px #161817; }
+
 .home { background: #fff; padding: 15px; }
 
 .post { background: #fff; padding: 15px; }
@@ -85,7 +87,7 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 .site-title { font-size: 26px; font-weight: 300; line-height: 56px; letter-spacing: -1px; margin-bottom: 0; float: left; }
 .site-title, .site-title:visited { color: #161817; }
 
-.site-nav { float: right; line-height: 56px; }
+.site-nav { float: right; line-height: 56px; padding-right: 20px; }
 .site-nav .page-link { font-family: Roboto, "Arial", sans-serif; color: #ffffff; line-height: 1.5; text-shadow: 1px 1px 3px #535A58; font-weight: bolder; font-size: 15px; }
 .site-nav .page-link:not(:last-child) { margin-right: 15px; }
 @media screen and (max-width: 600px) { .site-nav .page-link { padding: 20px 0; margin-left: 20px; }

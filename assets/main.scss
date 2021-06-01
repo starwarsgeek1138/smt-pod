@@ -83,6 +83,21 @@ div.announce {
   text-shadow: 1px 1px 2px $contrast-color;
 }
 
+.socialmedia {
+  position: relative;
+  padding-right: 20px;
+  float: right;
+  padding-top: 20px;
+  color: $contrast-color;
+  line-height: 1em;
+  padding-bottom: 30px;
+  font-size: 14px;
+  font-family: $sans-font-family;
+  font-weight: bold;
+  font-variant: small-caps;
+  text-shadow: 1px 1px 4px $grey-color-dark;
+}
+
 .home {
 background: #fff;
 padding: $spacing-unit/2
