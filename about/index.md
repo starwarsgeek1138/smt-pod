@@ -1,5 +1,5 @@
 <div class="hero-image" style="background-image: url('../images/pexels-maria-orlova-4947406.jpg');" alt="Headphones, iPhone, and coffee. Credit: Photo by Maria Orlova">
-  <div class="hero-text" style="left:10%;">
+  <div class="hero-text" style="left:15%;">
     <h1>About</h1>
   </div>
 </div>
@@ -38,4 +38,3 @@ Stefanie Acevedo (University of Dayton)\
 William O’Hara (Gettysburg College)
 <hr>
 <h4><a href="#top">Back to Top</a></h4>
-

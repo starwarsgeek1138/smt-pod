@@ -1,5 +1,5 @@
 <div class="hero-image" style="background-image: url('../images/pexels-jessica-lewis-583843.jpg');" alt="Iphone and Headphones. Photo by Jessica Lewis">
-  <div class="hero-text" style="left:15%;">
+  <div class="hero-text" style="left:20%;">
     <h1>Episodes</h1>
   </div>
 </div>
