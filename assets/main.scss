@@ -55,11 +55,12 @@ div.announce {
 .hero-image-main {
   margin: -15px -15px 20px -15px;
   background-color: $grey-color;
-  height: 300px;
+  height: 400px;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
+  font-size: 25px;
 }
 
 .hero-image {
@@ -79,8 +80,8 @@ div.announce {
   left: 35%;
   transform: translate(-50%, -50%);
   color: $brand-color;
-  font-weight: 900;
-  text-shadow: 1px 1px 2px $contrast-color;
+  font-weight: bolder;
+  text-shadow: 2px 2px 2px $contrast-color;
 }
 
 .socmedia {
