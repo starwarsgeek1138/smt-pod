@@ -84,16 +84,16 @@ div.announce {
 }
 
 .socmedia {
-  position: relative;
-  padding-top: 100px;
-  margin-left: 85%;
-  color: $contrast-color;
-  line-height: 1em;
+  float:right;
+  margin-top: 10px;
+  padding-right: 30px;
+  color: $brand-color;
+  line-height: 2em;
   font-size: 14px;
   font-family: $sans-font-family;
   font-weight: bold;
   font-variant: small-caps;
-  text-shadow: 1px 1px 4px $grey-color-dark;
+  text-shadow: 1px 1px 4px $grey-color-light;
 }
 
 .home {

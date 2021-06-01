@@ -7,6 +7,7 @@
 _SMT-Pod_ is a peer-reviewed, collaborative, and creative venue for timely conversations about music theory. Audio-only podcasts offer a unique—though non-traditional—way of engaging with music, analysis, and contemporary issues in the field. As opposed to the heavy, jargon-laden publications we are used to working through at our desks, _SMT-Pod_ publications are easy to listen to and think about in the car, on your run, or while grading.. [Read more about _SMT-Pod_ here.](about)
 
 <hr>
+<div><p class="socmedia">follow <a href="http://www.twitter.com/smt_pod" target="_blank"><img height="30px" width="30px" alt="twitter; credit: freepik" src="../images/twitter.png"/></a></p></div>
 # Latest News
 **June 1, 2021** : _Hello World._ We've launched! _**Listen to our trailer below**_ to learn more about SMT-Pod, the new Podcast for the [Society for Music Theory](http://www.societymusictheory.org).
 <div style="width: 100%; height: 170px; margin-bottom: 20px; border-radius: 10px; overflow: hidden;"><iframe style="width: 100%; height: 170px;" frameborder="no" scrolling="no" seamless src="https://player.captivate.fm/show/d9c88032-2609-4757-82c7-860198cb482f/latest/"></iframe></div>

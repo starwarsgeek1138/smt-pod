@@ -2,8 +2,8 @@
 
   <div class="wrapper">
 
-    <a class="site-title" href="{{ "/" | relative_url }}"><img src="https://smt-pod.org/images/smtpodlogo.jpg" alt="SMT-Pod logo" height="150" width="150"></a>
-    <nav class="site-nav">
+  <a class="site-title" href="{{ "/" | relative_url }}"><img src="https://smt-pod.org/images/smtpodlogo.jpg" alt="SMT-Pod logo" height="150" width="150"></a>
+<nav class="site-nav">
       {% for link in site.data.navigation.main %}
         {% if link.url contains "http" %}
           {% assign url = link.url %}
@@ -12,9 +12,5 @@
         {% endif %}
         <a class="page-link" href="{{ url }}">{{ link.title }}</a>
       {% endfor %}
-
     </nav>
-        <p class="socmedia">follow <a href="http://www.twitter.com/smt_pod" target="_blank"><img height="30px" width="30px" alt="twitter; credit: freepik" src="../images/twitter.png"/></a></p>
-  </div>
-
 </header>
