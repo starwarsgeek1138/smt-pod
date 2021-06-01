@@ -35,7 +35,7 @@ The initial proposal (300–500 words) should include information about the topi
 <p style="font-style: italic;">Include:</p>
 <ul>
   <li>Topic of episode</li>
-  <li>Format of episode (single-author presentation, panel discussion, “tiny desk concert,” etc.)</li>
+  <li>[Format](https://castos.com/podcast-format/) of episode (single-author presentation, panel discussion, “tiny desk concert,” etc.)</li>
   <li>Length of episode (short (10–20 min.), medium (20–30 min.), long (30–45 min.))</li>
   <li>Identifying information for all creators/participants (these will not be reviewed anonymously)</li>
   <li>Set of keywords</li>
