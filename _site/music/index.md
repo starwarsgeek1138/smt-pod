@@ -1,4 +1,4 @@
-<div class="hero-image" style="background-image: url('../images/pexels-maria-orlova-4947406.jpg');" alt="Headphones, iPhone, and coffee. Credit: Photo by Maria Orlova">
+<div class="hero-image" style="background-image: url('../images/pexels-kai-pilger-1132147.jpg');" alt="Headphones on a keyboard. Credit: Photo by Kai Pilger">
   <div class="hero-text" style = "left:150px">
     <h1>Featured Music</h1>
   </div>
