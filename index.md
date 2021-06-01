@@ -11,8 +11,8 @@ _SMT-Pod_ is a peer-reviewed, collaborative, and creative venue for timely conve
 # Latest News
 **June 1, 2021:**
 * [Call for Season 1 Podcast Submissions](submit) (Deadline: July 31)
-* Call for Compositions (Deadline: July 31)
-  
+* [Call for Compositions](music) (Deadline: July 31)
+
 <div class="subscribe">
 <p style="padding-right: 30px;">Subscribe
 <a href="http://google.com" target="_blank"><button>Apple Podcasts</button></a>
@@ -20,4 +20,3 @@ _SMT-Pod_ is a peer-reviewed, collaborative, and creative venue for timely conve
 <a href="http://google.com" target="_blank"><button>Stitcher</button></a>
 <a href="http://google.com" target="_blank"><button>RSS</button></a>
 </p></div>
-
