@@ -31,6 +31,7 @@
     font-family: $sans-font-family;
     color: #ffffff;
     line-height: $base-line-height;
+    text-shadow: 1px 1px 3px $grey-color;
     font-weight: bolder;
     font-size: 15px;
 
@@ -223,25 +224,27 @@ input.accordionInput:checked {
 }
 
 .subscribe {
-padding-top: $spacing-unit * 2;
-padding-bottom: $spacing-unit;
+padding: $spacing-unit;
 margin: 0px $spacing-unit / -2 $spacing-unit * -1 $spacing-unit / -2;
 background: $grey-color;
 text-align: center;
 color: $contrast-color;
+text-shadow: 2px 2px 2px $grey-color-dark;
 font-size: 20px;
 font-family: $sans-font-family;
+font-weight: bolder;
 }
 
 button {
 background: $brand-color;
+box-shadow: 4px 4px 4px $grey-color-dark;
 color: $contrast-color;
-line-height: $base-line-height;
 cursor: pointer;
 border-radius: 5px;
 text-decoration: none;
-font-weight: bold;
+padding: 10px;
 font-size: 15px;
+font-weight: 500;
 border: 1px solid $contrast-color;
 }
 
@@ -249,6 +252,9 @@ button:hover {
 color: $brand-color;
 background: $grey-color;}
 
+.podimage {
+margin: 10px;
+}
 
 
 /**

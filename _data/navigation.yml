@@ -7,6 +7,8 @@ main:
     url: /episodes/
   - title: "PITCH A POD"
     url: /submit/
+  - title: "MUSIC"
+    url: /music/
   - title: "CONTACT"
     url: mailto:smt-pod@societymusictheory.org
   - title: "SMT HOME"

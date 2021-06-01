@@ -1,5 +1,7 @@
 .site-header { background-color: #de4d00; text-color: #fff; link-color: #ffffcc; page-link: #ffffcc; margin-bottom: 0px; }
 
+div.announce { border-radius: 5px; border-style: solid; border-width: 5px; border-color: #de4d00; box-shadow: 3px 3px 3px #535A58; padding: 15px; background-color: #ffffe6; margin: auto; margin-top: 15px; margin-bottom: 15px; width: 90%; }
+
 .hero-image-main { margin: -15px -15px 20px -15px; background-color: #535A58; height: 300px; background-position: center; background-repeat: no-repeat; background-size: cover; position: relative; }
 
 .hero-image { margin: -15px -15px 20px -15px; background-color: #535A58; height: 200px; background-position: center; background-repeat: no-repeat; background-size: cover; position: relative; }
@@ -84,7 +86,7 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 .site-title, .site-title:visited { color: #161817; }
 
 .site-nav { float: right; line-height: 56px; }
-.site-nav .page-link { font-family: Roboto, "Arial", sans-serif; color: #ffffff; line-height: 1.5; font-weight: bolder; font-size: 15px; }
+.site-nav .page-link { font-family: Roboto, "Arial", sans-serif; color: #ffffff; line-height: 1.5; text-shadow: 1px 1px 3px #535A58; font-weight: bolder; font-size: 15px; }
 .site-nav .page-link:not(:last-child) { margin-right: 15px; }
 @media screen and (max-width: 600px) { .site-nav .page-link { padding: 20px 0; margin-left: 20px; }
   .site-nav .page-link:not(:last-child) { margin-right: 0; } }
@@ -132,11 +134,13 @@ input.accordionInput:checked ~ .accordTab-content { max-height: 100%; }
 .post-continue a, .post-continue a:visited { color: #535A58; background-color: #babfbe; }
 .post-continue a:hover { color: white; background-color: #de4d00; }
 
-.subscribe { padding-top: 60px; padding-bottom: 30px; margin: 0px -15px -30px -15px; background: #535A58; text-align: center; color: #ffffcc; font-size: 20px; font-family: Roboto, "Arial", sans-serif; }
+.subscribe { padding: 30px; margin: 0px -15px -30px -15px; background: #535A58; text-align: center; color: #ffffcc; text-shadow: 2px 2px 2px #161817; font-size: 20px; font-family: Roboto, "Arial", sans-serif; font-weight: bolder; }
 
-button { background: #de4d00; color: #ffffcc; line-height: 1.5; cursor: pointer; border-radius: 5px; text-decoration: none; font-weight: bold; font-size: 15px; border: 1px solid #ffffcc; }
+button { background: #de4d00; box-shadow: 4px 4px 4px #161817; color: #ffffcc; cursor: pointer; border-radius: 5px; text-decoration: none; padding: 10px; font-size: 15px; font-weight: 500; border: 1px solid #ffffcc; }
 
 button:hover { color: #de4d00; background: #535A58; }
+
+.podimage { margin: 10px; }
 
 /** Posts */
 .post-header { margin-bottom: 30px; }

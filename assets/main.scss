@@ -37,6 +37,21 @@ $on-laptop:        800px;
     margin-bottom: 0px;
 }
 
+div.announce {
+  border-radius: 5px;
+  border-style: solid;
+  border-width: 5px;
+  border-color: $brand-color;
+  box-shadow: 3px 3px 3px $grey-color;
+  padding: $spacing-unit/2;
+  background-color:lighten($contrast-color, 5%);
+  margin: auto;
+  margin-top: $spacing-unit/2;
+  margin-bottom: $spacing-unit/2;
+  width: 90%;
+
+}
+
 .hero-image-main {
   margin: -15px -15px 20px -15px;
   background-color: $grey-color;
@@ -83,17 +98,17 @@ padding: $spacing-unit/2
   height: 0;
   overflow: hidden;
 }
- 
+
 /* 16x9 Aspect Ratio */
 .intrinsic-container-16x9 {
   padding-bottom: 56.25%;
 }
- 
+
 /* 4x3 Aspect Ratio */
 .intrinsic-container-4x3 {
   padding-bottom: 75%;
 }
- 
+
 .intrinsic-container iframe {
   position: absolute;
   top:0;
