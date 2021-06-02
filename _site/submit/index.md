@@ -10,9 +10,9 @@
 
 ### Overview
 
-_SMT-Pod_ is a peer-reviewed, collaborative, and creative venue for timely conversations about music theory. Audio-only podcasts offer a unique—though non-traditional—way of engaging with music, analysis, and contemporary issues in the field. As opposed to the heavy, jargon-laden publications we are used to working through at our desks, _SMT-Pod_ publications are easy to listen to and think about in the car, on your run, or while grading.\
+_SMT-Pod_ is a [Open Collaborative Peer-Reviewed](OCPR) and creative venue for timely conversations about music theory. Audio-only podcasts offer a unique—though non-traditional—way of engaging with music, analysis, and contemporary issues in the field. As opposed to the heavy, jargon-laden publications we are used to working through at our desks, _SMT-Pod_ publications are easy to listen to and think about in the car, on your run, or while grading.\
 \
-The format of each episode is dictated by its content. For some topics, interviews with individual scholars or panel discussions may be effective; for others, sample lessons may prove useful; for more traditional analysis topics (that would not require visual aids), single-author lectures with plenty of audio examples may suffice. If none of these formats seem beneficial to the episode you are proposing, feel free to design your own. The choice is up to you!\
+The <a href="https://castos.com/podcast-format/" target="_blank">format</a> of each episode is dictated by its content. For some topics, interviews with individual scholars or panel discussions may be effective; for others, sample lessons may prove useful; for more traditional analysis topics (that would not require visual aids), single-author lectures with plenty of audio examples may suffice. If none of these formats seem beneficial to the episode you are proposing, feel free to design your own. The choice is up to you!\
 \
 We welcome proposals from all scholars: those who are avid podcast listeners and those who are less familiar with the medium; whether you have years of experience or are new to the recording process.
 
@@ -22,7 +22,7 @@ If you think you have an idea for SMT-Pod, here are some things you should prepa
 
 <p style="font-size: 16px; text-align: center; font-style: italic;"><strong><a href="../submit/OCPR">Read more about why we use an <br />Open Collaborative Peer Review (OCPR) Process here</a></strong></p>
 
-The initial proposal (300–500 words) should include information about the topic, <a href="https://castos.com/podcast-format/" target="_blank">format</a>, and content of your episode. You’ll submit your proposal on this Google Form, where you’ll also be asked about the structure of the episode and any technological needs you may have. You can see specifics about the rest of the process below (click to open each phase):
+The initial proposal (300–500 words) should include information about the topic, <a href="https://castos.com/podcast-format/" target="_blank">format</a>, and content of your episode. You’ll submit your proposal on this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfZwVoKnYBTsNdtj-e9y6pQkQm5E8pfEntkj15s5BZWai7Kjw/viewform), where you’ll also be asked about the structure of the episode and any technological needs you may have. You can see specifics about the rest of the process below (click to open each phase):
 
 <div class="accordion">
   <div class="accordTab">
@@ -36,11 +36,11 @@ The initial proposal (300–500 words) should include information about the topi
 <ul>
   <li>Topic of episode</li>
   <li><a href="https://castos.com/podcast-format/" target="_blank">Format</a> of episode (single-author presentation, panel discussion, “tiny desk concert,” etc.)</li>
-  <li>Length of episode (short (10–20 min.), medium (20–30 min.), long (30–45 min.))</li>
+  <li>Length of episode [short (10–20 min.), medium (20–30 min.), long (30–45 min.)]</li>
   <li>Identifying information for all creators/participants (these will not be reviewed anonymously)</li>
   <li>Set of keywords</li>
   <li>Include why this topic is best addressed in a podcast format (as opposed to in a written article, SMT-V video, etc.)</li></ul>
-<li>Program Committee evaluates the proposal individually (Open, collaborative peer review including communication between program committee and author), considering:</li>
+<li>Program Committee evaluates the proposal individually (<a href="OCPR">Open, collaborative peer review</a> including communication between program committee and author), considering:</li>
       <ul>
       <li>Suitability for a podcast format</li>
       <li>Creation of a diverse set of topics in a season</li>
