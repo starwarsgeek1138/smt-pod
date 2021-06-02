@@ -2,7 +2,7 @@
 
 div.announce { border-radius: 5px; border-style: solid; border-width: 5px; border-color: #de4d00; box-shadow: 3px 3px 3px #535A58; padding: 15px; background-color: #ffffe6; margin: auto; margin-top: 15px; margin-bottom: 15px; width: 90%; }
 
-.hero-image-main { margin: -15px -15px 20px -15px; background-color: #535A58; height: 400px; background-position: center; background-repeat: no-repeat; background-size: cover; position: relative; font-size: 25px; }
+.hero-image-main { margin: -15px -15px 20px -15px; background-color: #535A58; height: 450px; background-position: center; background-repeat: no-repeat; background-size: cover; position: relative; font-size: 25px; }
 
 .hero-image { margin: -15px -15px 20px -15px; background-color: #535A58; height: 200px; background-position: center; background-repeat: no-repeat; background-size: cover; position: relative; }
 
