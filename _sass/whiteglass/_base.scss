@@ -74,9 +74,10 @@ ul, ol {
 }
 
 li {
+  margin-bottom: 5px;
   > ul,
   > ol {
-    margin-bottom: 0;
+    margin-bottom: 0px;
   }
 }
 
