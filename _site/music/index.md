@@ -6,7 +6,9 @@
 
 As part of our mission to include diverse voices in our scholarship, _SMT-Pod_ aims to showcase a variety of music in our podcast. We encourage SMT members and non-members alike to submit their compositions for both theme and bumper music. All music will be credited verbally on the episode and in writing here.
 
-### Call for Theme/Bumper Music
+### Call for Compositions
+*[See PDF of call here](../assets/docs/SMTPodCallforMusicJune2021.pdf)*
+
 The Society for Music Theory’s _SMT-Pod_ committee seeks submissions from composers for the launch of its inaugural podcast. Applicants are invited to submit 15–30 seconds of music for the podcast’s theme music and/or 5–10 seconds of music for the podcast’s rotation of transitional bumpers. Episodes of SMT-Pod will be regularly heard by SMT’s 1000+ membership, with listenership extending into the composition, performance, and music pedagogy communities. A composer will be verbally credited by name (as desired) on every _SMT-Pod_ episode on which the composer’s music is used.
 
 The _SMT-Pod_ committee has no pre-conceived style or tone considerations. SMT is committed to fostering diversity and inclusivity in the field and welcomes submissions encompassing any and all musical styles and compositional approaches. To clarify: we welcome submissions from composers in genres and styles not traditionally conceived as ‘classical’ or ‘concert’ music, as well as those that are. Submit the music that best expresses your artistic voice and would work well in a podcast context!
