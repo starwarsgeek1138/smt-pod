@@ -21,5 +21,5 @@ Submissions received after this date will be considered for Season 2.</p>
 <div class="subscribe">
 <a href="https://podcasts.apple.com/us/podcast/smt-pod/id1570119752" target="_blank"><img class="podimage" src="/images/ApplePodcasts.svg" alt="Listen on Apple Podcasts"/></a>
 <a href="https://open.spotify.com/show/04BPdqjp732Z1zEvyKXWO3?go=1&utm_source=embed_v3&t=0" target="_blank"><img class="podimage" src="/images/Spotify.svg" alt="Listen on Spotify"/></a>
-<a href="https://www.stitcher.com/s?fid=635197" target="_blank"><img class="podimage" src="/images/Stitcher.svg" alt="Listen on Stitcher"/></a>
+<a href="https://feeds.captivate.fm/smt-pod/" target="_blank"><img class="podimage" src="/images/RSSFeed.svg" alt="Get the RSS"/></a>
 </div>

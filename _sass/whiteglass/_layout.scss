@@ -131,8 +131,31 @@ input.accordionInput:checked {
 }
 
 
+/**
+ * Bio Divs
+ */
+.biobox {
+overflow: auto;
+background-color: lighten($grey-color-light, 20%);
+padding: 10px;
+border-radius: 8px;
+margin-bottom: 10px;
 
+}
 
+.biotitle {
+  color: $brand-color;
+  font-weight: bolder;
+}
+
+.biopic {
+  margin-right: 10px;
+  float: left;
+  width: 150px;
+  height: 150px;
+  border-radius: 5px;
+  box-shadow: 2px 2px 4px $grey-color;
+}
 
 /**
  * Site footer
