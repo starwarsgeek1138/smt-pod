@@ -19,5 +19,5 @@ _<a href="https://player.captivate.fm/show/d9c88032-2609-4757-82c7-860198cb482f/
 <div style="margin-bottom: -50px;" class="subscribe">
 <a href="https://podcasts.apple.com/us/podcast/smt-pod/id1570119752" target="_blank"><img class="podimage" src="/images/ApplePodcasts.svg" alt="Listen on Apple Podcasts"/></a>
 <a href="https://open.spotify.com/show/04BPdqjp732Z1zEvyKXWO3?go=1&utm_source=embed_v3&t=0" target="_blank"><img class="podimage" src="/images/Spotify.svg" alt="Listen on Spotify"/></a>
-<a href="https://feeds.captivate.fm/smt-pod/" target="_blank"><img class="podimage" src="/images/RSSFeed.svg" alt="Get the RSS"/></a></a>
+<a href="https://feeds.captivate.fm/smt-pod/" target="_blank"><img class="podimage" src="/images/RSSFeed.svg" alt="Get the RSS"/></a>
 </div>
