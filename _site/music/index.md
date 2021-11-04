@@ -6,7 +6,13 @@
 
 As part of our mission to include diverse voices in our scholarship, _SMT-Pod_ aims to showcase a variety of music in our podcast. We encourage SMT members and non-members alike to submit their compositions for both theme and bumper music. All music will be credited verbally on the episode and in writing here.
 
-### Call for Compositions
+<div class="announce">
+<h4><strong>Congrats to Zhangcheng Lu!</strong></h4> Their theme BGM Scales was selected as our main theme for SMT-Pod Season 1.
+Thanks to everyone who submitted entries! We will be showcasing other submissions throughout our season.
+
+</div>
+
+### Archived Call for Compositions
 *[See PDF of call here](../assets/docs/SMTPodCallforMusicJune2021.pdf)*
 
 The Society for Music Theory’s _SMT-Pod_ committee seeks submissions from composers for the launch of its inaugural podcast. Applicants are invited to submit 15–30 seconds of music for the podcast’s theme music and/or 5–10 seconds of music for the podcast’s rotation of transitional bumpers. Episodes of SMT-Pod will be regularly heard by SMT’s 1000+ membership, with listenership extending into the composition, performance, and music pedagogy communities. A composer will be verbally credited by name (as desired) on every _SMT-Pod_ episode on which the composer’s music is used.

@@ -4,9 +4,8 @@
   </div>
 </div>
 
->**Currently accepting submissions for Season 1!**\
->Submissions received by July 31, 2021 will be given full consideration.\
->Submissions received after this date will be considered for Season 2.
+>**Currently in Production for Season 1!**\
+>Check back for Season 2 Call for podcasts.
 
 ### Overview
 
