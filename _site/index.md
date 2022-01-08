@@ -9,15 +9,17 @@ _SMT-Pod_ is a [Open Collaborative Peer-Reviewed](../submit/OCPR) and creative v
 <hr>
 <div><p class="socmedia">follow <a href="http://www.twitter.com/smt_pod" target="_blank"><img height="30px" width="30px" alt="twitter; credit: freepik" src="../images/twitter.png"/></a></p></div>
 # Latest News
+**January 1, 2022** : **Happy New Year** We will be releasing podcasts every Thursday starting January 13. To see the list of upcoming podcasts and release dates, check out our [Episodes](Episodes) page!
+
 **November 4, 2021** : **Our season 1 podcasts are in production.** To learn more about the first season and listen to a preview of one of our episodes, check out our Season 1 preview below!
 
-**September 2021** : **Congrats to Zhangcheng Lu.** Their composition, BGM Scales, was selected as our theme for Season 1. 
+**September 2021** : **Congrats to Zhangcheng Lu.** Their composition, BGM Scales, was selected as our theme for Season 1.
 
 **June 1, 2021** : _Hello World._ We've launched! _**Listen to our trailer below**_ to learn more about SMT-Pod, the new Podcast for the [Society for Music Theory](http://www.societymusictheory.org).
 <div style="width: 100%; height: 170px; margin-bottom: 20px; border-radius: 10px; overflow: hidden;"><iframe style="width: 100%; height: 170px;" frameborder="no" scrolling="no" seamless src="https://player.captivate.fm/show/d9c88032-2609-4757-82c7-860198cb482f/latest/"></iframe></div>
 <div class="announce">
 <h4><strong>We are currently in production for Season 1.</strong></h4>
-Check back in January for Season 1 Episodes. A Call for Season 2 Episode Proposals will be coming soon.
+Check back every Thursday starting January 13, 2022 for weekly Season 1 Episodes. A Call for Season 2 Episode Proposals will be coming soon.
 </div>
 
 <div class="subscribe">
