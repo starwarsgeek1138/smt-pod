@@ -272,7 +272,7 @@ PLATFORMS
   universal-darwin-20
 
 DEPENDENCIES
-  github-pages (~> 214)
+  github-pages
   jekyll-whiteglass
 
 BUNDLED WITH
