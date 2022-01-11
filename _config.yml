@@ -2,6 +2,7 @@ title: SMT-Pod
 description: The Society for Music Theory Podcast
 #baseurl: "/"
 url: "https://smt-pod.org"
+remote_theme: yous/whiteglass
 theme: jekyll-whiteglass
 
 plugins:
