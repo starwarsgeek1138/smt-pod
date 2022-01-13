@@ -131,6 +131,17 @@ input.accordionInput:checked ~ .accordTab-content { max-height: 100%; }
 .post-list > li { margin-bottom: 60px; }
 .post-list > li:not(:first-child) { border-top: 4px solid #babfbe; padding-top: 60px; }
 
+/** Podcasts Supplements
+*/
+.supplement { margin-top: 10px; margin-bottom: 10px; padding: 30px 0; padding-top: 0px; border-top: 2px solid #babfbe; }
+
+.supplement-title { color: #de4d00; padding-top: 5px; }
+
+.to-top { font-size: 10px; float: right; color: #de4d00; font-weight: bold; }
+
+.floatsupps:after { content: ""; display: block; clear: both; }
+
+/**Posts */
 .post-archives { margin-left: 0; list-style: none; }
 .post-archives .post-link { color: #fff; font-size: 24px; }
 .post-archives > li { margin-bottom: 30px; }
@@ -146,11 +157,17 @@ input.accordionInput:checked ~ .accordTab-content { max-height: 100%; }
 
 .subscribe { padding: 30px; margin: 0px -15px -30px -15px; background: #535A58; text-align: center; color: #ffffcc; text-shadow: 2px 2px 2px #161817; font-size: 20px; font-family: Roboto, "Arial", sans-serif; font-weight: bolder; }
 
+.subscribemini { margin: 0px -15px 30px -15px; background: #535A58; text-align: center; color: #ffffcc; text-shadow: 2px 2px 2px #161817; font-size: 20px; font-family: Roboto, "Arial", sans-serif; font-weight: bolder; }
+
 button { background: #de4d00; box-shadow: 4px 4px 4px #161817; color: #ffffcc; cursor: pointer; border-radius: 5px; text-decoration: none; padding: 10px; font-size: 15px; font-weight: 500; border: 1px solid #ffffcc; }
 
 button:hover { color: #de4d00; background: #535A58; }
 
 .podimage { margin: 10px; }
+
+.seasonheader { margin: -15px -15px 20px -15px; background-color: #535A58; height: 100px; background-position: center; background-repeat: no-repeat; background-size: cover; position: relative; text-align: left; }
+
+.seasonheader-text { position: absolute; top: 50%; left: 30%; transform: translate(-50%, -50%); color: #ffffcc; text-shadow: 1px 1px 2px #ffffcc; }
 
 /** Posts */
 .post-header { margin-bottom: 30px; }

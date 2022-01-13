@@ -3,39 +3,41 @@
     <h1>Episodes</h1>
   </div>
 </div>
+
+### Listen to the latest episode
+
 <div class="announce">
-<h4><strong>We are currently in production for Season 1.</strong></h4>
-Listen to our Season 1 Trailer below and check back every Thursday beginning January 13, 2022 for Season 1 Episodes.</div>
-### Schedule of Upcoming Podcasts
-New podcast released every Thursday, beginning January 13, 2022.
-<div style="margin-left:20px;">
-• <strong>January 13, 2022: Episode 1 - Scott Murphy</strong>, “Buxtehude Beats Bach? Qualifying a Canonic Claim”<br/>
-• <strong>January 20, 2022: Episode 2 - Joe Straus</strong>, “Old Age and Music: Old Age as Culture” (1/5)<br/>
-• <strong>January 27, 2022: Episode 3 - John Baxter</strong>, “The Teardrop Chord: Analyzing the Enigmatic Minor IV Chord in Pop and Film Music”<br/>
-• <strong>February 3, 2022: Episode 4 - Joe Straus</strong>, “Old Age and Music: Old Age + Opera” (2/5)<br/>
-• <strong>February 10, 2022: Episode 5 - Matt Ferrandino</strong>, “Sonic Identity, Imitation, and Critical Listening in Popular Music”<br/>
-• <strong>February 17, 2022: Episode 6 - Elizabeth Newton & Franklin Bruno</strong>, “The Inside of the Tune: Analyzing the Bridge in Pop”<br/>
-• <strong>February 24, 2022: Episode 7 - Chris Doll</strong>, “Is Key Real?”<br/>
-• <strong>March 3, 2022: Episode 8 - Joe Straus</strong>, “Old Age and Music: Old Composers” (3/5)<br/>
-• <strong>March 10, 2022: Episode 9 - Nate Mitchell, Sarah A. Gilbert, Timothy Byron, & Justice Srisuk</strong>, “Facilitating Musical Discussions on Reddit: An Interdisciplinary Conversation"<br/>
-• <strong>March 17, 2022: Episode 10 - Lucia Pasini</strong>, “Women composers in fin-de-siècle Paris: Augusta Holmès, Cécile Chaminade, and Jane Vieu”<br/>
-• <strong>March 24, 2022: Episode 11 - Tyler Howie & Matt Chiu</strong>, “Untangling and Complicating Generic Boundaries in Post(-Millenial) Punk”<br/>
-• <strong>March 31, 2022: Episode 12 - Nicholas Hunter</strong>, “Dialogic and Tropological Processes in Lili Boulanger’s Faust et Hélène”<br/>
-• <strong>April 7, 2022: Episode 13 - Joe Straus</strong>, “Old Age and Music: Old Performers” (4/5)<br/>
-• <strong>April 14, 2022: Episode 14 - Kim Soby with Elizabeth Austin</strong>, “Misogyny in 19th Century Lieder”<br/>
-• <strong>April 21, 2022: Episode 15 - Landon Morrison</strong>, “Making Orchestras Speak/Making Computers Listen”<br/>
-• <strong>April 28, 2022: Episode 16 - Jennifer Campbell</strong>, “Journeys Through Middleground: Holding Space Between Academic Analysis and YouTube Entertainment”<br/>
-• <strong>May 5, 2022: Episode 17 - Joe Straus</strong>, “Old Age and Music: Old Listeners” (5/5)
+<strong>Season 1:</strong> A new episode launches every Thursday beginning January 13, 2022.
 </div>
 
-<hr>
-
-### Listen to our podcast
+<iframe style="width: 100%; height:200px; border:none;" frameborder="no" scrolling="no" seamless src="https://player.captivate.fm/show/d9c88032-2609-4757-82c7-860198cb482f/"></iframe>
 _<a href="https://player.captivate.fm/show/d9c88032-2609-4757-82c7-860198cb482f/" target="_blank">Click here to open player in a new window</a>_
-<iframe style="width: 100%; height:600px; border:none;" frameborder="no" scrolling="no" seamless src="https://player.captivate.fm/show/d9c88032-2609-4757-82c7-860198cb482f/"></iframe>
-
-<div style="margin-bottom: -50px;" class="subscribe">
+<div class="subscribemini">
 <a href="https://podcasts.apple.com/us/podcast/smt-pod/id1570119752" target="_blank"><img class="podimage" src="/images/ApplePodcasts.svg" alt="Listen on Apple Podcasts"/></a>
 <a href="https://open.spotify.com/show/04BPdqjp732Z1zEvyKXWO3?go=1&utm_source=embed_v3&t=0" target="_blank"><img class="podimage" src="/images/Spotify.svg" alt="Listen on Spotify"/></a>
 <a href="https://feeds.captivate.fm/smt-pod/" target="_blank"><img class="podimage" src="/images/RSSFeed.svg" alt="Get the RSS"/></a>
+</div>
+<hr>
+
+<h3><a href="season01">Season 1:</a> Release Dates (Spring 2022)</h3>
+New episode released every Thursday, beginning January 13, 2022. Click on episode name for credits and supplementary materials (updated throughout the season).
+
+<div style="margin-left:20px;">
+• Episode 1.1 (January 13, 2022) - Scott Murphy, <a href="season01/#e1.1">“Buxtehude Beats Bach? Qualifying a Canonic Claim”</a><br/>
+• Episode 1.2 (January 20, 2022) - Joe Straus, <a href="season01/#e1.2">“Musicking While Old: Old Age as Culture” (1/5)</a><br/>
+• Episode 1.3 (January 27, 2022) - John Baxter, <a href="season01/#e1.3">“The Teardrop Chord: Analyzing the Enigmatic Minor IV Chord in Pop and Film Music”</a><br/>
+• Episode 1.4 (February 3, 2022) - Joe Straus, <a href="season01/#e1.4">“Musicking While Old: Old Age + Opera” (2/5)</a><br/>
+• Episode 1.5 (February 10, 2022) - Matt Ferrandino, <a href="season01/#e1.5">“Sonic Identity, Imitation, and Critical Listening in Popular Music”</a><br/>
+• Episode 1.6 (February 17, 2022) - Elizabeth Newton & Franklin Bruno, <a href="season01/#e1.6">“The Inside of the Tune: Analyzing the Bridge in Pop”</a><br/>
+• Episode 1.7 (February 24, 2022) - Chris Doll, <a href="season01/#e1.7">“Is Key Real?”</a><br/>
+• Episode 1.8 (March 3, 2022) - Joe Straus, <a href="season01/#e1.8">“Musicking While Old: Old Composers” (3/5)</a><br/>
+• Episode 1.9 (March 10, 2022) - Nate Mitchell, Sarah A. Gilbert, Timothy Byron, & Justice Srisuk, <a href="season01/#e1.9">“Facilitating Musical Discussions on Reddit: An Interdisciplinary Conversation"</a><br/>
+• Episode 1.10 (March 17, 2022) - Lucia Pasini, <a href="season01/#e1.10">“Women composers in fin-de-siècle Paris: Augusta Holmès, Cécile Chaminade, and Jane Vieu”</a><br/>
+• Episode 1.11 (March 24, 2022) - Tyler Howie & Matt Chiu, <a href="season01/#e1.11">“Untangling and Complicating Generic Boundaries in Post(-Millenial) Punk”</a><br/>
+• Episode 1.12 (March 31, 2022) - Nicholas Hunter, <a href="season01/#e1.12">“Dialogic and Tropological Processes in Lili Boulanger’s Faust et Hélène”</a><br/>
+• Episode 1.13 (April 7, 2022) - Joe Straus, <a href="season01/#e1.13">“Musicking While Old: Old Performers” (4/5)</a><br/>
+• Episode 1.14 (April 14, 2022) - Kim Soby with Elizabeth Austin, <a href="season01/#e1.14">“Misogyny in 19th Century Lieder”</a><br/>
+• Episode 1.15 (April 21, 2022) - Landon Morrison, <a href="season01/#e1.15">“Making Orchestras Speak/Making Computers Listen”</a><br/>
+• Episode 1.16 (April 28, 2022) - Jennifer Campbell, <a href="season01/#e1.16">“Journeys Through Middleground: Holding Space Between Academic Analysis and YouTube Entertainment”</a><br/>
+• Episode 1.17 (May 5, 2022) - Joe Straus, <a href="season01/#e1.17">“Musicking While Old: Old Listeners” (5/5)</a>
 </div>

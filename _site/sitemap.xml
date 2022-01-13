@@ -10,7 +10,7 @@
 <loc>http://localhost:4000/episodes/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/index-dev/</loc>
+<loc>http://localhost:4000/episodes/season01/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/index-dev/</loc>
@@ -30,5 +30,17 @@
 <url>
 <loc>http://localhost:4000/assets/docs/SMTPodCallforMusicJune2021.pdf</loc>
 <lastmod>2021-06-01T23:18:01-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/episodes/supplements/season01/S01Ep01Supp_murphy.pdf</loc>
+<lastmod>2022-01-12T19:28:37-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/episodes/supplements/season01/S01Ep02Supp_straus.pdf</loc>
+<lastmod>2022-01-12T19:28:59-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/episodes/supplements/season01/S01Ep03Supp_baxter.pdf</loc>
+<lastmod>2022-01-12T19:38:57-05:00</lastmod>
 </url>
 </urlset>

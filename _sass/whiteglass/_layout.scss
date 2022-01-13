@@ -202,6 +202,35 @@ margin-bottom: 10px;
   }
 }
 
+/** Podcasts Supplements
+*/
+
+.supplement {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: $spacing-unit 0;
+  padding-top: 0px;
+  border-top: 2px solid $grey-color-light;
+}
+
+.supplement-title {
+  color: $brand-color;
+  padding-top: 5px;}
+
+.to-top {
+  font-size: 10px;
+  float: right;
+  color: $brand-color;
+  font-weight: bold;
+}
+
+.floatsupps:after {
+  content:"";
+  display:block;
+  clear:both;
+ }
+
+/**Posts */
 .post-archives {
   margin-left: 0;
   list-style: none;
@@ -262,6 +291,17 @@ font-family: $sans-font-family;
 font-weight: bolder;
 }
 
+.subscribemini {
+margin: 0px $spacing-unit / -2 $spacing-unit $spacing-unit / -2;
+background: $grey-color;
+text-align: center;
+color: $contrast-color;
+text-shadow: 2px 2px 2px $grey-color-dark;
+font-size: 20px;
+font-family: $sans-font-family;
+font-weight: bolder;
+}
+
 button {
 background: $brand-color;
 box-shadow: 4px 4px 4px $grey-color-dark;
@@ -283,6 +323,24 @@ background: $grey-color;}
 margin: 10px;
 }
 
+.seasonheader {
+  margin: -15px -15px 20px -15px;
+  background-color: $grey-color;
+  height: 100px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  text-align: left;}
+
+.seasonheader-text{
+  position: absolute;
+  top: 50%;
+  left: 30%;
+  transform: translate(-50%, -50%);
+  color: $contrast-color;
+  text-shadow: 1px 1px 2px $contrast-color;
+}
 
 /**
  * Posts
