@@ -22,6 +22,9 @@
 <loc>http://localhost:4000/music/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/music/season01/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/submit/OCPR/</loc>
 </url>
 <url>

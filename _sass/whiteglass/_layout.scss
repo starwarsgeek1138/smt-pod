@@ -204,6 +204,13 @@ margin-bottom: 10px;
 
 /** Podcasts Supplements
 */
+.seasonplayer {
+  margin-bottom: 10px;
+}
+.seasonplayer:after{
+content:"";
+display:block;
+clear:both;}
 
 .supplement {
   margin-top: 10px;

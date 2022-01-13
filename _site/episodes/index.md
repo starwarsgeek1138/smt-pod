@@ -19,8 +19,8 @@ _<a href="https://player.captivate.fm/show/d9c88032-2609-4757-82c7-860198cb482f/
 </div>
 <hr>
 
-<h3><a href="season01">Season 1:</a> Release Dates (Spring 2022)</h3>
-New episode released every Thursday, beginning January 13, 2022. Click on episode name for credits and supplementary materials (updated throughout the season).
+<h3><a href="season01">Season 1</a> (Spring 2022)</h3>
+A new episode released every Thursday, beginning January 13, 2022. Click on the <a href="season01">Season 1 </a> title to see the full list of Season 1 episodes or on an episode name below for credits and supplementary materials (updated throughout the season).
 
 <div style="margin-left:20px;">
 • Episode 1.1 (January 13, 2022) - Scott Murphy, <a href="season01/#e1.1">“Buxtehude Beats Bach? Qualifying a Canonic Claim”</a><br/>

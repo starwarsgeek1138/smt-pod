@@ -2,7 +2,7 @@
     <h1 class="seasonheader-text">Season 1 (Spring 2022)</h1>
 </div>
 
-<div style="margin-bottom: 10px; height:400px;" id="podcastPlayer">
+<div class="seasonplayer" id="podcastPlayer">
 <iframe style="float: left; width: 60%; height: 380px; padding: 0px;" frameborder="no" scrolling="no" seamless src="https://player.captivate.fm/show/d9c88032-2609-4757-82c7-860198cb482f"></iframe>
 
 <div id="streamingButtons" style="padding: 10px; text-align: center;">
@@ -13,22 +13,24 @@
 <a href="https://open.spotify.com/show/04BPdqjp732Z1zEvyKXWO3?go=1&utm_source=embed_v3&t=0" target="_blank"><img class="podimage" src="/images/Spotify.svg" alt="Listen on Spotify"/></a>
 <a href="https://feeds.captivate.fm/smt-pod/" target="_blank"><img class="podimage" src="/images/RSSFeed.svg" alt="Get the RSS"/></a></div>
 </div>
+
+<div>
 <hr>
 
 <h2>Supplemental Episode Information</h2>
-<div style="clear: both;" class="supplement" id="e1.1">
+<div class="supplement" id="e1.1">
 <h3 class="supplement-title">1.1 - Buxtehude Beats Bach? Qualifying a Canonic Claim</h3>
 <h4>Scott Murphy (University of Kansas)</h4>
 <h5>Release Date: Thursday, January 13, 2022</h5>
 <div class="floatsupps">
-<img style="width:20%; float:left;" alt="Scott Murphy Headshot" src="../supplements/season01/S01Ep01murphy.jpg">
+<img class="biopic" style="float:left;" alt="Scott Murphy Headshot" src="../supplements/season01/S01Ep01murphy.jpg">
 <div style="float:right; width: 75%;">
 <p><a href="../supplements/season01/S01Ep01Supp_murphy.pdf">Supplemental Materials (PDF)</a></p>
 <p>Keywords: <em>Bach, Buxtehude, canon, historiography, firsts</em></p>
 <p style="font-size: 12px;"><strong>Music Credits:</strong><br/>
 SMT-Pod Theme music by Zhangcheng Lu; Closing music "hnna" by David Voss.<br/>
 Other original compositions by Anthony Esland, Jamie Allen, and Liam Hynes-Tawa.<br/>
-(To learn more about our composers, visit our <a href="/music">music</a> page)</p>
+(To learn more about our composers, visit our <a href="/music/season01">season 1 featured music</a> page)</p>
 </div>
 </div>
 <a class="to-top" href="#top">Back to Top</a>
@@ -180,4 +182,5 @@ Other original compositions by Anthony Esland, Jamie Allen, and Liam Hynes-Tawa.
 <p>Supplemental Materials (PDF)</p>
 <p>Keywords: <em>Old age, age studies, old characters, old composers, old performers, old listeners</em></p>
 <a class="to-top" href="#top">Back to Top</a>
+</div>
 </div>

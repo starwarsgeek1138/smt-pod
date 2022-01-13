@@ -9,9 +9,20 @@ As part of our mission to include diverse voices in our scholarship, _SMT-Pod_ a
 <div class="announce">
 <h4><strong>Congrats to Zhangcheng Lu!</strong></h4> Their theme BGM Scales was selected as our main theme for SMT-Pod Season 1.
 Thanks to everyone who submitted entries! We will be showcasing other submissions throughout our season.
+</div>
+
+<hr>
+<div id="s1features">
+<h2>Featured Composers</h2>
+<p>Visit our <a href="season01">Season 1 Composers</a> page to read more about composers featured in Season 1's episodes.</p>
+
+<p>Compositions were submitted as part of a Call for Compositions (see archived call below). Theme and closing music were selected from the submissions by a panel  of judges consisting of the members of the Editorial Board. Bumper/transitional music is chosen on an as-needed basis from the corpus of submissions.</p>
+
+<p>Credits for individual episodes can also be seen on our <a href="/episodes/season01">Season 1 episodes</a> page.</p>
 
 </div>
 
+<hr>
 ### Archived Call for Compositions
 *[See PDF of call here](../assets/docs/SMTPodCallforMusicJune2021.pdf)*
 
@@ -77,6 +88,5 @@ The _SMT-Pod_ committee has no pre-conceived style or tone considerations. SMT i
 </div>
 </div>
 </div>
-
 <hr>
-<h4><a href="#top">Back to Top</a></h4>
+<a class="to-top" href="#top">Back to Top</a>
