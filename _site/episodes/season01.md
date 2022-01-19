@@ -20,18 +20,22 @@
 <h2>Supplemental Episode Information</h2>
 <div class="supplement" id="e1.1">
 <h3 class="supplement-title">1.1 - Buxtehude Beats Bach? Qualifying a Canonic Claim</h3>
+
 <h4>Scott Murphy (University of Kansas)</h4>
 <h5>Release Date: Thursday, January 13, 2022</h5>
 <div class="floatsupps">
-<img class="biopic" style="float:left;" alt="Scott Murphy Headshot" src="../supplements/season01/S01Ep01murphy.jpg">
-<div style="float:right; width: 75%;">
-<p><a href="../supplements/season01/S01Ep01Supp_murphy.pdf">Supplemental Materials (PDF)</a></p>
-<p>Keywords: <em>Bach, Buxtehude, canon, historiography, firsts</em></p>
+<div style="float:left; width: 40%;">
+<img class="biopic" alt="Scott Murphy Headshot" src="../supplements/season01/S01Ep01murphy.jpg">
+<p style="clear:both; padding-top: 10px;"><a href="../supplements/season01/S01Ep01Supp_murphy.pdf">See Supplemental Materials (PDF)</a></p>
 <p style="font-size: 12px;"><strong>Music Credits:</strong><br/>
-SMT-Pod Theme music by Zhangcheng Lu; Closing music "hnna" by David Voss.<br/>
-Other original compositions by Anthony Esland, Jamie Allen, and Liam Hynes-Tawa.<br/>
-(To learn more about our composers, visit our <a href="/music/season01">season 1 featured music</a> page)</p>
+SMT-Pod Theme music by <a href="/music/season01#lu">Zhangcheng Lu</a>; <br/> Closing music "hnna" by <a href="/music/season01#voss">David Voss</a>.<br/>
+Other original compositions by <a href="/music/season01#esland">Anthony Esland</a>, <a href="/music/season01#allen">Jamie Allen</a>, and <a href="/music/season01#hynestawa">Liam Hynes-Tawa</a>.</p>
 </div>
+<div style="float:right; width: 60%;">
+<p><strong>Bio:</strong> Scott Murphy is a professor of music theory at the University of Kansas, where he has taught undergraduate- and graduate-level music theory for twenty years. He has received both the Emerging Scholar Award and the Outstanding Multi-Author Collection Award from the Society for Music Theory, both for publications on the music of Brahms. Beyond Brahms, the subjects of his publications range from melodic expectation in the music of Penderecki to stretto in the music of J.S. Bach and Clara Schumann, and particularly include music for mainstream films and television programs of the past half century, about which he has written many essays for journals and books.</p>
+<p><strong>Keywords:</strong> <em>Bach, Buxtehude, canon, historiography, firsts</em></p>
+</div>
+<div style="width: 100%; height: 180px; margin-top: 10px; margin-bottom: 10px; border-radius: 6px; overflow:hidden; clear:both;"><iframe style="width: 100%; height: 180px;" frameborder="no" scrolling="no" seamless src="https://player.captivate.fm/episode/07de0d1d-7604-418c-bd81-d66ab487acac"></iframe></div>
 </div>
 <a class="to-top" href="#top">Back to Top</a>
 </div>
@@ -41,14 +45,22 @@ Other original compositions by Anthony Esland, Jamie Allen, and Liam Hynes-Tawa.
 <h3 class="supplement-title">1.2 - Musicking While Old: Old Age as Culture (1/5)</h3>
 <h4>Joseph Straus (CUNY)</h4>
 <h5>Release Date: Thursday, January 20, 2022</h5>
-
 <div class="floatsupps">
-<!--<img style="width:20%; float:left;" alt="Joseph Straus Headshot" src="../supplements/season01/S01Ep02straus.jpg">-->
-<div style="float:right; width: 75%;">
-<p><a href="../supplements/season01/S01Ep02Supp_straus.pdf">Supplemental Materials (PDF)</a></p>
-<p>Keywords: <em>Old age, age studies, old characters, old composers, old performers, old listeners</em></p>
+<div style="float:left; width: 40%;">
+<img class="biopic" alt="Joseph Straus Headshot" src="../supplements/season01/S01Ep02straus.jpg">
+<p style="clear:both; padding-top: 10px;"><a href="../supplements/season01/S01Ep02Supp_straus.pdf">See Supplemental Materials (PDF)</a></p>
+<p style="font-size: 12px;"><strong>Music Credits:</strong><br/>
+SMT-Pod Theme music by <a href="/music/season01#lu">Zhangcheng Lu</a>; <br/> Closing music "hnna" by <a href="/music/season01#voss">David Voss</a>.<br/>
+Other performances by <a href="/music/season01#chen">Han Chen</a>.</p>
 </div>
+<div style="float:right; width: 60%;">
+<p><em>This is the first episode of a five-part series that will be released throughout Season 1.</em> </p>
+<p><strong>Bio:</strong> Joseph Straus is Distinguished Professor of Music Theory at the CUNY Graduate Center.  He has written numerous articles and scholarly monographs on a variety of topics in modernist music. He has also written a series of articles and books that engage disability as a cultural practice, most recently <em>Broken Beauty: Musical Modernism and the Representation of Disability</em> (Oxford University Press 2018), which received the Wallace Berry Award from the Society for Music Theory. He was President of SMT from 1997–99.</p>
+<p><strong>Keywords:</strong> <em>Old age, age studies, old characters, old composers, old performers, old listeners</em></p>
 </div>
+<!--<div style="width: 100%; height: 180px; margin-top: 10px; margin-bottom: 10px; border-radius: 6px; overflow:hidden; clear:both;"><iframe style="width: 100%; height: 180px;" frameborder="no" scrolling="no" seamless src="https://player.captivate.fm/episode/07de0d1d-7604-418c-bd81-d66ab487acac"></iframe></div>-->
+</div>
+
 <a class="to-top" href="#top">Back to Top</a>
 </div>
 
@@ -56,15 +68,21 @@ Other original compositions by Anthony Esland, Jamie Allen, and Liam Hynes-Tawa.
 <h3 class="supplement-title">1.3 - The Teardrop Chord: Analyzing the Enigmatic Minor IV Chord in Pop and Film Music</h3>
 <h4>John Baxter (Frost School of Music - University of Miami)</h4>
 <h5>Release Date: Thursday, January 27, 2022</h5>
-
 <div class="floatsupps">
-<!--<img style="width:20%; float:left;" alt="John Baxter Headshot" src="../supplements/season01/S01Ep03baxter.jpg">-->
-<div style="float:right; width: 75%;">
-<p><a href="../supplements/season01/S01Ep03Supp_baxter.pdf">Supplemental Materials (PDF)</a></p>
-<p>Keywords: <em>Harmony, modal mixture, film, emotion, chord</em></p>
+<div style="float:left; width: 40%;">
+<img class="biopic" alt="John Baxter Headshot" src="../supplements/season01/S01Ep03baxter.jpg">
+<p style="clear:both; padding-top: 10px;"><a href="../supplements/season01/S01Ep03Supp_baxter.pdf">See Supplemental Materials (PDF)</a></p>
+<p><a href="https://www.JohnBaxterMusic.com" target="_blank">Website</a></p>
+<p style="font-size: 12px;"><strong>Music Credits:</strong><br/>
+SMT-Pod Theme music by <a href="/music/season01#lu">Zhangcheng Lu</a>; <br/> Closing music "hnna" by <a href="/music/season01#voss">David Voss</a>.</p>
 </div>
+<div style="float:right; width: 60%;">
+<p><strong>Bio:</strong> A young composer whose compositional work has been described as “a great spiritual experience,” John Baxter explores the tense and mercurial chasm between musician and listener. After his time as an undergrad at Yale University, John pursued a Masters degree in Theory and Composition at NYU. He is currently a DMA candidate in composition at the Frost School of Music (ABD), studying with Dr. Lansing McLoskey. In addition to composition, John is also an active conductor of orchestras and choirs, studying with Maestro Gerard Schwarz. Current projects include compositions for the Richmond Pops Band, the Sofia Philharmonic Orchestra, Apply Triangle, and a cello concerto for cellist Qianci Liu. His string orchestra piece "The Color of Rain" was recently named a semi-finalist in the O/Modernt International Composition Competition as well as the Schnittke International Composition Competition. John was also recently named the winner of The American Prize in orchestral composition (pops/student division). John strives to stay an active member of the new music community, exploring the pathos of the late romantic period through the paradigm of innovative modernist techniques and complexity.
+</p>
+<p><strong>Keywords:</strong> <em>Harmony, film music, pop music, storytelling, modal mixture</em></p>
 </div>
-
+<!--<div style="width: 100%; height: 180px; margin-top: 10px; margin-bottom: 10px; border-radius: 6px; overflow:hidden; clear:both;"><iframe style="width: 100%; height: 180px;" frameborder="no" scrolling="no" seamless src="https://player.captivate.fm/episode/07de0d1d-7604-418c-bd81-d66ab487acac"></iframe></div>-->
+</div>
 
 <a class="to-top" href="#top">Back to Top</a>
 </div>

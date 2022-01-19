@@ -8,11 +8,12 @@ As part of our mission to include diverse voices in our scholarship, _SMT-Pod_ a
 
 <hr>
 <div id="s1features">
-<p>The following composers are featured in Season 1's episodes (updated as episodes are released):</p>
+<p>The following composers and performers are featured in Season 1's episodes (updated as episodes are released):</p>
 <ul>
 <li><a href="#lu">Zhangcheng Lu</a> (SMT-Pod Theme)</li>
 <li><a href="#voss">David Voss</a> (SMT-Pod Closing Theme)</li>
 <li><a href="#allen">Jamie Allen</a></li>
+<li><a href="#chen">Han Chen</a></li>
 <li><a href="#esland">Anthony Esland</a></li>
 <li><a href="#hynes">Liam Hynes-Tawa</a></li>
 </ul>
@@ -20,8 +21,8 @@ As part of our mission to include diverse voices in our scholarship, _SMT-Pod_ a
 <p>Credits for individual episodes can be seen on our <a href="/episodes/season01">Season 1 episodes</a> page.</p>
 <hr>
 <div id="s1composerbios">
-<h3>Composer Biographies</h3>
-<p><em>Theme and Closing music composers are listed first, followed by other composers listed in alphabetical order by last name.</em></p>
+<h3>Musician Biographies</h3>
+<p><em>Theme and Closing music composers are listed first, followed by other composers and performers listed in alphabetical order by last name.</em></p>
 
 <div class="biobox" id="lu">
 <a name="lu"></a>
@@ -49,6 +50,14 @@ Untitled work featured in <a href="/episodes/season01/#e1.1">Episode 1.1</a></p>
 <p>He has won awards for his work, and has been a frequent presenter, educational consultant, and conductor for many arts organizations, including the Santa Fe Opera, the Dallas Symphony Orchestra, and the Dallas Opera. Under his guidance as Education Director from 2006-2020, the Dallas Symphony Orchestra’s award-winning educational programs reached over 50,000 children and adults each year via concerts, innovative instruction programs, in-school & community performances, pre-concert lectures, open rehearsals, web sites, master classes and more.</p>
 
 <p>Allen now composes full-time, and has recently received commissions from the New Bedford Symphony Orchestra, renowned trombonist Angel Subero, the American Recorder Society, and others.</p>
+<a class="to-top" href="#top">Back to Top</a>
+</div>
+
+<div class="biobox" id="chen"><a name="chen"></a>
+<h4 style="font-weight: bold;">Han Chen</h4>
+<p style="font-size: 14px; font-weight: bold;"><a href="https://linktr.ee/hanchenpiano" target="_blank">Artist's Websites</a><br/>
+Performance of Aaron Copland's "Night Thoughts" in <a href="/episodes/season01/#e1.1">Episode 1.2</a></p>
+<p>Pianist Han Chen is “impressively commanding and authoritative” (Gramophone) and has “a graceful touch”, “rhythmic precision” and “hypnotic charm” (New York Times). After winning the Gold Medal at the 6th China International Piano Competition in 2013, Chen has released three solo albums under the Naxos Records (music by Liszt, Rubinstein, and Thomas Adès, respectively). These albums have won him acclaims from critics around the world. As a soloist, he has performed with numerous orchestras and worked with conductors such as Vladimir Ashkenazy, Karina Canellakis, and Nicholas McGegan. As a new music advocate, Chen has premiered works by composers such as Unsuk Chin, Molly Joyce, Jonah Haven, among others. In 2021, Chen launched Migration Music, a series of interviews and performances featuring immigrant composers. Born in Taiwan, Chen now resides in New York. After graduating from The Juilliard School (with Prof. Yoheved Kaplinsky) and the New England Conservatory (with Prof. Wha Kyung Byun), he is now a doctoral candidate at The Graduate Center, CUNY under the guidance of Prof. Yoheved Kaplinsky and Prof. Ursula Oppens.</p>
 <a class="to-top" href="#top">Back to Top</a>
 </div>
 
