@@ -71,11 +71,14 @@ Other performances by <a href="/music/season01#chen">Han Chen</a>.</p>
 <div class="floatsupps">
 <div style="float:left; width: 40%;">
 <img class="biopic" alt="John Baxter Headshot" src="../supplements/season01/S01Ep03baxter.jpg">
-<p style="clear:both; padding-top: 10px;"><a href="../supplements/season01/S01Ep03Supp_baxter.pdf">Supplemental Materials (PDF)- <a href="https://docs.google.com/document/d/1lzUEBYYIYncuJzAhC_hu0HljJ4eCc-P3cqQe0ccjna8/edit?usp=sharing" target="_blank">Supplemental Materials (Google Docs)</a></p>
+<p style="clear:both; padding-top: 10px;"><a href="https://www.JohnBaxterMusic.com" target="_blank">Website</a></p>
 
-<p><a href="https://www.JohnBaxterMusic.com" target="_blank">Website</a></p>
-<p style="font-size: 12px;"><strong>Music Credits:</strong><br/>
-SMT-Pod Theme music by <a href="/music/season01#lu">Zhangcheng Lu</a>; <br/> Closing music "hnna" by <a href="/music/season01#voss">David Voss</a>.</p>
+<p style="clear:both; padding-top: 10px;"><a href="../supplements/season01/S01Ep03Supp_baxter.pdf">Supplemental Materials (PDF)</a><br/>
+<a href="https://docs.google.com/document/d/1lzUEBYYIYncuJzAhC_hu0HljJ4eCc-P3cqQe0ccjna8/edit?usp=sharing" target="_blank">Supplemental Materials (Google Docs)</a></p>
+<p style="font-size: 12px;">
+<strong>Music Credits:</strong><br/>
+SMT-Pod Theme music by <a href="/music/season01#lu">Zhangcheng Lu</a>; <br/>
+Closing music "hnna" by <a href="/music/season01#voss">David Voss</a>.</p>
 </div>
 <div style="float:right; width: 60%;">
 <p><strong>Bio:</strong> A young composer whose compositional work has been described as “a great spiritual experience,” John Baxter explores the tense and mercurial chasm between musician and listener. After his time as an undergrad at Yale University, John pursued a Masters degree in Theory and Composition at NYU. He is currently a DMA candidate in composition at the Frost School of Music (ABD), studying with Dr. Lansing McLoskey. In addition to composition, John is also an active conductor of orchestras and choirs, studying with Maestro Gerard Schwarz. Current projects include compositions for the Richmond Pops Band, the Sofia Philharmonic Orchestra, Apply Triangle, and a cello concerto for cellist Qianci Liu. His string orchestra piece "The Color of Rain" was recently named a semi-finalist in the O/Modernt International Composition Competition as well as the Schnittke International Composition Competition. John was also recently named the winner of The American Prize in orchestral composition (pops/student division). John strives to stay an active member of the new music community, exploring the pathos of the late romantic period through the paradigm of innovative modernist techniques and complexity.
