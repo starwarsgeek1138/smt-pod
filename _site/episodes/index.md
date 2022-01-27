@@ -7,7 +7,7 @@
 ### Listen to the latest episode
 
 <div class="announce">
-<strong>Season 1:</strong> A new episode launches every Thursday beginning January 13, 2022.
+<strong>Season 1:</strong> A new episode launches every Thursday at 9am EST beginning January 13, 2022.
 </div>
 
 <iframe style="width: 100%; height:200px; border:none;" frameborder="no" scrolling="no" seamless src="https://player.captivate.fm/show/d9c88032-2609-4757-82c7-860198cb482f/"></iframe>
@@ -37,7 +37,7 @@ A new episode released every Thursday, beginning January 13, 2022. Click on the 
 • Episode 1.12 (March 31, 2022) - Nicholas Hunter, <a href="season01/#e1.12">“Dialogic and Tropological Processes in Lili Boulanger’s Faust et Hélène”</a><br/>
 • Episode 1.13 (April 7, 2022) - Joe Straus, <a href="season01/#e1.13">“Musicking While Old: Old Performers” (4/5)</a><br/>
 • Episode 1.14 (April 14, 2022) - Kim Soby with Elizabeth Austin, <a href="season01/#e1.14">“Misogyny in 19th Century Lieder”</a><br/>
-• Episode 1.15 (April 21, 2022) - Landon Morrison, <a href="season01/#e1.15">“Making Orchestras Speak/Making Computers Listen”</a><br/>
+• Episode 1.15 (April 21, 2022) - Landon Morrison, <a href="season01/#e1.15">“Making Orchestras Speak/Making Machines Listen”</a><br/>
 • Episode 1.16 (April 28, 2022) - Jennifer Campbell, <a href="season01/#e1.16">“Journeys Through Middleground: Holding Space Between Academic Analysis and YouTube Entertainment”</a><br/>
 • Episode 1.17 (May 5, 2022) - Joe Straus, <a href="season01/#e1.17">“Musicking While Old: Old Listeners” (5/5)</a>
 </div>

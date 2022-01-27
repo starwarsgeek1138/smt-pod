@@ -58,7 +58,7 @@ Other performances by <a href="/music/season01#chen">Han Chen</a>.</p>
 <p><strong>Bio:</strong> Joseph Straus is Distinguished Professor of Music Theory at the CUNY Graduate Center.  He has written numerous articles and scholarly monographs on a variety of topics in modernist music. He has also written a series of articles and books that engage disability as a cultural practice, most recently <em>Broken Beauty: Musical Modernism and the Representation of Disability</em> (Oxford University Press 2018), which received the Wallace Berry Award from the Society for Music Theory. He was President of SMT from 1997–99.</p>
 <p><strong>Keywords:</strong> <em>Old age, age studies, old characters, old composers, old performers, old listeners</em></p>
 </div>
-<!--<div style="width: 100%; height: 180px; margin-top: 10px; margin-bottom: 10px; border-radius: 6px; overflow:hidden; clear:both;"><iframe style="width: 100%; height: 180px;" frameborder="no" scrolling="no" seamless src="https://player.captivate.fm/episode/07de0d1d-7604-418c-bd81-d66ab487acac"></iframe></div>-->
+<div style="width: 100%; height: 180px; margin-top: 10px; margin-bottom: 10px; border-radius: 6px; overflow:hidden; clear:both;"><iframe style="width: 100%; height: 180px;" frameborder="no" scrolling="no" seamless src="https://player.captivate.fm/episode/2cadf4c5-3eeb-42fd-8a31-fb7581b0fcbd"></iframe></div>
 </div>
 
 <a class="to-top" href="#top">Back to Top</a>
@@ -85,7 +85,7 @@ Closing music "hnna" by <a href="/music/season01#voss">David Voss</a>.</p>
 </p>
 <p><strong>Keywords:</strong> <em>Harmony, film music, pop music, storytelling, modal mixture</em></p>
 </div>
-<!--<div style="width: 100%; height: 180px; margin-top: 10px; margin-bottom: 10px; border-radius: 6px; overflow:hidden; clear:both;"><iframe style="width: 100%; height: 180px;" frameborder="no" scrolling="no" seamless src="https://player.captivate.fm/episode/07de0d1d-7604-418c-bd81-d66ab487acac"></iframe></div>-->
+<div style="width: 100%; height: 180px; margin-top: 10px; margin-bottom: 10px; border-radius: 6px; overflow:hidden; clear:both;"><iframe style="width: 100%; height: 180px;" frameborder="no" scrolling="no" seamless src="https://player.captivate.fm/episode/c1e4e5dc-d631-4834-964f-4213b714568e"></iframe></div>
 </div>
 
 <a class="to-top" href="#top">Back to Top</a>
@@ -95,18 +95,46 @@ Closing music "hnna" by <a href="/music/season01#voss">David Voss</a>.</p>
 <h3 class="supplement-title">1.4 - Musicking While Old: Old Age + Opera (2/5)</h3>
 <h4>Joseph Straus (CUNY)</h4>
 <h5>Release Date: Thursday, February 3, 2022</h5>
+<div class="floatsupps">
+<div style="float:left; width: 40%;">
+<p style="clear:both; font-size: 12px;">
+<strong>Music Credits:</strong><br/>
+SMT-Pod Theme music by <a href="/music/season01#lu">Zhangcheng Lu</a>; <br/>
+Closing music "hnna" by <a href="/music/season01#voss">David Voss</a>.</p>
+</div>
+<div style="float:right; width: 60%;">
+<p><em>This is the second episode of a five-part series that will be released throughout Season 1.</em> </p>
+<p><a href="#e1.2">See author information and supplemental materials</a> for the first episode of the series.</p>
+<p><strong>Keywords:</strong> <em>Old age, opera, old characters</em></p>
+</div>
+<!--<div style="width: 100%; height: 180px; margin-top: 10px; margin-bottom: 10px; border-radius: 6px; overflow:hidden; clear:both;"><iframe style="width: 100%; height: 180px;" frameborder="no" scrolling="no" seamless src="https://player.captivate.fm/episode/c1e4e5dc-d631-4834-964f-4213b714568e"></iframe></div>-->
 
-
-<p>Supplemental Materials (PDF)</p>
-<p>Keywords: <em>Old age, age studies, old characters, old composers, old performers, old listeners</em></p>
-
+</div>
 <a class="to-top" href="#top">Back to Top</a>
 </div>
 
 <div class="supplement" id="e1.5">
 <h3 class="supplement-title">1.5 - Sonic Identity, Imitation, and Critical Listening in Popular Music</h3>
-<h4>Matt Ferrandino</h4>
+<h4>Matt Ferrandino (Ottawa University)</h4>
 <h5>Release Date: Thursday, February 10, 2022</h5>
+
+<div class="floatsupps">
+<div style="float:left; width: 40%;">
+<img class="biopic" alt="Matthew Ferrandino Headshot" src="../supplements/season01/S01Ep04ferrandino.jpg">
+
+<p style="clear:both; padding-top: 10px;"><a href="../supplements/season01/S01Ep05Supp_ferrandino.pdf">Supplemental Materials (PDF)</a></p>
+<p style="font-size: 12px;">
+<strong>Music Credits:</strong><br/>
+SMT-Pod Theme music by <a href="/music/season01#lu">Zhangcheng Lu</a>; <br/>
+Closing music "hnna" by <a href="/music/season01#voss">David Voss</a>.</p>
+</div>
+<div style="float:right; width: 60%;">
+<p><strong>Bio:</strong> Matthew Ferrandino is currently a part-time lecturer at Ottawa University (in Ottawa, KS) where he teaches courses in music theory and popular music. Matthew holds a PhD in music theory from the University of Kansas where he completed his dissertation <em>A Narratology of Music Video</em> in 2021. His research focuses on the analysis of popular music and has been published in <em>Music Theory Online</em>, <em>SMT-V</em>, and <em>Intégral</em>.
+</p>
+<p><strong>Keywords:</strong> <em>Popular music, listening, timbre, culture, sound studies</em></p>
+</div>
+<!--<div style="width: 100%; height: 180px; margin-top: 10px; margin-bottom: 10px; border-radius: 6px; overflow:hidden; clear:both;"><iframe style="width: 100%; height: 180px;" frameborder="no" scrolling="no" seamless src="https://player.captivate.fm/episode/c1e4e5dc-d631-4834-964f-4213b714568e"></iframe></div>-->
+</div>
 <a class="to-top" href="#top">Back to Top</a>
 </div>
 
@@ -114,6 +142,25 @@ Closing music "hnna" by <a href="/music/season01#voss">David Voss</a>.</p>
 <h3 class="supplement-title">1.6 - The Inside of the Tune: Analyzing the Bridge in Pop</h3>
 <h4>Elizabeth Newton & Franklin Bruno</h4>
 <h5>Release Date: Thursday, February 17, 2022</h5>
+
+<div class="floatsupps">
+<div style="float:left; width: 40%;">
+<!--<img class="biopic" alt="Matthew Ferrandino Headshot" src="../supplements/season01/S01Ep04ferrandino.jpg">
+
+<p style="clear:both; padding-top: 10px;"><a href="../supplements/season01/S01Ep05Supp_ferrandino.pdf">Supplemental Materials (PDF)</a></p>
+<p style="font-size: 12px;">
+<strong>Music Credits:</strong><br/>
+SMT-Pod Theme music by <a href="/music/season01#lu">Zhangcheng Lu</a>; <br/>
+Closing music "hnna" by <a href="/music/season01#voss">David Voss</a>.</p>
+</div>
+<div style="float:right; width: 60%;">
+<p><strong>Bio:</strong> Matthew Ferrandino is currently a part-time lecturer at Ottawa University (in Ottawa, KS) where he teaches courses in music theory and popular music. Matthew holds a PhD in music theory from the University of Kansas where he completed his dissertation <em>A Narratology of Music Video</em> in 2021. His research focuses on the analysis of popular music and has been published in <em>Music Theory Online</em>, <em>SMT-V</em>, and <em>Intégral</em>.
+</p>
+<p><strong>Keywords:</strong> <em>Popular music, listening, timbre, culture, sound studies</em></p>
+</div>-->
+<!--<div style="width: 100%; height: 180px; margin-top: 10px; margin-bottom: 10px; border-radius: 6px; overflow:hidden; clear:both;"><iframe style="width: 100%; height: 180px;" frameborder="no" scrolling="no" seamless src="https://player.captivate.fm/episode/c1e4e5dc-d631-4834-964f-4213b714568e"></iframe></div>-->
+</div>
+
 <a class="to-top" href="#top">Back to Top</a>
 </div>
 
@@ -182,7 +229,7 @@ Closing music "hnna" by <a href="/music/season01#voss">David Voss</a>.</p>
 </div>
 
 <div class="supplement" id="e1.15">
-<h3 class="supplement-title">1.15 - Making Orchestras Speak/Making Computers Listen</h3>
+<h3 class="supplement-title">1.15 - Making Orchestras Speak/Making Machines Listen</h3>
 <h4>Landon Morrison</h4>
 <h5>Release Date: Thursday, April 21, 2022</h5>
 <a class="to-top" href="#top">Back to Top</a>
