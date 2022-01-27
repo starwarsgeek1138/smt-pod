@@ -26,7 +26,7 @@
 <div class="floatsupps">
 <div style="float:left; width: 40%;">
 <img class="biopic" alt="Scott Murphy Headshot" src="../supplements/season01/S01Ep01murphy.jpg">
-<p style="clear:both; padding-top: 10px;"><a href="../supplements/season01/S01Ep01Supp_murphy.pdf">See Supplemental Materials (PDF)</a></p>
+<p style="clear:both; padding-top: 10px;"><a href="../supplements/season01/S01Ep01Supp_murphy.pdf">Supplemental Materials (PDF)</a></p>
 <p style="font-size: 12px;"><strong>Music Credits:</strong><br/>
 SMT-Pod Theme music by <a href="/music/season01#lu">Zhangcheng Lu</a>; <br/> Closing music "hnna" by <a href="/music/season01#voss">David Voss</a>.<br/>
 Other original compositions by <a href="/music/season01#esland">Anthony Esland</a>, <a href="/music/season01#allen">Jamie Allen</a>, and <a href="/music/season01#hynestawa">Liam Hynes-Tawa</a>.</p>
@@ -48,7 +48,7 @@ Other original compositions by <a href="/music/season01#esland">Anthony Esland</
 <div class="floatsupps">
 <div style="float:left; width: 40%;">
 <img class="biopic" alt="Joseph Straus Headshot" src="../supplements/season01/S01Ep02straus.jpg">
-<p style="clear:both; padding-top: 10px;"><a href="../supplements/season01/S01Ep02Supp_straus.pdf">See Supplemental Materials (PDF)</a></p>
+<p style="clear:both; padding-top: 10px;"><a href="../supplements/season01/S01Ep02Supp_straus.pdf">Supplemental Materials (PDF)</a></p>
 <p style="font-size: 12px;"><strong>Music Credits:</strong><br/>
 SMT-Pod Theme music by <a href="/music/season01#lu">Zhangcheng Lu</a>; <br/> Closing music "hnna" by <a href="/music/season01#voss">David Voss</a>.<br/>
 Other performances by <a href="/music/season01#chen">Han Chen</a>.</p>
@@ -71,7 +71,8 @@ Other performances by <a href="/music/season01#chen">Han Chen</a>.</p>
 <div class="floatsupps">
 <div style="float:left; width: 40%;">
 <img class="biopic" alt="John Baxter Headshot" src="../supplements/season01/S01Ep03baxter.jpg">
-<p style="clear:both; padding-top: 10px;"><a href="../supplements/season01/S01Ep03Supp_baxter.pdf">See Supplemental Materials (PDF)</a></p>
+<p style="clear:both; padding-top: 10px;"><a href="../supplements/season01/S01Ep03Supp_baxter.pdf">Supplemental Materials (PDF) - <a href="https://docs.google.com/document/d/1lzUEBYYIYncuJzAhC_hu0HljJ4eCc-P3cqQe0ccjna8/edit?usp=sharing" target="_blank">open in Google docs</a></p>
+
 <p><a href="https://www.JohnBaxterMusic.com" target="_blank">Website</a></p>
 <p style="font-size: 12px;"><strong>Music Credits:</strong><br/>
 SMT-Pod Theme music by <a href="/music/season01#lu">Zhangcheng Lu</a>; <br/> Closing music "hnna" by <a href="/music/season01#voss">David Voss</a>.</p>
