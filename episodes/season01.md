@@ -71,7 +71,7 @@ Other performances by <a href="/music/season01#chen">Han Chen</a>.</p>
 <div class="floatsupps">
 <div style="float:left; width: 40%;">
 <img class="biopic" alt="John Baxter Headshot" src="../supplements/season01/S01Ep03baxter.jpg">
-<p style="clear:both; padding-top: 10px;"><a href="../supplements/season01/S01Ep03Supp_baxter.pdf">Supplemental Materials (PDF) - <a href="https://docs.google.com/document/d/1lzUEBYYIYncuJzAhC_hu0HljJ4eCc-P3cqQe0ccjna8/edit?usp=sharing" target="_blank">open in Google docs</a></p>
+<p style="clear:both; padding-top: 10px;"><a href="../supplements/season01/S01Ep03Supp_baxter.pdf">Supplemental Materials (PDF) <br/><a href="https://docs.google.com/document/d/1lzUEBYYIYncuJzAhC_hu0HljJ4eCc-P3cqQe0ccjna8/edit?usp=sharing" target="_blank">Supplemental Materials (Google Docs)</a></p>
 
 <p><a href="https://www.JohnBaxterMusic.com" target="_blank">Website</a></p>
 <p style="font-size: 12px;"><strong>Music Credits:</strong><br/>
