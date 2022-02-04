@@ -98,7 +98,7 @@ Closing music "hnna" by <a href="/music/season01#voss">David Voss</a>.</p>
 <div class="floatsupps">
 <div style="float:left; width: 40%;">
 <p style="clear:both;"><a href="../supplements/season01/S01Ep04Supp_straus.pdf">Supplemental Materials (PDF)</a></p>
-<p><strong>Music Credits:</strong><br/>
+<p style="font-size: 12px;><strong>Music Credits:</strong><br/>
 SMT-Pod Theme music by <a href="/music/season01#lu">Zhangcheng Lu</a><br/>
 Closing music "hnna" by <a href="/music/season01#voss">David Voss</a><br/>
 Other performances by <a href="/music/season01#chen">Han Chen</a></p>
