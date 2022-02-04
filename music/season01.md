@@ -56,7 +56,7 @@ Untitled work featured in <a href="/episodes/season01/#e1.1">Episode 1.1</a></p>
 <div class="biobox" id="chen"><a name="chen"></a>
 <h4 style="font-weight: bold;">Han Chen</h4>
 <p style="font-size: 14px; font-weight: bold;"><a href="https://linktr.ee/hanchenpiano" target="_blank">Artist's Websites</a><br/>
-Performance of Aaron Copland's "Night Thoughts" in <a href="/episodes/season01/#e1.1">Episode 1.2</a></p>
+Performance of Aaron Copland's "Night Thoughts" in <a href="/episodes/season01/#e1.1">Episodes 1.2</a> and <a href="/episodes/season01/#e1.4">1.4</a></p> 
 <p>Pianist Han Chen is “impressively commanding and authoritative” (Gramophone) and has “a graceful touch”, “rhythmic precision” and “hypnotic charm” (New York Times). After winning the Gold Medal at the 6th China International Piano Competition in 2013, Chen has released three solo albums under the Naxos Records (music by Liszt, Rubinstein, and Thomas Adès, respectively). These albums have won him acclaims from critics around the world. As a soloist, he has performed with numerous orchestras and worked with conductors such as Vladimir Ashkenazy, Karina Canellakis, and Nicholas McGegan. As a new music advocate, Chen has premiered works by composers such as Unsuk Chin, Molly Joyce, Jonah Haven, among others. In 2021, Chen launched Migration Music, a series of interviews and performances featuring immigrant composers. Born in Taiwan, Chen now resides in New York. After graduating from The Juilliard School (with Prof. Yoheved Kaplinsky) and the New England Conservatory (with Prof. Wha Kyung Byun), he is now a doctoral candidate at The Graduate Center, CUNY under the guidance of Prof. Yoheved Kaplinsky and Prof. Ursula Oppens.</p>
 <a class="to-top" href="#top">Back to Top</a>
 </div>
