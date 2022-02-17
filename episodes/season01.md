@@ -127,38 +127,45 @@ Other performances by <a href="/music/season01#chen">Han Chen</a></p>
 <p style="font-size: 12px;">
 <strong>Music Credits:</strong><br/>
 SMT-Pod Theme music by <a href="/music/season01#lu">Zhangcheng Lu</a>; <br/>
-Closing music "hnna" by <a href="/music/season01#voss">David Voss</a>.</p>
+Closing music "hnna" by <a href="/music/season01#voss">David Voss</a>.<br/>
+
+</p>
 </div>
 <div style="float:right; width: 60%;">
 <p><strong>Bio:</strong> Matthew Ferrandino is currently a part-time lecturer at Ottawa University (in Ottawa, KS) where he teaches courses in music theory and popular music. Matthew holds a PhD in music theory from the University of Kansas where he completed his dissertation <em>A Narratology of Music Video</em> in 2021. His research focuses on the analysis of popular music and has been published in <em>Music Theory Online</em>, <em>SMT-V</em>, and <em>Intégral</em>.
 </p>
 <p><strong>Keywords:</strong> <em>Popular music, listening, timbre, culture, sound studies</em></p>
 </div>
-<!--<div style="width: 100%; height: 180px; margin-top: 10px; margin-bottom: 10px; border-radius: 6px; overflow:hidden; clear:both;"><iframe style="width: 100%; height: 180px;" frameborder="no" scrolling="no" seamless src="https://player.captivate.fm/episode/c1e4e5dc-d631-4834-964f-4213b714568e"></iframe></div>-->
+<div style="width: 100%; height: 180px; margin-top: 10px; margin-bottom: 10px; border-radius: 6px; overflow:hidden; clear:both;"><iframe style="width: 100%; height: 180px;" frameborder="no" scrolling="no" seamless src="https://player.captivate.fm/episode/2daa1650-0825-4758-ba0e-9a4647fbae86"></iframe></div>
 </div>
 <a class="to-top" href="#top">Back to Top</a>
 </div>
 
 <div class="supplement" id="e1.6">
 <h3 class="supplement-title">1.6 - The Inside of the Tune: Analyzing the Bridge in Pop</h3>
-<h4>Elizabeth Newton & Franklin Bruno</h4>
+<h4>Elizabeth Newton (CUNY Graduate Center) & Franklin Bruno (SUNY Purchase)</h4>
 <h5>Release Date: Thursday, February 17, 2022</h5>
 
 <div class="floatsupps">
 <div style="float:left; width: 40%;">
-<!--<img class="biopic" alt="Matthew Ferrandino Headshot" src="../supplements/season01/S01Ep04ferrandino.jpg">
+<img class="biopic" alt="Bridge photo by Jacob Colvin" src="../supplements/season01/pexels-jacob-colvin-1761279.jpg">
 
-<p style="clear:both; padding-top: 10px;"><a href="../supplements/season01/S01Ep05Supp_ferrandino.pdf">Supplemental Materials (PDF)</a></p>
+<p style="clear:both; padding-top: 10px;"><a href="../supplements/season01/S01Ep06Supp_newton_bruno.pdf">Supplemental Materials (PDF)</a></p>
 <p style="font-size: 12px;">
 <strong>Music Credits:</strong><br/>
 SMT-Pod Theme music by <a href="/music/season01#lu">Zhangcheng Lu</a>; <br/>
 Closing music "hnna" by <a href="/music/season01#voss">David Voss</a>.</p>
 </div>
 <div style="float:right; width: 60%;">
-<p><strong>Bio:</strong> Matthew Ferrandino is currently a part-time lecturer at Ottawa University (in Ottawa, KS) where he teaches courses in music theory and popular music. Matthew holds a PhD in music theory from the University of Kansas where he completed his dissertation <em>A Narratology of Music Video</em> in 2021. His research focuses on the analysis of popular music and has been published in <em>Music Theory Online</em>, <em>SMT-V</em>, and <em>Intégral</em>.
+<p><strong><em>This episode appears in 2 Parts.</em></strong></p>
+<p><strong>Bio:</strong> Elizabeth Newton is a writer and Ph.D. candidate in musicology at the CUNY Graduate Center, and she teaches music history at the City College of New York. Her in-progress dissertation is a microhistory of lo-fi sound.
 </p>
-<p><strong>Keywords:</strong> <em>Popular music, listening, timbre, culture, sound studies</em></p>
-</div>-->
+<p><strong>Bio:</strong> Franklin Bruno is an critic, poet, and scholar of philosophy and musicology. He is an author of two books, <em>Armed Forces</em> and <em>The Accordion Repertoire</em> and is currently working on a book about bridges, middle eights, and breakdowns in (mostly American) popular music, to be published by Wesleyan University Press. He received his Ph.D. in Philosophy from UCLA, is currently a lecturer at SUNY Purchase, and has previously taught at Pomona College, Northwestern University, and Bard College.</p>
+
+<p><strong>Keywords:</strong> <em>Bridge, popular music, song form, songwriting, music theory, popular musicology <br/>
+<strong>Part 1 Keywords:</strong> Taylor Swift, Smokey Robinson<br/>
+<strong>Part 2 Keywords:</strong> Hank Williams, Bessie Smith, Fats Waller, Marion Harris, Adorno</em></p>
+</div>
 <!--<div style="width: 100%; height: 180px; margin-top: 10px; margin-bottom: 10px; border-radius: 6px; overflow:hidden; clear:both;"><iframe style="width: 100%; height: 180px;" frameborder="no" scrolling="no" seamless src="https://player.captivate.fm/episode/c1e4e5dc-d631-4834-964f-4213b714568e"></iframe></div>-->
 </div>
 
@@ -167,7 +174,7 @@ Closing music "hnna" by <a href="/music/season01#voss">David Voss</a>.</p>
 
 <div class="supplement" id="e1.7">
 <h3 class="supplement-title">1.7 - Is Key Real?</h3>
-<h4>Chris Doll</h4>
+<h4>Christopher Doll</h4>
 <h5>Release Date: Thursday, February 24, 2022</h5>
 <a class="to-top" href="#top">Back to Top</a>
 </div>
