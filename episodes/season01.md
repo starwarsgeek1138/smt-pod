@@ -29,8 +29,7 @@
 • Episode 1.8 (March 3, 2022) - Joe Straus, <a href="#e1.8">“Musicking While Old: Old Composers” (3/5)</a><br/>
 • Episode 1.9 (March 10, 2022) - Nate Mitchell, Sarah A. Gilbert, Timothy Byron, & Justice Srisuk, <a href="#e1.9">“Facilitating Musical Discussions on Reddit: An Interdisciplinary Conversation"</a><br/>
 • Episode 1.10 (March 17, 2022) - Lucia Pasini, <a href="#e1.10">“Women composers in fin-de-siècle Paris: Augusta Holmès, Cécile Chaminade, and Jane Vieu”</a><br/>
-• Episode 1.11 (March 24, 2022) - Tyler Howie & Matt Chiu, <a href="#e1.11">“Untangling and Complicating Generic Boundaries in Post(-Millenial) Punk”</a><br/>
-• Episode 1.12 (March 31, 2022) - Nicholas Hunter, <a href="#e1.12">“Dialogic and Tropological Processes in Lili Boulanger’s Faust et Hélène”</a><br/>
+• Episode 1.11 & 1.12 (March 24 & 31, 2022) - Tyler Howie & Matt Chiu, <a href="#e1.11">“Untangling and Complicating Generic Boundaries in Post(-Millenial) Punk”</a><br/>
 • Episode 1.13 (April 7, 2022) - Joe Straus, <a href="#e1.13">“Musicking While Old: Old Performers” (4/5)</a><br/>
 • Episode 1.14 (April 14, 2022) - Kim Soby with Elizabeth Austin, <a href="#e1.14">“Misogyny in 19th Century Lieder”</a><br/>
 • Episode 1.15 (April 21, 2022) - Landon Morrison, <a href="#e1.15">“Making Orchestras Speak/Making Machines Listen”</a><br/>
@@ -197,19 +196,51 @@ Closing music "hnna" by <a href="/music/season01#voss">David Voss</a>.</p>
 
 <div class="supplement" id="e1.7">
 <h3 class="supplement-title">1.7 - Is Key Real?</h3>
-<h4>Christopher Doll</h4>
+<h4>Christopher Doll (Rutgers)</h4>
 <h5>Release Date: Thursday, February 24, 2022</h5>
+
+<div class="floatsupps">
+<div style="float:left; width: 40%;">
+<img class="biopic" alt="Christopher Doll Headshot" src="../supplements/season01/S01Ep07doll.jpg">
+
+<p style="clear:both; padding-top: 10px;"><a href="../supplements/season01/S01Ep07Supp_doll.pdf">Supplemental Materials (PDF)</a><br/>
+<a href="https://www.dollmusicstudio.com/" target="_blank">Author's Website</a><br/>
+Twitter: <a href="https://twitter.com/dollchristopher" target="_blank">@dollchristopher</a></p>
+<p style="font-size: 12px;">
+<strong>Music Credits:</strong><br/>
+SMT-Pod Theme music by <a href="/music/season01#lu">Zhangcheng Lu</a>; <br/>
+Closing music "hnna" by <a href="/music/season01#voss">David Voss</a></p>
+</div>
+<div style="float:right; width: 60%;">
+<p><strong>Bio:</strong> Christopher Doll is Associate Professor and Graduate Program Director of Music in the Mason Gross School of the Arts, and the School of Graduate Studies, at Rutgers, the State University of New Jersey. He is the author of the monograph <em>Hearing Harmony: Toward a Tonal Theory for the Rock Era</em> (University of Michigan Press, 2017) and articles on a range of topics, from Bach to Babbitt to Hans Zimmer to “Louie Louie.”
+</p>
+<p><strong>Keywords:</strong> <em>Key, tonality induction, tonal center, scale, mode, functional harmony</em></p>
+</div>
+<!--<div style="width: 100%; height: 180px; margin-top: 10px; margin-bottom: 10px; border-radius: 6px; overflow:hidden; clear:both;"><iframe style="width: 100%; height: 180px;" frameborder="no" scrolling="no" seamless src="https://player.captivate.fm/episode/2daa1650-0825-4758-ba0e-9a4647fbae86"></iframe></div>-->
+</div>
 <a class="to-top" href="#top">Back to Top</a>
+
 </div>
 
 <div class="supplement" id="e1.8">
 <h3 class="supplement-title">1.8 - Musicking While Old: Old Composers (3/5)</h3>
 <h4>Joseph Straus (CUNY)</h4>
 <h5>Release Date: Thursday, March 3, 2022</h5>
-
-
-<p>Supplemental Materials (PDF)</p>
-<p>Keywords: <em>Old age, age studies, old characters, old composers, old performers, old listeners</em></p>
+<div class="floatsupps">
+<div style="float:left; width: 40%;">
+<!--<p style="clear:both;"><a href="../supplements/season01/S01Ep08Supp_straus.pdf">Supplemental Materials (PDF)</a></p>-->
+<p style="font-size: 12px;"><strong>Music Credits:</strong><br/>
+SMT-Pod Theme music by <a href="/music/season01#lu">Zhangcheng Lu</a><br/>
+Closing music "hnna" by <a href="/music/season01#voss">David Voss</a><br/>
+Other performances by <a href="/music/season01#chen">Han Chen</a></p>
+</div>
+<div style="float:right; width: 60%;">
+<p><em>This is the third episode of a five-part series that will be released throughout Season 1.</em> </p>
+<p><a href="#e1.2">See author information and supplemental materials</a> for the first episode of the series.</p>
+<p><strong>Keywords:</strong> <em>Old age, age studies, old composers</em></p>
+</div>
+<!--<div style="width: 100%; height: 180px; margin-top: 10px; margin-bottom: 10px; border-radius: 6px; overflow:hidden; clear:both;"><iframe style="width: 100%; height: 180px;" frameborder="no" scrolling="no" seamless src="https://player.captivate.fm/episode/336516ad-6c40-40c6-b7d0-8b4ee0fd37f9"></iframe></div>-->
+</div>
 <a class="to-top" href="#top">Back to Top</a>
 </div>
 
@@ -228,16 +259,9 @@ Closing music "hnna" by <a href="/music/season01#voss">David Voss</a>.</p>
 </div>
 
 <div class="supplement" id="e1.11">
-<h3 class="supplement-title">1.11 - Untangling and Complicating Generic Boundaries in Post(-Millenial) Punk</h3>
+<h3 class="supplement-title">1.11 & 1.12 - Untangling and Complicating Generic Boundaries in Post(-Millenial) Punk</h3>
 <h4>Tyler Howie & Matt Chiu</h4>
-<h5>Release Date: Thursday, March 24, 2022</h5>
-<a class="to-top" href="#top">Back to Top</a>
-</div>
-
-<div class="supplement" id="e1.12">
-<h3 class="supplement-title">1.12 - Dialogic and Tropological Processes in Lili Boulanger’s Faust et Hélène</h3>
-<h4>Nicholas Hunter</h4>
-<h5>Release Date: Thursday, March 31, 2022</h5>
+<h5>Release Dates: Thursday, March 24 & March 31, 2022</h5>
 <a class="to-top" href="#top">Back to Top</a>
 </div>
 

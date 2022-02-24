@@ -29,8 +29,7 @@
 • Episode 1.8 (March 3, 2022) - Joe Straus, <a href="#e1.8">“Musicking While Old: Old Composers” (3/5)</a><br/>
 • Episode 1.9 (March 10, 2022) - Nate Mitchell, Sarah A. Gilbert, Timothy Byron, & Justice Srisuk, <a href="#e1.9">“Facilitating Musical Discussions on Reddit: An Interdisciplinary Conversation"</a><br/>
 • Episode 1.10 (March 17, 2022) - Lucia Pasini, <a href="#e1.10">“Women composers in fin-de-siècle Paris: Augusta Holmès, Cécile Chaminade, and Jane Vieu”</a><br/>
-• Episode 1.11 (March 24, 2022) - Tyler Howie & Matt Chiu, <a href="#e1.11">“Untangling and Complicating Generic Boundaries in Post(-Millenial) Punk”</a><br/>
-• Episode 1.12 (March 31, 2022) - Nicholas Hunter, <a href="#e1.12">“Dialogic and Tropological Processes in Lili Boulanger’s Faust et Hélène”</a><br/>
+• Episode 1.11 & 1.12 (March 24 & 31, 2022) - Tyler Howie & Matt Chiu, <a href="#e1.11">“Untangling and Complicating Generic Boundaries in Post(-Millenial) Punk”</a><br/>
 • Episode 1.13 (April 7, 2022) - Joe Straus, <a href="#e1.13">“Musicking While Old: Old Performers” (4/5)</a><br/>
 • Episode 1.14 (April 14, 2022) - Kim Soby with Elizabeth Austin, <a href="#e1.14">“Misogyny in 19th Century Lieder”</a><br/>
 • Episode 1.15 (April 21, 2022) - Landon Morrison, <a href="#e1.15">“Making Orchestras Speak/Making Machines Listen”</a><br/>
@@ -182,7 +181,7 @@ Closing music "hnna" by <a href="/music/season01#voss">David Voss</a>.</p>
 <div style="float:right; width: 60%;">
 <p><strong><em>This episode appears in 2 Parts.</em></strong></p>
 <p><strong>Bio:</strong> Elizabeth Newton is a writer, editor, and musicologist whose research focuses on the intellectual history of poetry, song, recordings, and writing about music. She holds degrees in musicology from Indiana University and the CUNY Graduate Center. Visit her website at <a href="http://musicalwork.info" target="_blank">musicalwork.info</a>.</p>
-<p><strong>Bio:</strong> Franklin Bruno is an critic, poet, and scholar of philosophy and musicology. He is an author of two books, <em>Armed Forces</em> and <em>The Accordion Repertoire</em> and is currently working on a book about bridges, middle eights, and breakdowns in (mostly American) popular music, to be published by Wesleyan University Press. He received his Ph.D. in Philosophy from UCLA, is currently a lecturer at SUNY Purchase, and has previously taught at Pomona College, Northwestern University, and Bard College.</p>
+<p><strong>Bio:</strong> Franklin Bruno is an interdisciplinary writer working at the intersection of philosophy, musicology, and cultural criticism. He is the author of a monograph of Elvis Costello’s album <em>Armed Forces</em> (Bloomsbury, 33 1/3 series) and the poetry collection <em>The Accordion Repertoire</em> (Edge Books). His scholarly and critical writing on music has appeared in <em>Journal of Aesthetics and Art Criticism, Popular Music and Society, The Bloomsbury Encyclopedia of Popular Music, The Nation, Oxford American</em>, and two installments of <em>Best Music</em> Writing (Da Capo). As a  musician and songwriter, he has released 20 albums as a solo artist and leader of Nothing Painted Blue and, currently, The Human Hearts; and has written, recorded, and/or performed with The Mountain Goats, Laura Cantrell, Jenny Toomey, and the Schramms. He is currently writing <em>The Inside of the Tune: The Bridge in Pop from “St. Louis Blues” to “Single Ladies”</em> for Wesleyan University Press.</p>
 
 <p><strong>Keywords:</strong> <em>Bridge, popular music, song form, songwriting, music theory, popular musicology <br/>
 <strong>Part 1 Keywords:</strong> Taylor Swift, Smokey Robinson<br/>
@@ -197,19 +196,51 @@ Closing music "hnna" by <a href="/music/season01#voss">David Voss</a>.</p>
 
 <div class="supplement" id="e1.7">
 <h3 class="supplement-title">1.7 - Is Key Real?</h3>
-<h4>Christopher Doll</h4>
+<h4>Christopher Doll (Rutgers)</h4>
 <h5>Release Date: Thursday, February 24, 2022</h5>
+
+<div class="floatsupps">
+<div style="float:left; width: 40%;">
+<img class="biopic" alt="Christopher Doll Headshot" src="../supplements/season01/S01Ep07doll.jpg">
+
+<p style="clear:both; padding-top: 10px;"><a href="../supplements/season01/S01Ep07Supp_doll.pdf">Supplemental Materials (PDF)</a><br/>
+<a href="https://www.dollmusicstudio.com/" target="_blank">Author's Website</a><br/>
+Twitter: <a href="https://twitter.com/dollchristopher" target="_blank">@dollchristopher</a></p>
+<p style="font-size: 12px;">
+<strong>Music Credits:</strong><br/>
+SMT-Pod Theme music by <a href="/music/season01#lu">Zhangcheng Lu</a>; <br/>
+Closing music "hnna" by <a href="/music/season01#voss">David Voss</a></p>
+</div>
+<div style="float:right; width: 60%;">
+<p><strong>Bio:</strong> Christopher Doll is Associate Professor and Graduate Program Director of Music in the Mason Gross School of the Arts, and the School of Graduate Studies, at Rutgers, the State University of New Jersey. He is the author of the monograph <em>Hearing Harmony: Toward a Tonal Theory for the Rock Era</em> (University of Michigan Press, 2017) and articles on a range of topics, from Bach to Babbitt to Hans Zimmer to “Louie Louie.”
+</p>
+<p><strong>Keywords:</strong> <em>Key, tonality induction, tonal center, scale, mode, functional harmony</em></p>
+</div>
+<!--<div style="width: 100%; height: 180px; margin-top: 10px; margin-bottom: 10px; border-radius: 6px; overflow:hidden; clear:both;"><iframe style="width: 100%; height: 180px;" frameborder="no" scrolling="no" seamless src="https://player.captivate.fm/episode/2daa1650-0825-4758-ba0e-9a4647fbae86"></iframe></div>-->
+</div>
 <a class="to-top" href="#top">Back to Top</a>
+
 </div>
 
 <div class="supplement" id="e1.8">
 <h3 class="supplement-title">1.8 - Musicking While Old: Old Composers (3/5)</h3>
 <h4>Joseph Straus (CUNY)</h4>
 <h5>Release Date: Thursday, March 3, 2022</h5>
-
-
-<p>Supplemental Materials (PDF)</p>
-<p>Keywords: <em>Old age, age studies, old characters, old composers, old performers, old listeners</em></p>
+<div class="floatsupps">
+<div style="float:left; width: 40%;">
+<!--<p style="clear:both;"><a href="../supplements/season01/S01Ep08Supp_straus.pdf">Supplemental Materials (PDF)</a></p>-->
+<p style="font-size: 12px;"><strong>Music Credits:</strong><br/>
+SMT-Pod Theme music by <a href="/music/season01#lu">Zhangcheng Lu</a><br/>
+Closing music "hnna" by <a href="/music/season01#voss">David Voss</a><br/>
+Other performances by <a href="/music/season01#chen">Han Chen</a></p>
+</div>
+<div style="float:right; width: 60%;">
+<p><em>This is the third episode of a five-part series that will be released throughout Season 1.</em> </p>
+<p><a href="#e1.2">See author information and supplemental materials</a> for the first episode of the series.</p>
+<p><strong>Keywords:</strong> <em>Old age, age studies, old composers</em></p>
+</div>
+<!--<div style="width: 100%; height: 180px; margin-top: 10px; margin-bottom: 10px; border-radius: 6px; overflow:hidden; clear:both;"><iframe style="width: 100%; height: 180px;" frameborder="no" scrolling="no" seamless src="https://player.captivate.fm/episode/336516ad-6c40-40c6-b7d0-8b4ee0fd37f9"></iframe></div>-->
+</div>
 <a class="to-top" href="#top">Back to Top</a>
 </div>
 
@@ -228,16 +259,9 @@ Closing music "hnna" by <a href="/music/season01#voss">David Voss</a>.</p>
 </div>
 
 <div class="supplement" id="e1.11">
-<h3 class="supplement-title">1.11 - Untangling and Complicating Generic Boundaries in Post(-Millenial) Punk</h3>
+<h3 class="supplement-title">1.11 & 1.12 - Untangling and Complicating Generic Boundaries in Post(-Millenial) Punk</h3>
 <h4>Tyler Howie & Matt Chiu</h4>
-<h5>Release Date: Thursday, March 24, 2022</h5>
-<a class="to-top" href="#top">Back to Top</a>
-</div>
-
-<div class="supplement" id="e1.12">
-<h3 class="supplement-title">1.12 - Dialogic and Tropological Processes in Lili Boulanger’s Faust et Hélène</h3>
-<h4>Nicholas Hunter</h4>
-<h5>Release Date: Thursday, March 31, 2022</h5>
+<h5>Release Dates: Thursday, March 24 & March 31, 2022</h5>
 <a class="to-top" href="#top">Back to Top</a>
 </div>
 
