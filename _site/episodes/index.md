@@ -31,7 +31,7 @@ A new episode released every Thursday, beginning January 13, 2022. Click on the 
 • Episode 1.6 (February 17, 2022) - Elizabeth Newton & Franklin Bruno, <a href="season01/#e1.6">“The Inside of the Tune: Analyzing the Bridge in Pop”</a><br/>
 • Episode 1.7 (February 24, 2022) - Christopher Doll, <a href="season01/#e1.7">“Is Key Real?”</a><br/>
 • Episode 1.8 (March 3, 2022) - Joe Straus, <a href="season01/#e1.8">“Musicking While Old: Old Composers” (3/5)</a><br/>
-• Episode 1.9 (March 10, 2022) - Nate Mitchell, Sarah A. Gilbert, Timothy Byron, & Justice Srisuk, <a href="season01/#e1.9">“Facilitating Musical Discussions on Reddit: An Interdisciplinary Conversation"</a><br/>
+• Episode 1.9 (March 10, 2022) - Nathaniel Mitchell, Sarah A. Gilbert, Timothy Byron, & Justice Srisuk, <a href="season01/#e1.9">“Facilitating Musical Discussions on Reddit: An Interdisciplinary Conversation"</a><br/>
 • Episode 1.10 (March 17, 2022) - Lucia Pasini, <a href="season01/#e1.10">“Women composers in fin-de-siècle Paris: Augusta Holmès, Cécile Chaminade, and Jane Vieu”</a><br/>
 • Episode 1.11 & 1.12 (March 24 & 31, 2022) - Tyler Howie & Matt Chiu, <a href="season01/#e1.11">“Untangling and Complicating Generic Boundaries in Post(-Millenial) Punk”</a><br/>
 • Episode 1.13 (April 7, 2022) - Joe Straus, <a href="season01/#e1.13">“Musicking While Old: Old Performers” (4/5)</a><br/>

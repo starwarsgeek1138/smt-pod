@@ -16,8 +16,12 @@ As part of our mission to include diverse voices in our scholarship, _SMT-Pod_ a
 <li><a href="#chen">Han Chen</a></li>
 <li><a href="#crowe">Nate Crowe</a></li>
 <li><a href="#esland">Anthony Esland</a></li>
+<li><a href="#feedback">Reverend Feedback</a></li>
+<li><a href="#harbison">AJ Harbison</a></li>
+<li><a href="#hudson">Michael Hudson-Casanova</a></li>
 <li><a href="#hynes">Liam Hynes-Tawa</a></li>
 <li><a href="#lausin">Ljudevit Laušin</a></li>
+<li><a href="#snow">David Jason Snow</a></li>
 <li><a href="#thiede">Jacob Thiede</a></li>
 </ul>
 
@@ -83,6 +87,37 @@ Untitled work featured in <a href="/episodes/season01/#e1.1">Episode 1.1</a></p>
 <p>Anthony has worked with many eminent musicians and ensembles, including Ólafur Arnalds, Judith Weir and the ORA Singers, and won prizes in international composition competitions. He has received numerous awards and bursaries for his work, from organisations such as PRS for Music, the Bliss Trust and Sound and Music.</p><a class="to-top" href="#top">Back to Top</a>
 </div>
 
+<div class="biobox" id="feedback"><a name="feedback"></a>
+<h4 style="font-weight: bold;">Reverend Feedback</h4>
+<p style="font-size: 14px; font-weight: bold;">
+"Epidermo Rest" featured in <a href="/episodes/season01/#e1.9">Episode 1.9</a></p>
+<p>Reverend Feedback formed the band BLAQ MUMMY in Prague, Czech Republic in the 1990s. Now working with noise music in the PAZVUKY (UNSOUND) project.</p>
+<a class="to-top" href="#top">Back to Top</a>
+</div>
+
+<div class="biobox" id="harbison"><a name="harbison"></a>
+<h4 style="font-weight: bold;">AJ Harbison</h4>
+<p style="font-size: 14px; font-weight: bold;"><a href="https://ajharbison.com" target="_blank">Composer's Website</a><br/>
+"And See The Flaming Skies featured in <a href="/episodes/season01/#e1.9">Episode 1.9</a></p>
+
+<p>AJ Harbison is a composer and singer/songwriter living with his wife and two children in Kansas City. His music lives at the intersection of concert music and vernacular music, each bringing unique vitality to the other in a language both adventurous and accessible. His compositions include solo, chamber and orchestral works, and vocal music from songs to works for mixed chorus.</p>
+<p>Harbison’s music has been performed by ensembles including The Hutchins Consort, The Singers (Saint Paul, MN), the Kansas City Women’s Chorus, Luna Nova, and the students of Harmony Project KC, and has won awards including first prize in the 2018 Belvedere Chamber Music Festival Composition Contest. He participated in a cross-country collaboration with New York City singer/songwriter Melanie Penn and West Covina (CA) High School’s choirs, conducted by Tyler R. Wigglesworth, titled A Journey of Becoming. Following the world premiere in California, the first movement was performed in Carnegie Hall in April 2018 as part of Choirs of America’s Harmonic Convergence concert.</p>
+
+<p>Harbison holds degrees in composition from California State University, Fullerton and the University of Missouri-Kansas City. In addition to concert music, his compositions include pop/rock songs and music for theatre and film.</p>
+<a class="to-top" href="#top">Back to Top</a>
+</div>
+
+<div class="biobox" id="hudson"><a name="hudson"></a>
+<h4 style="font-weight: bold;">Michael Hudson-Casanova</h4>
+<p style="font-size: 14px; font-weight: bold;"><a href="http://mhcsounds.com/" target="_blank">Composer's Website</a><br/>
+Untitled work featured in <a href="/episodes/season01/#e1.9">Episode 1.9</a></p>
+
+<p>Michael Hudson-Casanova is from Sterling Heights, MI and currently resides in Chicago, IL. He holds a bachelor’s degree in music education and jazz studies from Western Michigan University and a master’s degree in jazz studies from Temple University. Hudson-Casanova is a freelance jazz saxophonist, improviser, composer, and educator who is equally passionate about music performance and education. His debut album as a leader was released in Fall 2021, and features all original compositions and a stellar band of improvisers.</p>
+
+<a class="to-top" href="#top">Back to Top</a>
+</div>
+
+
 <div class="biobox" id="hynestawa"><a name="hynes"></a>
 <h4 style="font-weight: bold;">Liam Hynes-Tawa</h4>
 <p style="font-size: 14px; font-weight: bold;"><a href="https://soundcloud.com/liam-hynes-tawa" target="_blank">Composer's Soundcloud</a><br/>
@@ -102,6 +137,16 @@ Ljudevit Laušin has a Master of Music Education from the Academy of Arts Osijek
 <p>He is a member of the classical guitar trio "Sui Generis" whose repertoire covers wide stylistic territory - from Renaissance to the 21st century - and a blues-rock band "The Red Roosters" which has performed numerous concerts across Croatia, including blues clubs and festivals. In 2009, The Red Roosters were presented "The Most Promising Young Band" award, an annual award given by the Croatian Music Union.</p><p>
 He is a member of the Croatian Composers Society and Croatian Musicians Union and has had his compositions broadcasted on numerous radio stations across Croatia, including Croatian National Radio, and television. He composes for guitar trio, solo classical guitar, choir, soloists, string quartet, piano solo, and theatre.
 </p>
+<a class="to-top" href="#top">Back to Top</a>
+</div>
+
+<div class="biobox" id="snow"><a name="snow"></a>
+<h4 style="font-weight: bold;">David Jason Snow</h4>
+<p style="font-size: 14px; font-weight: bold;"><a href="https://davidsnowmusic.org" target="_blank">Composer's Website</a><br/>
+Untitled work featured in <a href="/episodes/season01/#e1.9">Episode 1.9</a></p>
+
+<p>The compositions of David Jason Snow have been performed in concert by the Ensemble Intercontemporain at the Centre Georges Pompidou in Paris, the Banda Municipal de Bilbao at the Euskalduna Palace in Bilbao, The New Juilliard Ensemble at the Museum of Modern Art in New York, and many other artists and ensembles internationally. His fixed media audio and visual works have been performed at the Musinfo Journées Art & Science Festival in Bourges, the Festival Exhibitronic in Strasbourg, the Festival Internacional de Video Arte y Música Visual in Mexico City, the Sound Thought Festival in Glasgow, Echofluxx in Prague, and the Toronto International Electroacoustic Symposium. Snow has been the recipient of awards and grants from the National Endowment for the Arts, the Maryland State Arts Council, the ASCAP Foundation, and BMI, and he has been an artist resident at Yaddo in Saratoga Springs, New York, and the Millay Colony for the Arts in Austerlitz, New York. He holds degrees in composition from the Eastman School of Music and the Yale School of Music, where he studied with Jacob Druckman, Joseph Schwantner, Warren Benson, and Samuel Adler. Snow lives in Manhattan where he is a reference librarian and special collections cataloger at The Juilliard School.</p>
+
 <a class="to-top" href="#top">Back to Top</a>
 </div>
 
