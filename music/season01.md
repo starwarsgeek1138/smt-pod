@@ -23,7 +23,7 @@ As part of our mission to include diverse voices in our scholarship, _SMT-Pod_ a
 <li><a href="#lausin">Ljudevit Laušin</a></li>
 <li><a href="#snow">David Jason Snow</a></li>
 <li><a href="#thiede">Jacob Thiede</a></li>
-<li><a href="#thiede">Rocco Tuzio</a></li>
+<li><a href="#tuzio">Rocco Tuzio</a></li>
 </ul>
 
 <p>Credits for individual episodes can be seen on our <a href="/episodes/season01">Season 1 episodes</a> page.</p>
@@ -156,14 +156,13 @@ Untitled work featured in <a href="/episodes/season01/#e1.9">Episode 1.9</a></p>
 <p style="font-size: 14px; font-weight: bold;"><a href="https://jacobthiede.com" target="_blank">Artist's Webpage</a><br/>
 "wojack needs jesus" featured in <a href="/episodes/season01/#e1.6">Episode 1.6</a></p>
 <p>
-Jacob Thiede is a composer and saxophonist from Murray, Kentucky, where the smell of tobacco barns and honeysuckle fill the air. His music captures a broad mix of contemporary and avant-garde styles with folk and improvisational roots. Premieres and performances of Jake’s music have taken place in England, Italy and throughout the United States.
+Jacob Thiede is a composer and saxophonist from Murray, Kentucky, where the smell of tobacco barns and honeysuckle fill the air. His music captures a broad mix of contemporary and avant-garde styles with folk and improvisational roots. Premieres and performances of Jake’s music have taken place in England, Italy and throughout the United States.</p>
 
 <p>Thiede has received awards from competitions such as the International Duo Symposium (Blue Blood Sky) and the Flute New Music Consortium (And everything in-between). Honors and festivals include the SCI National Conference, Electronic Music Midwest, NASA Biennial Conference, BGSU Graduate Music Conference, the NSEME Conference, the Electric LaTex Conference, New Music on the Point, and the HighSCORE Festival. </p>
 
 <p>He received his BME at Murray State University and MM in music composition at the University of North Carolina at Greensboro. He has studied with Mike D'Ambrosio, Brian Ciach, and John Fannin at Murray State and with Mark Engebretson, Alejandro Rutty, and Steven Bryant at UNCG. As a saxophonist, he has studied with Scott Erickson and Steven Stusek. Thiede currently studies composition with Panayiotis Kokoras, Kirsten Broberg, and Andrew May as well as saxophone with Eric Nestler at the University of North Texas. His professional affiliations include the American Society for Composers, Authors, and Publishers (ASCAP), the Society of Composers, Inc. (SCI), and the Society for Electro-Acoustic Music in the United States (SEAMUS).
 </p>
 <a class="to-top" href="#top">Back to Top</a>
-
 </div>
 
 <div class="biobox" id="tuzio"><a name="tuzio"></a>
