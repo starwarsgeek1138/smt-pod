@@ -307,7 +307,7 @@ Twitter: <a href="https://www.twitter.com/drtimbyron" target="_blank">@drtimbyro
 <p style="font-size: 12px;">
 <strong>Music Credits:</strong><br/>
 SMT-Pod Theme music by <a href="/music/season01#lu">Zhangcheng Lu</a>; <br/>
-Closing music "hnna" by <a href="/music/season01#voss">David Voss</a>.<br/> Music performed by Rocco Tuzio.</p>
+Closing music "hnna" by <a href="/music/season01#voss">David Voss</a>.<br/> Music performed by <a href="/music/season01#tuzio">Rocco Tuzio</a>.</p>
 </div>
 <div style="float:right; width: 60%;">
 <p><strong>Bio:</strong> Lucia Pasini is a graduate student in French literature at the Université Sorbonne Nouvelle, where she is a member of the CRP19 laboratory. Her doctoral studies are conducted in a joint degree with the Dottorato in Lettere of the University of Turin. Her dissertation focuses on French art song and the musical reception of French poets in the period between 1870 and 1914. It is supervised by Cécile Leblanc and Andrea Malvano. Her article “La mélodie française comme témoignage d’une réception. Le cas d’Invocation” is currently being published in the journal <em>Criação & Critica</em> of the University of Sao Paulo, Brazil. She has participated in several international conferences, and since June 2021, she is part of the team of the Revue Traits-d’Union, the journal of the early-career researchers at the Université Sorbonne Nouvelle. Her research is supported by De Sono Associazione per la Musica.</p>

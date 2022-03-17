@@ -23,6 +23,7 @@ As part of our mission to include diverse voices in our scholarship, _SMT-Pod_ a
 <li><a href="#lausin">Ljudevit Laušin</a></li>
 <li><a href="#snow">David Jason Snow</a></li>
 <li><a href="#thiede">Jacob Thiede</a></li>
+<li><a href="#thiede">Rocco Tuzio</a></li>
 </ul>
 
 <p>Credits for individual episodes can be seen on our <a href="/episodes/season01">Season 1 episodes</a> page.</p>
@@ -161,4 +162,13 @@ Jacob Thiede is a composer and saxophonist from Murray, Kentucky, where the smel
 
 <p>He received his BME at Murray State University and MM in music composition at the University of North Carolina at Greensboro. He has studied with Mike D'Ambrosio, Brian Ciach, and John Fannin at Murray State and with Mark Engebretson, Alejandro Rutty, and Steven Bryant at UNCG. As a saxophonist, he has studied with Scott Erickson and Steven Stusek. Thiede currently studies composition with Panayiotis Kokoras, Kirsten Broberg, and Andrew May as well as saxophone with Eric Nestler at the University of North Texas. His professional affiliations include the American Society for Composers, Authors, and Publishers (ASCAP), the Society of Composers, Inc. (SCI), and the Society for Electro-Acoustic Music in the United States (SEAMUS).
 </p>
+<a class="to-top" href="#top">Back to Top</a>
+
+</div>
+
+<div class="biobox" id="tuzio"><a name="tuzio"></a>
+<h4 style="font-weight: bold;">Rocco Tuzio</h4>
+<p style="font-size: 14px; font-weight: bold;"><a href="https://www.youtube.com/channel/UCqSvNhNuJckwi0ROOSH0tdA" target="_blank">Artist's Youtube</a><br/>
+Various performances featured in <a href="/episodes/season01/#e1.10">Episode 1.10</a></p>
+<p>Rocco Tuzio is a clarinetist and composer from Italy.</p>
 <a class="to-top" href="#top">Back to Top</a>
