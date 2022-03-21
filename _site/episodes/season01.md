@@ -293,7 +293,7 @@ Twitter: <a href="https://www.twitter.com/drtimbyron" target="_blank">@drtimbyro
 </div>
 
 <div class="supplement" id="e1.10">
-<h3 class="supplement-title">1.10 - Women composers in fin-de-siècle Paris: Augusta Holmès, Cécile Chaminade, and Jane Vieu</h3>
+<h3 class="supplement-title">1.10 - Women Composers in Fin-de-Siècle Paris: Marie Jaëll, Cécile Chaminade, and Augusta Holmès</h3>
 <h4>Lucia Pasini</h4>
 <h5>Release Date: Thursday, March 17, 2022</h5>
 <div class="floatsupps">
@@ -302,20 +302,21 @@ Twitter: <a href="https://www.twitter.com/drtimbyron" target="_blank">@drtimbyro
 
 <p style="clear:both; padding-top: 10px;"><a href="../supplements/season01/S01Ep10Supp_pasini.pdf">Supplemental Materials (PDF)</a></p>
 
-<p style="font-size: 12px;"><strong>Producer:</strong> David Thurmaier.</p>
+<p style="font-size: 12px;"><strong>Producer:</strong> Megan Lyons.</p>
 
 <p style="font-size: 12px;">
 <strong>Music Credits:</strong><br/>
 SMT-Pod Theme music by <a href="/music/season01#lu">Zhangcheng Lu</a>; <br/>
-Closing music "hnna" by <a href="/music/season01#voss">David Voss</a>.<br/> Music performed by <a href="/music/season01#tuzio">Rocco Tuzio</a>.</p>
+Closing music "hnna" by <a href="/music/season01#voss">David Voss</a>.<br/> Music performed by <a href="/music/season01#tuzio">Rocco Tuzio</a> and Alexis Tapia.</p>
 </div>
 <div style="float:right; width: 60%;">
 <p><strong>Bio:</strong> Lucia Pasini is a graduate student in French literature at the Université Sorbonne Nouvelle, where she is a member of the CRP19 laboratory. Her doctoral studies are conducted in a joint degree with the Dottorato in Lettere of the University of Turin. Her dissertation focuses on French art song and the musical reception of French poets in the period between 1870 and 1914. It is supervised by Cécile Leblanc and Andrea Malvano. Her article “La mélodie française comme témoignage d’une réception. Le cas d’Invocation” is currently being published in the journal <em>Criação & Critica</em> of the University of Sao Paulo, Brazil. She has participated in several international conferences, and since June 2021, she is part of the team of the Revue Traits-d’Union, the journal of the early-career researchers at the Université Sorbonne Nouvelle. Her research is supported by De Sono Associazione per la Musica.</p>
-<p><strong>Keywords:</strong> <em>Chaminade, Vieu, Holmès, women composers, Paris</em></p>
+<p><strong>Keywords:</strong> <em>Jaëll, Chaminade, Holmès, women composers, Paris</em></p>
 </div>
-<!--<div style="width: 100%; height: 180px; margin-top: 10px; margin-bottom: 10px; border-radius: 6px; overflow:hidden; clear:both;">
+<div style="width: 100%; height: 180px; margin-top: 10px; margin-bottom: 10px; border-radius: 6px; overflow:hidden; clear:both;">
 
-<!--<iframe style="width: 100%; height: 180px;" frameborder="no" scrolling="no" seamless src="https://player.captivate.fm/episode/c1d643e0-dccd-4ec0-8d44-f30f8926d823"></iframe></div>-->
+<iframe style="width: 100%; height: 180px;" frameborder="no" scrolling="no" seamless src="https://player.captivate.fm/episode/eb252b15-a0b7-4457-b34a-a41b447f67a5"></iframe></div>
+
 </div>
 <a class="to-top" href="#top">Back to Top</a>
 </div>
