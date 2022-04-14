@@ -31,10 +31,9 @@
 • Episode 1.10 (March 17, 2022) - Lucia Pasini, <a href="#e1.10">“Women composers in fin-de-siècle Paris: Augusta Holmès, Cécile Chaminade, and Jane Vieu”</a><br/>
 • Episode 1.11 & 1.12 (March 24 & 31, 2022) - Tyler Howie & Matt Chiu, <a href="#e1.11">“Analytical Frameworks for Post(-Millennial) Punk: The 'Twinkle' Schema in the Emo Revival”</a><br/>
 • Episode 1.13 (April 7, 2022) - Joe Straus, <a href="#e1.13">“Musicking While Old: Old Performers” (4/5)</a><br/>
-• Episode 1.14 (April 14, 2022) - Kim Soby with Elizabeth Austin, <a href="#e1.14">“Misogyny in 19th Century Lieder”</a><br/>
-• Episode 1.15 (April 21, 2022) - Landon Morrison, <a href="#e1.15">“Making Orchestras Speak/Making Machines Listen”</a><br/>
-• Episode 1.16 (April 28, 2022) - Jennifer Campbell, <a href="#e1.16">“Journeys Through Middleground: Holding Space Between Academic Analysis and YouTube Entertainment”</a><br/>
-• Episode 1.17 (May 5, 2022) - Joe Straus, <a href="#e1.17">“Musicking While Old: Old Listeners” (5/5)</a>
+• Episode 1.14 (April 14, 2022) - Landon Morrison, <a href="#e1.14">“Making Orchestras Speak/Making Machines Listen”</a><br/>
+• Episode 1.15 (April 21, 2022) - Jennifer Campbell, <a href="#e1.15">“Journeys Through Middleground: Holding Space Between Academic Analysis and YouTube Entertainment”</a><br/>
+• Episode 1.16 (April 28, 2022) - Joe Straus, <a href="#e1.16">“Musicking While Old: Old Listeners” (5/5)</a>
 </div>
 
 <div>
@@ -296,6 +295,7 @@ Twitter: <a href="https://www.twitter.com/drtimbyron" target="_blank">@drtimbyro
 <h3 class="supplement-title">1.10 - Women Composers in Fin-de-Siècle Paris: Marie Jaëll, Cécile Chaminade, and Augusta Holmès</h3>
 <h4>Lucia Pasini</h4>
 <h5>Release Date: Thursday, March 17, 2022</h5>
+
 <div class="floatsupps">
 <div style="float:left; width: 40%;">
 <img class="biopic" alt="Lucia Pasini Headshot" src="../supplements/season01/S01Ep10pasini.jpg">
@@ -372,34 +372,50 @@ Other performances by <a href="/music/season01#chen">Han Chen</a></p>
 <p><a href="#e1.2">See author information and supplemental materials</a> for the first episode of the series.</p>
 <p><strong>Keywords:</strong> <em>Old age, age studies, old performers</em></p>
 </div></div>
+<div style="width: 100%; height: 180px; margin-top: 10px; margin-bottom: 10px; border-radius: 6px; overflow:hidden; clear:both;">
+<iframe style="width: 100%; height: 180px;" frameborder="no" scrolling="no" seamless src="https://player.captivate.fm/episode/30722856-26a0-472b-9b70-46f4a1eb0e87"></iframe></div>
 <a class="to-top" href="#top">Back to Top</a>
 </div>
 
 <div class="supplement" id="e1.14">
-<h3 class="supplement-title">1.14 - Misogyny in 19th Century Lieder</h3>
-<h4>Kim Soby with Elizabeth Austin</h4>
+<h3 class="supplement-title">1.14 - Making Orchestras Speak/Making Machines Listen</h3>
+<h4>Landon Morrison (Harvard University)</h4>
 <h5>Release Date: Thursday, April 14, 2022</h5>
+<div class="floatsupps">
+<div style="float:left; width: 40%;">
+<img class="biopic" alt="Landon Morrison Headshot" src="../supplements/season01/S01Ep14morrison.jpg">
+
+<p style="clear:both; padding-top: 10px;"><a href="../supplements/season01/S01Ep14Supp_morrison.pdf">Supplemental Materials (PDF)</a></p>
+
+<p style="font-size: 12px;"><strong>Producer:</strong> Landon Morrison with assistance from Megan Lyons.</p>
+
+<p style="font-size: 12px;">
+<strong>Music Credits:</strong><br/>
+SMT-Pod Theme music by <a href="/music/season01#lu">Zhangcheng Lu</a>; <br/>
+Closing music "hnna" by <a href="/music/season01#voss">David Voss</a>.<br/> Music by Landon Morrison.</p>
+</div>
+<div style="float:right; width: 60%;">
+<p><strong>Bio:</strong> Landon Morrison is a Lecturer in the Music Department at Harvard University, where he teaches courses on a wide range of topics, including timbre, popular music analysis, and sound studies. More broadly, his research aims to draw theories of music and media into a cross-disciplinary dialogue that examines technocultural mediation in contemporary sonic practices. He has presented his work at many (inter)national conferences and published in leading journals, including <em>Music Theory Online</em> (2021, 2015), <em>Circuit</em> (2019, 2018), <em>Nuove Musiche</em> (2018), and <em>Kalfou</em> (forthcoming). Most recently, he contributed a chapter to the <em>Oxford Handbook of Time in Music</em> (2021), where he sketches a history of rhythm quantization, examining its attendant technologies and reception within the context of various popular music genres. Outside of academic life, he enjoys playing piano, violin, and guitar, as well as noodling on synthesizers—a hobby put to use in creating a soundtrack for his SMT-Pod episode.</p>
+<p><strong>Keywords:</strong> <em>Vocal timbre, machine listening, instrumental synthesis, computer-assisted orchestration, Jonathan Harvey</em></p>
+</div>
+<!--<div style="width: 100%; height: 180px; margin-top: 10px; margin-bottom: 10px; border-radius: 6px; overflow:hidden; clear:both;">
+<iframe style="width: 100%; height: 180px;" frameborder="no" scrolling="no" seamless src="https://player.captivate.fm/episode/eb252b15-a0b7-4457-b34a-a41b447f67a5"></iframe></div>-->
+</div>
+
 <a class="to-top" href="#top">Back to Top</a>
 </div>
 
 <div class="supplement" id="e1.15">
-<h3 class="supplement-title">1.15 - Making Orchestras Speak/Making Machines Listen</h3>
-<h4>Landon Morrison</h4>
+<h3 class="supplement-title">1.15 - Journeys Through Middleground: Holding Space Between Academic Analysis and YouTube Entertainment</h3>
+<h4>Jennifer Campbell</h4>
 <h5>Release Date: Thursday, April 21, 2022</h5>
 <a class="to-top" href="#top">Back to Top</a>
 </div>
 
 <div class="supplement" id="e1.16">
-<h3 class="supplement-title">1.16 - Journeys Through Middleground: Holding Space Between Academic Analysis and YouTube Entertainment</h3>
-<h4>Jennifer Campbell</h4>
-<h5>Release Date: Thursday, April 28, 2022</h5>
-<a class="to-top" href="#top">Back to Top</a>
-</div>
-
-<div class="supplement" id="e1.17">
-<h3 class="supplement-title">1.17 - Old Age and Music: Old Listeners (5/5)</h3>
+<h3 class="supplement-title">1.16 - Old Age and Music: Old Listeners (5/5)</h3>
 <h4>Joseph Straus (CUNY)</h4>
-<h5>Release Date: Thursday, May 5, 2022</h5>
+<h5>Release Date: Thursday, April 28, 2022</h5>
 
 
 <p>Supplemental Materials (PDF)</p>

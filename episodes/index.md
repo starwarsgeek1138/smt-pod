@@ -35,8 +35,7 @@ A new episode released every Thursday, beginning January 13, 2022. Click on the 
 • Episode 1.10 (March 17, 2022) - Lucia Pasini, <a href="season01/#e1.10">“Women Composers in Fin-de-Siècle Paris: Marie Jaëll, Cécile Chaminade, and Augusta Holmès”</a><br/>
 • Episode 1.11 & 1.12 (March 24 & 31, 2022) - Tyler Howie & Matt Chiu, <a href="season01/#e1.11">“Analytical Frameworks for Post(-Millennial) Punk: The 'Twinkle' Schema in the Emo Revival”</a><br/>
 • Episode 1.13 (April 7, 2022) - Joe Straus, <a href="season01/#e1.13">“Musicking While Old: Old Performers” (4/5)</a><br/>
-• Episode 1.14 (April 14, 2022) - Kim Soby with Elizabeth Austin, <a href="season01/#e1.14">“Misogyny in 19th Century Lieder”</a><br/>
-• Episode 1.15 (April 21, 2022) - Landon Morrison, <a href="season01/#e1.15">“Making Orchestras Speak/Making Machines Listen”</a><br/>
-• Episode 1.16 (April 28, 2022) - Jennifer Campbell, <a href="season01/#e1.16">“Journeys Through Middleground: Holding Space Between Academic Analysis and YouTube Entertainment”</a><br/>
-• Episode 1.17 (May 5, 2022) - Joe Straus, <a href="season01/#e1.17">“Musicking While Old: Old Listeners” (5/5)</a>
+• Episode 1.14 (April 14, 2022) - Landon Morrison, <a href="season01/#e1.14">“Making Orchestras Speak/Making Machines Listen”</a><br/>
+• Episode 1.15 (April 21, 2022) - Jennifer Campbell, <a href="season01/#e1.15">“Journeys Through Middleground: Holding Space Between Academic Analysis and YouTube Entertainment”</a><br/>
+• Episode 1.16 (April 28, 2022) - Joe Straus, <a href="season01/#e1.16">“Musicking While Old: Old Listeners” (5/5)</a>
 </div>
