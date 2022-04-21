@@ -401,8 +401,8 @@ Closing music "hnna" by <a href="/music/season01#voss">David Voss</a>.<br/> Musi
 
 <p><strong>Keywords:</strong> <em>Vocal timbre, machine listening, instrumental synthesis, computer-assisted orchestration, Jonathan Harvey</em></p>
 </div>
-<!--<div style="width: 100%; height: 180px; margin-top: 10px; margin-bottom: 10px; border-radius: 6px; overflow:hidden; clear:both;">
-<iframe style="width: 100%; height: 180px;" frameborder="no" scrolling="no" seamless src="https://player.captivate.fm/episode/eb252b15-a0b7-4457-b34a-a41b447f67a5"></iframe></div>-->
+<div style="width: 100%; height: 180px; margin-top: 10px; margin-bottom: 10px; border-radius: 6px; overflow:hidden; clear:both;">
+<iframe style="width: 100%; height: 180px;" frameborder="no" scrolling="no" seamless src="https://player.captivate.fm/episode/55f41a75-4d5f-48a4-ab8b-5fd4c3d35929"></iframe></div>
 </div>
 
 <a class="to-top" href="#top">Back to Top</a>
@@ -410,8 +410,33 @@ Closing music "hnna" by <a href="/music/season01#voss">David Voss</a>.<br/> Musi
 
 <div class="supplement" id="e1.15">
 <h3 class="supplement-title">1.15 - Journeys Through Middleground: Holding Space Between Academic Analysis and YouTube Entertainment</h3>
-<h4>Jennifer Campbell</h4>
+<h4>Jennifer Campbell (University of Kentucky)</h4>
 <h5>Release Date: Thursday, April 21, 2022</h5>
+<div class="floatsupps">
+<div style="float:left; width: 40%;">
+<img class="biopic" alt="Jennifer Campbell Headshot" src="../supplements/season01/S01Ep15campbell.jpg">
+
+<p style="clear:both; padding-top: 10px;"><a href="../supplements/season01/S01Ep15Supp_campbell.pdf">Supplemental Materials (PDF)</a></p>
+
+<p style="font-size: 12px;"><strong>Producer:</strong> Aaron Hynds and Jennifer Beavers.</p>
+
+<p style="font-size: 12px;">
+<strong>Music Credits:</strong><br/>
+SMT-Pod Theme music by <a href="/music/season01#lu">Zhangcheng Lu</a>; <br/>
+Closing music "hnna" by <a href="/music/season01#voss">David Voss</a>.<br/> Other music performed by Jeno Jando and Milly Alexeyevich Balakirev (from Naxos). </p>
+</div>
+<div style="float:right; width: 60%;">
+<p><strong>Bio:</strong> Jennifer L. Campbell is Assistant Professor of Music Theory at the University of Kentucky, where she teaches undergraduate and graduate theory courses and serves as the acting Director for the Certificate in Music Theory Pedagogy. Her research interests include nineteenth-century harmony; music, dance, and politics in the twentieth century; and twenty-first century music theory pedagogy. She has presented her work nationally and internationally, some of her most recent contributions being the Third and Fourth Transnational Opera Studies Conference (2019, 2022), the IV and V Colloquiums of the International Musicological Society’s “Early Music and the New World” Study Group (2020, 2021), the 21st Quinquennial IMS Congress, Athens, Greece (2022), and for the Society of Music Analysis Study Day on Teaching Music Theory in the Digital Age (2021). She has published a variety of articles and book chapters on a range of topics and is delighted to contribute this podcast segment for SMT-Pod.
+</p>
+
+<p><strong>Acknowledgements:</strong> Thank you to Kaitlyn Norman for recording the intro and outro messages, and finalizing the transcript.</p>
+
+<p><strong>Keywords:</strong> <em>Nineteenth-century music, Romantic harmony, pedagogy, public musicology, entertainment, academic paper.</em></p>
+</div>
+<div style="width: 100%; height: 180px; margin-top: 10px; margin-bottom: 10px; border-radius: 6px; overflow:hidden; clear:both;">
+<iframe style="width: 100%; height: 180px;" frameborder="no" scrolling="no" seamless src="https://player.captivate.fm/episode/0f3e6c7e-dd25-48ee-b22c-6275a9de8b8e"></iframe></div>
+</div>
+
 <a class="to-top" href="#top">Back to Top</a>
 </div>
 
