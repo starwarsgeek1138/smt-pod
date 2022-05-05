@@ -14,6 +14,8 @@ _SMT-Pod_ is a [Open Collaborative Peer-Reviewed](../submit/OCPR) and creative v
 <hr>
 <div><p class="socmedia">follow <a href="http://www.twitter.com/smt_pod" target="_blank"><img height="30px" width="30px" alt="twitter; credit: freepik" src="../images/twitter.png"/></a></p></div>
 # Latest News
+**April 28, 2022** : It's a wrap on Season 1! Thanks for listening. Remember see the list of podcasts, release dates, and supplemental materials at our [Episodes](episodes) page. You can also check out the [featured music page](music) for more information about composers, performers, and artists featured in the podcast.
+
 **January 13, 2022** : We've Launched! Check out your favorite podcast streaming app to listen to our first season, and tune in every Thursday for a new episode. To see the list of upcoming podcasts, release dates, and supplemental materials, check out our [Episodes](episodes) page! We also want to thank all of our music contributors - check out the [featured music page](music) for more information about original works featured in the podcast.
 
 **January 1, 2022** : **Happy New Year** We will be releasing podcasts every Thursday starting January 13. To see the list of upcoming podcasts and release dates, check out our [Episodes](episodes) page!
