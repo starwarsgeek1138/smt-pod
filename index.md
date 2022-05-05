@@ -5,8 +5,8 @@
 </div>
 
 <div class="announce">
-<h4><strong>Season 1 was a success!</strong></h4>
-Thank you for listening! You can see an archive of all of Season 1 Episodes on the <a href="https://smt-pod.org/episodes/season01/">Season 1 Episodes page</a>.
+<h4><strong>Season 2 Call for Proposals</strong></h4>
+After an amazing season 1, we are ready for proposals for our Season 2 podcast. See <a href="" target="_blank">attached PDF here</a> for procedures and timeline (webpage coming soon). Proposals are due on <strong>June 15, 2022</strong>.
 </div>
 
 _SMT-Pod_ is a [Open Collaborative Peer-Reviewed](../submit/OCPR) and creative venue for timely conversations about music theory. Audio-only podcasts offer a unique—though non-traditional—way of engaging with music, analysis, and contemporary issues in the field. As opposed to the heavy, jargon-laden publications we are used to working through at our desks, _SMT-Pod_ publications are easy to listen to and think about in the car, on your run, or while grading.. [Read more about _SMT-Pod_ here.](about)
