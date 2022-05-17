@@ -4,8 +4,8 @@
   </div>
 </div>
 
->**Currently in Production for Season 1!**\
->Check back for Season 2 Call for podcasts.
+>**That's a wrap on Season 1!**\
+>See the Season 2 Call for Podcasts below.
 
 ### Overview
 
@@ -21,67 +21,144 @@ If you think you have an idea for SMT-Pod, here are some things you should prepa
 
 <p style="font-size: 16px; text-align: center; font-style: italic;"><strong><a href="../submit/OCPR">Read more about why we use an <br />Open Collaborative Peer Review (OCPR) Process here</a></strong></p>
 
-The initial proposal (300–500 words) should include information about the topic, <a href="https://castos.com/podcast-format/" target="_blank">format</a>, and content of your episode. You’ll submit your proposal on this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfZwVoKnYBTsNdtj-e9y6pQkQm5E8pfEntkj15s5BZWai7Kjw/viewform), where you’ll also be asked about the structure of the episode and any technological needs you may have. You can see specifics about the rest of the process below (click to open each phase):
+The initial proposal (300–500 words) should include information about the topic, <a href="https://castos.com/podcast-format/" target="_blank">format</a>, and content of your episode. You’ll submit your proposal on this [Google Form](https://forms.gle/C9i76uoeXsXbwMAb8), where you’ll also be asked about the structure of the episode and any technological needs you may have. You can see specifics about the rest of the process below (click to open each phase):
 
 <div class="accordion">
-  <div class="accordTab">
+<!------------>
+<!--Timeline -->
+<!------------>
+<div class="accordTab">
+    <input type="checkbox" id="tmln" class="accordionInput">
+    <label class="accordTab-label" for="tmln">Season 2 Timeline</label>
+
+    <div class="accordTab-content">
+    <p style="font-style: italic; font-weight: 700; padding-top: 15px;"></p>
+<ul><li>May 5, 2022: Call for Season 2 Proposals Opens</li>
+<li> June 15, 2022: Proposals due by 11:59 pm EST</li>
+<li>July 1, 2022:
+<ul><li>Notification of acceptances for Season 2</li>
+<li>Reach out to peer reviewers with timeline for their review of episodes (must accept or reject by July 15)</li></ul></li>
+<li>July TBD, 2022: Zoom meeting with accepted authors and SMT-Pod Board to outline guidelines and answer questions.</li>
+<li> August 31, 2022: <strong>Audio Draft of episode due to board</strong> (to be sent out for peer review/audio quality control)</li>
+<li>September 30, 2022: Peer Reviewer feedback and comments due (or earlier if possible!)</li>
+<li>November 1, 2022: <strong>Final audio due to SMT-Pod Board </strong></li>
+<li>January 13, 2023 (tentative): First episode of Season 2 released</li>
+</ul>
+
+
+</div>
+</div>
+
+<!------------>
+<!--PHASE 1 -->
+<!------------>
+<div class="accordTab">
     <input type="checkbox" id="chck1" class="accordionInput">
-    <label class="accordTab-label" for="chck1">Phase 1: Proposal and initial review</label>
+    <label class="accordTab-label" for="chck1">Phase 1: Proposal and Review</label>
 
     <div class="accordTab-content">
-    <ol style="padding-top: 15px;">
-    <li>Submission of 300–500 word episode proposal (Submitted via <a href="https://docs.google.com/forms/d/e/1FAIpQLSfZwVoKnYBTsNdtj-e9y6pQkQm5E8pfEntkj15s5BZWai7Kjw/viewform" Target="_blank">this Google Form</a>)</li>
-<p style="font-style: italic;">Include:</p>
-<ul>
-  <li>Topic of episode</li>
-  <li><a href="https://castos.com/podcast-format/" target="_blank">Format</a> of episode (single-author presentation, panel discussion, “tiny desk concert,” etc.)</li>
-  <li>Length of episode [short (10–20 min.), medium (20–30 min.), long (30–45 min.)]</li>
-  <li>Identifying information for all creators/participants (these will not be reviewed anonymously)</li>
-  <li>Set of keywords</li>
-  <li>Include why this topic is best addressed in a podcast format (as opposed to in a written article, SMT-V video, etc.)</li></ul>
-<li>Program Committee evaluates the proposal individually (<a href="OCPR">Open, collaborative peer review</a> including communication between program committee and author), considering:</li>
-      <ul>
-      <li>Suitability for a podcast format</li>
-      <li>Creation of a diverse set of topics in a season</li>
-      <li>Possibility of reaching out to scholars in the field for commentary, relevant review, and/or contribution to the episode</li>
-      <li><a href="../about/ethics">Meeting SMT’s language guidelines, policy on ethics, and policy on harassment</a></li></ul>
-    <li>Meeting with the proposer(s) to discuss:</li>
-      <ul>
-      <li>What podcast format would work best</li>
-      <li>What topics should/can be covered</li>
-      <li>Sources or persons to be added to the conversation?</li>
-      <li>Needed technological support</li>
-      </ul>
-      </ol>
-    </div>
-    </div>
-  <div class="accordTab">
+    <p style="font-style: italic; font-weight: 700; padding-top: 15px;">Call for Proposals</p>
+    <ul>
+    <li>Authors interested in submitting their work for consideration in the next season of SMT-Pod should submit their proposal using this <a href="https://forms.gle/C9i76uoeXsXbwMAb8" target="_blank">Google Form</a>. <strong>Proposals must be received by 11:59 pm EST on June 15, 2022 for consideration in Season 2.</strong></li>
+<li>The materials for submission include the following:</li>
+<ol style="font-size: 12px;">
+  <li>Name (First and Last)</li>
+  <li>Institutional affiliation (or N/A)</li>
+  <li>Number of authors</li>
+  <li><a href="https://castos.com/podcast-format/" target="_blank">Structure</a> of episode (Interview/Panel, Pedagogy, Analysis, etc.)
+  <ul><li>If you are interested in proposing a series of episodes (2+ episodes on the same overarching topic), include this in your proposal and outline, as well as submit larger or longer documentation.</li></ul></li>
+  <li>Approximate Length of Episode: Short (appx. 20 minutes), Medium (appx. 30-45 min), Long (appx. 45-60 min)</li>
+  <li>Comfort with recording process (This does not impact the success of your proposal—it is for our records so we can assign board members to further guide you through the process). </li>
+  <li>What recording equipment/audio editing software you have or need.</li>
+  <li> Title of episode</li>
+  <li> Five keywords (These can be edited or expanded later, if needed).</li>
+  <li> Three potential peer reviewers who can speak to the scholarship of the episode, and their emails
+  <ul><li>SMT-Pod will select one to be the peer reviewer and will ensure there are no conflicts of interest or personal connections between author and peer reviewer</li></ul></li>
+  <li>A 300–500 word proposal in PDF format detailing the content of the episode.
+  <ul><li>Your proposal should focus on your research, findings, and other content within your episode (such as interviews). Make it interesting and similar in tone to your podcast vision.</li></ul></li>
+  <li> Outline of episode in PDF format
+  <ul><li> Either in a diagram, chart, or bulleted outline, lay out the structure and length of the episode. You may want to include the length of each section, where bumper music should go/internal divisions you perceive, potential musical examples, and any other details that will help the board see your vision for your episode.</li></ul></li>
+  <li>OPTIONAL: Tell us why you think your topic is particularly suited for SMT-Pod instead of other publications.</li>
+  <li>Acknowledgement of timeline and commitment to adhering to it.<ul><li>Prior to submitting a proposal for each season, please review the timeline presented here. Talk to us in exceptional circumstances.</li></ul></li></ol></ul>
+
+  <p style="font-style: italic; font-weight: 700; padding-top: 15px;"><a href="OCPR">Open Collaborative Peer Review</a> by Program Committee</p>
+
+  <ul><li>All proposals will be reviewed by the <a href="../about#program-committee">program committee of SMT-Pod</a>. They will not be reviewed anonymously, and committee members will keep the following criteria in mind when reading author’s proposals:
+  <ol style="list-style-type: lower-roman;">
+  <li>Suitability for a podcast format (no excessive jargon, no reliance on visual materials, etc.)</li>
+  <li>Creating a diverse set of topics in a season</li>
+  <li>Possibility of reaching out to scholars in the field for commentary, relevant review, and/or contribution to the episode</li>
+  </ol></li></ul>
+
+<p style="font-style: italic; font-weight: 700; padding-top: 15px;">Acceptances and Meeting with SMT-Pod</p>
+
+<ol><li>Accepted authors will be notified by email approximately 2 weeks after the call for proposals closes.
+<ul><li>Those authors whose proposals have not been chosen for the current season will be provided ample feedback on their work, recommendations for moving forward, and/or suggestions for other publications which may be a better fit to showcase their research.</li></ul></li>
+<li>Accepted authors are encouraged to attend a Zoom meeting will be scheduled shortly after acceptances are sent. Authors will be presented with resources and guidelines, detailed schedules, and have the opportunity to ask questions to both the program and production committee.
+<ul><li>This meeting will also include a discussion on obtaining copyright permissions for music or musical examples that are not in public domain.</li>
+<li>We encourage all authors to listen to episodes from Season 1 to get ideas for their own episodes and to familiarize themselves with the production standards of SMT-Pod.</li></ul>
+</li></ol>
+
+</div>
+</div>
+
+<!------------>
+<!--PHASE 2 -->
+<!------------>
+<div class="accordTab">
     <input type="checkbox" id="chck2" class="accordionInput">
-    <label class="accordTab-label" for="chck2">Phase 2: Recording and production</label>
+    <label class="accordTab-label" for="chck2">Phase 2: Recording, Production, and Peer Review</label>
 
     <div class="accordTab-content">
     <ol style="padding-top: 15px;">
-    <li>Proposer sends in a list of topics/questions and/or outline before recording</li>
-    <li>Preparation of podcast episode with production committee (recording, editing, choosing bumper music)</li>
-    <li>After recording, files are sent to the Tech Committee.</li>
-    <p style="margin-left:2em;">Any and all changes will be made in conversation with the proposer</p>
+    <li>Authors are NOT required to have prior audio recording or editing experience. If you are comfortable recording and editing audio, you are encouraged to do so for the main content of your episode (SMT-Pod will take care of final production and opening/closing credits). If you are less experienced with this technology, members of the production committee will work closely with you in all phases of production.</li>
+    <li>Authors will have approximately two months to compile an audio draft of their episode. The audio draft does not need to include all musical examples but should be in a condition where the editorial board and peer reviewer can envision the final version.
+    <ul><li>The audio draft must be accompanied by a complete transcript (including any interviews) for peer reviewers to follow along and comment on. If you need help with the transcript, feel free to recruit colleagues and/or students to help you or reach out to the board for resources.</li>
+    <li>Authors should keep in mind that this is a draft—the peer reviewer and/or editorial board will likely request that some portions be re-recorded or restructured.</li>
+    </ul></li>
+    <li>Each episode is assigned a team of board members to listen to audio drafts, check for quality, and interact with the peer reviewer comments.
+    <ul><li> Authors will be informed of the members of their team while audio drafts are being created and should use their team as a resource.</li></ul></li>
+    <li> The audio draft will be sent to one of the author-chosen peer reviewers with the expectation that they return one of the following results along with detailed comments:
+    <ul><li>Accept as is</li>
+    <li>Accept with suggestions*</li>
+    <li>Accept pending revisions*</li>
+    <li>Rejection</li>
+    <li style="font-style: italic">*Suggestions = can ignore; revisions = must be addressed</li></ul></li>
+<li>In the spirit of our open collaborative peer review process, peer reviewers will know the author’s name and the author will know who their peer reviewer is. In the final version of the episode, authors will acknowledge the peer reviewer by name.</li>
+<li>The board reserves the opportunity to reject an episode after peer review or after final production should the episode not meet expectations in production quality or academic rigor.</li>
 </ol>
-    </div>
-  </div>
+</div>
+</div>
 
+<!------------>
+<!--PHASE 3 -->
+<!------------>
   <div class="accordTab">
     <input type="checkbox" id="chck3" class="accordionInput">
-    <label class="accordTab-label" for="chck3">Phase 3: Post-production and second outside review</label>
+    <label class="accordTab-label" for="chck3">Phase 3: Final Edits and Post-Production</label>
 
     <div class="accordTab-content">
 
     <ol style="padding-top: 15px;">
-    <li>Author-chosen third-party peer/colleague (“reviewer”) listens to the episode and approves/collaborates. The third-party reviewer should not have any conflicts of interest or implicit bias which would compromise the integrity of the process. This third-party peer review could take the form of any of the following:</li>
-<ul><li>Approval for release</li>
-    <li>Working with the author(s) to improve/add to the podcast before release</li>
-    <li>Providing a short segment at the end of the podcast with their commentary</li>
-    <li>A promise of a follow-up episode</li>
-    <li>A combination of the above and/or any other formats (with approval from the Program Committee and the author(s))</li></ul></ol>
+
+    <li>Once the peer reviewer completes their commentary and renders a decision, SMT-Pod will send them to the author along with any additional guidelines.</li>
+    <li>Authors will have approximately 1 month to make any necessary edits and create a final audio file (either on their own or in consultation with the production committee).</li>
+    <li>Authors are responsible for any copyright permissions or infringements related to musical examples in their episode.
+    <ul><li>If obtaining permissions is too challenging or problematic, consider creating a reduction of the score. Rather than obtain copyright permissions for a recording of a public domain piece, consider having students or colleagues perform the excerpts (they will be included in the credits and show notes!)</li></ul></li>
+    <li>Authors must send the following items along with their final audio:
+    <ol style="list-style-type: lower-roman; font-size: 12px;"><li>A complete transcript of the episode (not including timestamps) – follow the
+    structure of transcripts found on our <a href="https://smt-pod.org/episodes/season01/">website in the podcast player</a> (see TRANSCRIPT tab for individual episodes).</li>
+    <li>Approximately 100-word bio for the website</li>
+    <li>A one sentence summary of the episode (this will be read during the introduction; board may edit for length or clarity)</li>
+    <li>A headshot (preferably a fun, candid shot, perhaps while recording the episode)</li>
+    <li>Five (5) Keywords</li>
+    <li>Supplemental materials following the formatting and reference guidelines
+    from the <a href="https://docs.google.com/document/d/1-o_rsLMzxB1-N8Yqak5hzPdl1ujXhHMPZZXb660PFIQ/edit?usp=sharing" target="_blank">provided template</a></li>
+    <li>A separate sound file of acknowledgements (authors must thank their peer reviewer)</li>
+    <li>An audio clip pronouncing author’s name (or any other names in the episode)</li>
+    <li>Any credits or additional details to include in the show notes</li>
+    <li>Any websites/social media handles (if you have them)</li></ol></li>
+<li>Authors will be sent the final episode audio and will be able to provide one round of final edits.</li></ol>
     </div>
   </div>
 </div>
