@@ -5,8 +5,8 @@
 </div>
 
 <div class="announce">
-<h4><strong>Season 1 is Live!</strong></h4>
-Check back every Thursday starting January 13, 2022 for weekly Season 1 Episodes. A Call for Season 2 Episode Proposals will be coming soon.
+<h4><strong>Season 2 Call for Proposals</strong></h4>
+After an amazing season 1, we are ready for proposals for our Season 2 podcast. See <a href="../assets/docs/SMTPodSeason2CFP.pdf" target="_blank">attached PDF here</a> for procedures and timeline (webpage coming soon). Proposals are due on <strong>June 15, 2022</strong>.
 </div>
 
 _SMT-Pod_ is a [Open Collaborative Peer-Reviewed](../submit/OCPR) and creative venue for timely conversations about music theory. Audio-only podcasts offer a unique—though non-traditional—way of engaging with music, analysis, and contemporary issues in the field. As opposed to the heavy, jargon-laden publications we are used to working through at our desks, _SMT-Pod_ publications are easy to listen to and think about in the car, on your run, or while grading.. [Read more about _SMT-Pod_ here.](about)
@@ -14,6 +14,8 @@ _SMT-Pod_ is a [Open Collaborative Peer-Reviewed](../submit/OCPR) and creative v
 <hr>
 <div><p class="socmedia">follow <a href="http://www.twitter.com/smt_pod" target="_blank"><img height="30px" width="30px" alt="twitter; credit: freepik" src="../images/twitter.png"/></a></p></div>
 # Latest News
+**April 28, 2022** : It's a wrap on Season 1! Thanks for listening. Remember see the list of podcasts, release dates, and supplemental materials at our [Episodes](episodes) page. You can also check out the [featured music page](music) for more information about composers, performers, and artists featured in the podcast.
+
 **January 13, 2022** : We've Launched! Check out your favorite podcast streaming app to listen to our first season, and tune in every Thursday for a new episode. To see the list of upcoming podcasts, release dates, and supplemental materials, check out our [Episodes](episodes) page! We also want to thank all of our music contributors - check out the [featured music page](music) for more information about original works featured in the podcast.
 
 **January 1, 2022** : **Happy New Year** We will be releasing podcasts every Thursday starting January 13. To see the list of upcoming podcasts and release dates, check out our [Episodes](episodes) page!
