@@ -15,7 +15,7 @@ _SMT-Pod_ is a [Open Collaborative Peer-Reviewed](../submit/OCPR) and creative v
 <div><p class="socmedia">follow <a href="http://www.twitter.com/smt_pod" target="_blank"><img height="30px" width="30px" alt="twitter; credit: freepik" src="../images/twitter.png"/></a></p></div>
 # Latest News
 
-**November 2022** : Come chat with our board at our open board meeting during the Mega Joint SMT, AMS, and SEM Conference. Dessert will be provided! The meeting will be held in the Executive Board Room in the Conference Hotel on Thursday, November 10, 2022 at 7:30-9:00pm. Check out the event on the <a href="https://www.conftool.pro/nola2022-ams-sem-smt/index.php?page=browseSessions&form_session=383" target="_blank">conference program here</a>.
+**November 2022** : Come chat with our board at our open board meeting during the Mega Joint SMT, AMS, and SEM Conference. Dessert will be provided! The meeting will be held in the Executive Board Room in the Conference Hotel on Thursday, November 10, 2022 and is open to all 8-9:00pm. Check out the event on the <a href="https://www.conftool.pro/nola2022-ams-sem-smt/index.php?page=browseSessions&form_session=383" target="_blank">conference program here</a>.
 
 **Fall 2022** : We are in production for Season 2. Thank you for all who submitted proposals for the season. For now, feel free to listen to Season 1 podcasts in the [Episodes](episodes) page and stay tuned for our new season in January 2023.
 
