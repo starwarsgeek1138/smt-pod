@@ -6,7 +6,7 @@
 
 <div class="announce">
 <h4><strong>Season 2 In Production</strong></h4>
-After an amazing season 1, we are busy prepping for Season 2. Check back in January 2023 for our Season 2 launch!</strong>.
+After an amazing season 1, we are busy prepping for Season 2. Check back in January 2023 for our Season 2 launch!
 </div>
 
 _SMT-Pod_ is a [Open Collaborative Peer-Reviewed](../submit/OCPR) and creative venue for timely conversations about music theory. Audio-only podcasts offer a unique—though non-traditional—way of engaging with music, analysis, and contemporary issues in the field. As opposed to the heavy, jargon-laden publications we are used to working through at our desks, _SMT-Pod_ publications are easy to listen to and think about in the car, on your run, or while grading.. [Read more about _SMT-Pod_ here.](about)
