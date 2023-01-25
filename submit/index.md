@@ -4,8 +4,8 @@
   </div>
 </div>
 
->**That's a wrap on Season 1!**\
->See the Season 2 Call for Podcasts below.
+>Calls for a new season begin in May of each year.<br/>
+>See the Archived Season 2 Call for Podcasts below.
 
 ### Overview
 
@@ -42,7 +42,7 @@ The initial proposal (300–500 words) should include information about the topi
 <li> August 31, 2022: <strong>Audio Draft of episode due to board</strong> (to be sent out for peer review/audio quality control)</li>
 <li>September 30, 2022: Peer Reviewer feedback and comments due (or earlier if possible!)</li>
 <li>November 1, 2022: <strong>Final audio due to SMT-Pod Board </strong></li>
-<li>January 13, 2023 (tentative): First episode of Season 2 released</li>
+<li>January 26, 2023 (tentative): First episode of Season 2 released</li>
 </ul>
 
 

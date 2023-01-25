@@ -5,8 +5,8 @@
 </div>
 
 <div class="announce">
-<h4><strong>Season 2 In Production</strong></h4>
-After an amazing season 1, we are busy prepping for Season 2. Check back in January 2023 for our Season 2 launch!
+<h4><strong>Season 2 Launch</strong></h4>
+Beginning on Thursday, January 26, 2023, join us for a weekly episode!
 </div>
 
 _SMT-Pod_ is a [Open Collaborative Peer-Reviewed](../submit/OCPR) and creative venue for timely conversations about music theory. Audio-only podcasts offer a unique—though non-traditional—way of engaging with music, analysis, and contemporary issues in the field. As opposed to the heavy, jargon-laden publications we are used to working through at our desks, _SMT-Pod_ publications are easy to listen to and think about in the car, on your run, or while grading.. [Read more about _SMT-Pod_ here.](about)
@@ -14,6 +14,8 @@ _SMT-Pod_ is a [Open Collaborative Peer-Reviewed](../submit/OCPR) and creative v
 <hr>
 <div><p class="socmedia">follow <a href="http://www.twitter.com/smt_pod" target="_blank"><img height="30px" width="30px" alt="twitter; credit: freepik" src="../images/twitter.png"/></a></p></div>
 # Latest News
+
+**January 2023** : New season launches! Join us every Thursday beginning on January 26, 2023 for a weekly podcast episode.
 
 **November 2022** : Come chat with our board at our open board meeting during the Mega Joint SMT, AMS, and SEM Conference. Dessert will be provided! The meeting will be held in the Executive Board Room in the Conference Hotel on Thursday, November 10, 2022 and is open to all 8-9:00pm. Check out the event on the <a href="https://www.conftool.pro/nola2022-ams-sem-smt/index.php?page=browseSessions&form_session=383" target="_blank">conference program here</a>.
 
@@ -27,7 +29,7 @@ _SMT-Pod_ is a [Open Collaborative Peer-Reviewed](../submit/OCPR) and creative v
 
 **November 4, 2021** : **Our season 1 podcasts are in production.** To learn more about the first season and listen to a preview of one of our episodes, check out our Season 1 preview!
 
-**September 2021** : **Congrats to Zhangcheng Lu.** Their composition, BGM Scales, was selected as our theme for Season 1.
+**September 2021** : **Congrats to Zhangcheng Lu.** Their composition, BGM Scales, was selected as our theme..
 
 **June 1, 2021** : _Hello World._ We've launched! _**Listen to our trailer**_ to learn more about SMT-Pod, the new Podcast for the [Society for Music Theory](http://www.societymusictheory.org).
 
