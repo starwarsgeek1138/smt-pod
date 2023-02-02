@@ -25,7 +25,7 @@ As part of our mission to include diverse voices in our scholarship, _SMT-Pod_ a
 <a name="lu"></a>
 <h4><span class="biotitle">SMT-Pod Theme Music Composer:</span> <strong>Zhangcheng Lu</strong></h4>
 <p style="font-size: 14px; font-weight: bold;"><a href="https://runupstudio.com" target="_blank">Run Up Studio Website</a><br/>Piece Title: "BGM Scales" </p>
-<p>Uen. L is a multi-talented musician. Piano player with various years of experience and a passion for improvisation. On the rise as a composer, arranger, mixer and established multi-instrumentalist. He created his own band in 2018. He experimented with various styles of music and later developed a passion for ACG music. Due to his love for anime, creativity, and jazz. Now he is working as a music producer and mixer at Run Up Studio, creating music for ACG & OST.</p>
+<p>Uen. L is a multi-talented musician. Piano player with many years of experience and a passion for improvisation. On the rise as a composer, arranger, mixer and established multi-instrumentalist. He created his own band in 2018. He experimented with various styles of music and later developed a passion for ACG music. Due to his love for anime, creativity, and jazz. Now he is working as a music producer and mixer at Run Up Studio, creating music for ACG & OST.</p>
 <a class="to-top" href="#top">Back to Top</a>
 </div>
 
