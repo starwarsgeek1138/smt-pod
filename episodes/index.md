@@ -25,7 +25,7 @@ A new episode released every Thursday, beginning January 26, 2026. Click on the 
 <div style="margin-left:20px;">
 <ul><li><b>Episode 2.1</b> (January 26, 2023) - Katrina Roush, <a href="season02#e2.1">“From Piece to Music: Analyzing Your Own Listening”</a></li>
 <li><b>Episode 2.2</b> (February 2, 2023) - Matthew Ferrandino & Frank Nawrot, <a href="season02#e2.2">“Tonal Polymodality in Tool's Ænima” </a></li>
-<li><b>Episode 2.3</b> (February 9, 2023) - Kimberly Soby, “Misogyny in 19th Century Lieder”</li>
+<li><b>Episode 2.3</b> (February 9, 2023) - Kimberly Soby, <a href="season02#e2.3">“A Gender-Analysis Approach to Settings of Chamisso’s Frauenliebe und -leben”</a></li>
 <li><b>Episode 2.4</b> (February 16, 2023) - Melissa Hoag, “Counterpoint Expanded: Integrating Music by Women and Composers of Color in the 18th-Century Counterpoint Classroom"</li>
 <li><b>Episode 2.5</b> (February 23, 2023) - Jenine Brown, “The Double Upbeat and the Power of Expectation in a Cover Song”</li>
 <li><b>Episode 2.6</b> (March 2, 2023) - Rami Stucky, “What Green Book Got Wrong About Black Music”</li>
