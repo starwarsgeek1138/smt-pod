@@ -167,7 +167,7 @@ Meredith Ziegler (voice), Kimberly Soby (piano/voice), and Elizabeth Austin (pia
 
 <p style="font-size: 12px;">
 <span style="color:#de4d00;"><strong>Production Credits</strong></span><br/>
-<strong>Team Lead:</strong> Jennifer Beavers<br/>
+<strong>Team Lead:</strong> Jennifer Weaver<br/>
 <strong>Production Lead:</strong> Katrina Roush<br/>
 <strong>Peer Reviewer:</strong> Cara Stroud<br/>
 <strong>Interviewed Students:</strong> Olivia Friedenstab, Corrin Kliewer, Iyla Miller, Mahki Murray, Kaleigh Schott</p>
@@ -176,6 +176,7 @@ Meredith Ziegler (voice), Kimberly Soby (piano/voice), and Elizabeth Austin (pia
 <span style="color:#de4d00;"><strong>Music Credits</strong></span><br/>
 <strong>SMT-Pod Theme Music:</strong> <a href="/music#lu">Zhangcheng Lu</a><br/>
 <strong>Closing Music:</strong> <a href="/music#voss">David Voss</a><br/>
+<strong>Other Original Compositions:</strong> Jonathan Bailey, Marion Bauer, Nadia Boulanger, Shande Ding, Nina Simone, and Ulysses Kay.</a>
 </p>
 
 </div>
@@ -184,7 +185,7 @@ Meredith Ziegler (voice), Kimberly Soby (piano/voice), and Elizabeth Austin (pia
 
 <p><strong>Keywords:</strong> <em>Counterpoint, pedagogy, diversity, canon, analysis</em></p>
 </div>
-<!--<div style="width: 100%; height: 180px; margin-top: 10px; margin-bottom: 10px; border-radius: 6px; overflow:hidden; clear:both;"><iframe style="width: 100%; height: 180px;" frameborder="no" scrolling="no" seamless src="https://player.captivate.fm/episode/4e10c77d-fe58-4422-bbc5-0653c8b0bc52"></iframe></div>-->
+<div style="width: 100%; height: 180px; margin-top: 10px; margin-bottom: 10px; border-radius: 6px; overflow:hidden; clear:both;"><iframe style="width: 100%; height: 180px;" frameborder="no" scrolling="no" seamless src="https://player.captivate.fm/episode/4e10c77d-fe58-4422-bbc5-0653c8b0bc52"></iframe></div>
 
 </div>
 
