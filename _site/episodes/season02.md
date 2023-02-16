@@ -22,7 +22,7 @@
 <ul><li><b>Episode 2.1</b> (January 26, 2023) - Katrina Roush, <a href="#e2.1">“From Piece to Music: Analyzing Your Own Listening”</a></li>
 <li><b>Episode 2.2</b> (February 2, 2023) - Matthew Ferrandino & Frank Nawrot, <a href="#e2.2">“Tonal Polymodality in Tool's Ænima” </a></li>
 <li><b>Episode 2.3</b> (February 9, 2023) - Kimberly Soby, <a href="#e2.3">“A Gender-Analysis Approach to Settings of Chamisso’s Frauenliebe und -leben”</a></li>
-<li><b>Episode 2.4</b> (February 16, 2023) - Melissa Hoag, “Counterpoint Expanded: Integrating Music by Women and Composers of Color in the 18th-Century Counterpoint Classroom"</li>
+<li><b>Episode 2.4</b> (February 16, 2023) - Melissa Hoag, <a href="#e2.4">“Counterpoint Expanded: Integrating Music by Women and Composers of Color in the 18th-Century Counterpoint Classroom"</a></li>
 <li><b>Episode 2.5</b> (February 23, 2023) - Jenine Brown, “The Double Upbeat and the Power of Expectation in a Cover Song”</li>
 <li><b>Episode 2.6</b> (March 2, 2023) - Rami Stucky, “What Green Book Got Wrong About Black Music”</li>
 <li><b>Episode 2.7</b> (March 9, 2023) - Phil Ewell, “Theorizing African-American Music” (1/5)</li>
@@ -139,11 +139,7 @@ Author's Social (Twitter/Instagram): @futuredrsoby</p>
 <strong>Other Performances:</strong>
 Meredith Ziegler (voice), Kimberly Soby (piano/voice), and Elizabeth Austin (piano)<br/>
 <strong>Other Original Compositions:</strong> <a href="/music/season02#yee">Thomas Yee</a>
-
-
 </p>
-
-
 
 </div>
 <div style="float:right; width: 60%;">
@@ -158,4 +154,41 @@ Meredith Ziegler (voice), Kimberly Soby (piano/voice), and Elizabeth Austin (pia
 
 <a class="to-top" href="#top">Back to Top</a>
 </div>
+
+<div class="supplement" id="e2.4">
+<h3 class="supplement-title">2.4 - Counterpoint Expanded: Integrating Music by Women and Composers of Color in the 18th-Century Counterpoint Classroom</h3>
+<h4>Melissa Hoag (Oakland University)</h4>
+<h5>Release Date: Thursday, February 16, 2022</h5>
+<div class="floatsupps">
+<div style="float:left; width: 40%;">
+<img class="biopic" alt="Melissa Hoag Headshot" src="../supplements/season02/S02Ep04hoag.jpg">
+
+<p style="clear:both; padding-top: 10px;"><a href="../supplements/season02/S02Ep04Supp_hoag.pdf">Supplemental Materials (PDF)</a></p>
+
+<p style="font-size: 12px;">
+<span style="color:#de4d00;"><strong>Production Credits</strong></span><br/>
+<strong>Team Lead:</strong> Jennifer Beavers<br/>
+<strong>Production Lead:</strong> Katrina Roush<br/>
+<strong>Peer Reviewer:</strong> Cara Stroud<br/>
+<strong>Interviewed Students:</strong> Olivia Friedenstab, Corrin Kliewer, Iyla Miller, Mahki Murray, Kaleigh Schott</p>
+
+<p style="font-size: 12px;">
+<span style="color:#de4d00;"><strong>Music Credits</strong></span><br/>
+<strong>SMT-Pod Theme Music:</strong> <a href="/music#lu">Zhangcheng Lu</a><br/>
+<strong>Closing Music:</strong> <a href="/music#voss">David Voss</a><br/>
+</p>
+
+</div>
+<div style="float:right; width: 60%;">
+<p><strong>Bio:</strong> Melissa Hoag is associate professor of music theory at Oakland University. Her writings on theory pedagogy and Brahms analysis have appeared in <em>Routledge Companion to Music Theory Pedagogy</em> (ed. VanHandel); <em>Bach</em>; <em>Music Theory Online</em>; <em>Engaging Students</em>; <em>Dutch Journal of Music Theory</em>; <em>Gamut</em>; <em>Journal of Music Theory Pedagogy</em>, and <em>College Music Symposium</em>. She is also the editor of <em>Expanding the Canon: Black Composers in the Music Theory Classroom</em> (Routledge, 2023). She has been involved with the Advanced Placement Exam in Music Theory since 2007, and chairs the Professional Development Committee for SMT. Currently, she is Reviews Editor for the <em>Journal of Music Theory</em>.</p>
+
+<p><strong>Keywords:</strong> <em>Counterpoint, pedagogy, diversity, canon, analysis</em></p>
+</div>
+<!--<div style="width: 100%; height: 180px; margin-top: 10px; margin-bottom: 10px; border-radius: 6px; overflow:hidden; clear:both;"><iframe style="width: 100%; height: 180px;" frameborder="no" scrolling="no" seamless src="https://player.captivate.fm/episode/4e10c77d-fe58-4422-bbc5-0653c8b0bc52"></iframe></div>-->
+
+</div>
+
+<a class="to-top" href="#top">Back to Top</a>
+</div>
+
 </div>
