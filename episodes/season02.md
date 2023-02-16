@@ -176,7 +176,7 @@ Meredith Ziegler (voice), Kimberly Soby (piano/voice), and Elizabeth Austin (pia
 <span style="color:#de4d00;"><strong>Music Credits</strong></span><br/>
 <strong>SMT-Pod Theme Music:</strong> <a href="/music#lu">Zhangcheng Lu</a><br/>
 <strong>Closing Music:</strong> <a href="/music#voss">David Voss</a><br/>
-<strong>Other Original Compositions:</strong> Jonathan Bailey, Marion Bauer, Nadia Boulanger, Shande Ding, Nina Simone, and Ulysses Kay.</a>
+<strong>Other Original Compositions:</strong> Jonathan Bailey, Marion Bauer, Nadia Boulanger, Shande Ding, Nina Simone, and Ulysses Kay.
 </p>
 
 </div>
