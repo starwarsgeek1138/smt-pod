@@ -23,7 +23,7 @@
 <li><b>Episode 2.2</b> (February 2, 2023) - Matthew Ferrandino & Frank Nawrot, <a href="#e2.2">“Tonal Polymodality in Tool's Ænima” </a></li>
 <li><b>Episode 2.3</b> (February 9, 2023) - Kimberly Soby, <a href="#e2.3">“A Gender-Analysis Approach to Settings of Chamisso’s Frauenliebe und -leben”</a></li>
 <li><b>Episode 2.4</b> (February 16, 2023) - Melissa Hoag, <a href="#e2.4">“Counterpoint Expanded: Integrating Music by Women and Composers of Color in the 18th-Century Counterpoint Classroom"</a></li>
-<li><b>Episode 2.5</b> (February 23, 2023) - Jenine Brown, “The Double Upbeat and the Power of Expectation in a Cover Song”</li>
+<li><b>Episode 2.5</b> (February 23, 2023) - Jenine Brown, <a href="#e2.5">“The Emotional Impact of the Double Upbeat”</a></li>
 <li><b>Episode 2.6</b> (March 2, 2023) - Rami Stucky, “What Green Book Got Wrong About Black Music”</li>
 <li><b>Episode 2.7</b> (March 9, 2023) - Phil Ewell, “Theorizing African-American Music” (1/5)</li>
 <li><b>Episode 2.8</b> (March 16, 2023) - Phil Ewell, (2/5)</li>
@@ -45,7 +45,7 @@
 <div class="floatsupps">
 <div style="float:left; width: 40%;">
 <img class="biopic" alt="Katrina Roush Headshot" src="../supplements/season02/S02Ep01roush.jpg">
-<p style="clear:both; padding-top: 10px;"><a href="../supplements/season02/S02Ep01Supp_roush.pdf">Supplemental Materials (PDF)</a></p>
+<p style="clear:both; padding-top: 10px;"><a href="../supplements/season02/S02Ep01Supp_roush.pdf" target="_blank">Supplemental Materials (PDF)</a></p>
 <p><a href="https://youtube.com/playlist?list=PLTAZdsUnl7kDAPQVD-THIMwGR8KXaIAbJ" target="_blank">Author's Podcast</a></p>
 
 <p style="font-size: 12px;">
@@ -82,7 +82,7 @@
 <div style="float:left; width: 40%;">
 <img class="biopic" alt="Frank Nawrot Headshot" src="../supplements/season02/S02Ep02nawrot.jpg">
 <img class="biopic" alt="Matthew Ferrandino Headshot" src="../supplements/season02/S02Ep02ferrandino.jpg">
-<p style="clear:both; padding-top: 10px;"><a href="../supplements/season02/S02Ep02Supp_nawrot_ferrandino.pdf">Supplemental Materials (PDF)</a></p>
+<p style="clear:both; padding-top: 10px;"><a href="../supplements/season02/S02Ep02Supp_nawrot_ferrandino.pdf" target="_blank">Supplemental Materials (PDF)</a></p>
 
 <p style="clear:both; padding-top: 10px;"><a href="https://franknawrot.com/" target="_blank">Author's Website (Nawrot)</a><br/>
 <a href="https://matthewferrandino.bandcamp.com/" target="_blank">Author's Website (Ferrandino)</a></p>
@@ -123,7 +123,7 @@
 <p style="clear:both; padding-top: 10px;"><a href="https://www.kimberlysoby.com" target="_blank">Author's Website</a><br/>
 Author's Social (Twitter/Instagram): @futuredrsoby</p>
 
-<p style="clear:both; padding-top: 10px;"><a href="../supplements/season02/S02Ep03Supp_soby.pdf">Supplemental Materials (PDF)</a></p>
+<p style="clear:both; padding-top: 10px;"><a href="../supplements/season02/S02Ep03Supp_soby.pdf" target="_blank">Supplemental Materials (PDF)</a></p>
 
 <p style="font-size: 12px;">
 <span style="color:#de4d00;"><strong>Production Credits</strong></span><br/>
@@ -163,11 +163,11 @@ Meredith Ziegler (voice), Kimberly Soby (piano/voice), and Elizabeth Austin (pia
 <div style="float:left; width: 40%;">
 <img class="biopic" alt="Melissa Hoag Headshot" src="../supplements/season02/S02Ep04hoag.jpg">
 
-<p style="clear:both; padding-top: 10px;"><a href="../supplements/season02/S02Ep04Supp_hoag.pdf">Supplemental Materials (PDF)</a></p>
+<p style="clear:both; padding-top: 10px;"><a href="../supplements/season02/S02Ep04Supp_hoag.pdf" target="_blank">Supplemental Materials (PDF)</a></p>
 
 <p style="font-size: 12px;">
 <span style="color:#de4d00;"><strong>Production Credits</strong></span><br/>
-<strong>Team Lead:</strong> Jennifer Beavers<br/>
+<strong>Team Lead:</strong> Jennifer Weaver<br/>
 <strong>Production Lead:</strong> Katrina Roush<br/>
 <strong>Peer Reviewer:</strong> Cara Stroud<br/>
 <strong>Interviewed Students:</strong> Olivia Friedenstab, Corrin Kliewer, Iyla Miller, Mahki Murray, Kaleigh Schott</p>
@@ -176,6 +176,7 @@ Meredith Ziegler (voice), Kimberly Soby (piano/voice), and Elizabeth Austin (pia
 <span style="color:#de4d00;"><strong>Music Credits</strong></span><br/>
 <strong>SMT-Pod Theme Music:</strong> <a href="/music#lu">Zhangcheng Lu</a><br/>
 <strong>Closing Music:</strong> <a href="/music#voss">David Voss</a><br/>
+<strong>Other Original Compositions:</strong> Jonathan Bailey, Marion Bauer, Nadia Boulanger, Shande Ding, Nina Simone, and Ulysses Kay
 </p>
 
 </div>
@@ -184,11 +185,50 @@ Meredith Ziegler (voice), Kimberly Soby (piano/voice), and Elizabeth Austin (pia
 
 <p><strong>Keywords:</strong> <em>Counterpoint, pedagogy, diversity, canon, analysis</em></p>
 </div>
-<!--<div style="width: 100%; height: 180px; margin-top: 10px; margin-bottom: 10px; border-radius: 6px; overflow:hidden; clear:both;"><iframe style="width: 100%; height: 180px;" frameborder="no" scrolling="no" seamless src="https://player.captivate.fm/episode/4e10c77d-fe58-4422-bbc5-0653c8b0bc52"></iframe></div>-->
+<div style="width: 100%; height: 180px; margin-top: 10px; margin-bottom: 10px; border-radius: 6px; overflow:hidden; clear:both;"><iframe style="width: 100%; height: 180px;" frameborder="no" scrolling="no" seamless src="https://player.captivate.fm/episode/4e10c77d-fe58-4422-bbc5-0653c8b0bc52"></iframe></div>
 
 </div>
 
 <a class="to-top" href="#top">Back to Top</a>
 </div>
+
+
+<div class="supplement" id="e2.5">
+<h3 class="supplement-title">2.5 - The Emotional Impact of the Double Upbeat</h3>
+<h4>Jenine Brown (Peabody Conservatory of the John Hopkins University)</h4>
+<h5>Release Date: Thursday, February 23, 2022</h5>
+<div class="floatsupps">
+<div style="float:left; width: 40%;">
+<img class="biopic" alt="Jenine Brown Headshot" src="../supplements/season02/S02Ep05brown.jpg">
+
+<p style="clear:both; padding-top: 10px;"><a href="../supplements/season02/S02Ep05Supp_brown.pdf" target="_blank">Supplemental Materials (PDF)</a></p>
+
+<p style="font-size: 12px;">
+<span style="color:#de4d00;"><strong>Production Credits</strong></span><br/>
+<strong>Team Lead:</strong> Anna Rose Nelson<br/>
+<strong>Production Lead:</strong> David Thurmaier<br/>
+<strong>Peer Reviewer:</strong> Nancy Murphy<br/>
+<strong>Special Thanks:</strong> Jenny Beavers, Megan Lyons</p>
+
+<p style="font-size: 12px;">
+<span style="color:#de4d00;"><strong>Music Credits</strong></span><br/>
+<strong>SMT-Pod Theme Music:</strong> <a href="/music#lu">Zhangcheng Lu</a><br/>
+<strong>Closing Music:</strong> <a href="/music#voss">David Voss</a><br/>
+<strong>Other Original Compositions:</strong> <a href="/music/season02#bulat">Serge Bulat</a>
+</p>
+
+</div>
+<div style="float:right; width: 60%;">
+<p><strong>Bio:</strong> Jenine Brown is Associate Professor of Music Theory and Coordinator of Ear Training at the Peabody Institute of the Johns Hopkins University. Her research can be read in <em>Music Theory Spectrum</em>, <em>Music Perception</em>, the <em>Journal of New Music Research</em>, the <em>Journal of Music Theory Pedagogy</em>, <em>Engaging Students</em>, and <em>Empirical Musicology Review</em>, among others. Brown currently serves as President of the Music Theory Society of the Mid-Atlantic and is Associate Editor of <em>Music Theory Online</em>. She received a Ph.D. in music theory from the Eastman School of Music in 2014.</p>
+
+<p><strong>Keywords:</strong> <em>Cover song, double upbeat, metric reinterpretation, Ellie Goulding, Elton John</em></p>
+</div>
+<!--<div style="width: 100%; height: 180px; margin-top: 10px; margin-bottom: 10px; border-radius: 6px; overflow:hidden; clear:both;"><iframe style="width: 100%; height: 180px;" frameborder="no" scrolling="no" seamless src="https://player.captivate.fm/episode/10535077-b11b-49ec-8049-6a93d38a8e5a"></iframe></div>-->
+
+</div>
+
+<a class="to-top" href="#top">Back to Top</a>
+</div>
+
 
 </div>

@@ -10,6 +10,7 @@ As part of our mission to include diverse voices in our scholarship, _SMT-Pod_ a
 <div id="s2features">
 <p>The following composers and performers are featured in Season 2's episodes (updated as episodes are released):</p>
 <ul>
+<li><a href="#bulat">George Bulat</a></li>
 <li><a href="#yee">Thomas Yee</a></li>
 </ul>
 
@@ -18,6 +19,19 @@ As part of our mission to include diverse voices in our scholarship, _SMT-Pod_ a
 <div id="s2composerbios">
 <h3>Musician Biographies</h3>
 <p><em>Theme and Closing music composers are listed in our main <a href="/music#composerbios">music</a> page. Season 2 composers and performers listed below in alphabetical order by last name.</em></p>
+
+<div class="biobox" id="bulat">
+<a name="bulat"></a>
+<h4><strong>George Bulat</strong></h4>
+<p style="font-size: 14px; font-weight: bold;"><a href="https://sergebulat.com" target="_blank">Composer's Website</a><br/>
+Untitled work featured in <a href="/episodes/season02/#e2.5">Episode 2.5</a></p>
+<p>Serge Bulat is a Moldovan-American multidisciplinary artist, composer and sound designer, who has been contributing to both European and American art scenes, exploring various mediums: from music and visuals to video games, radio and theater productions. </p>
+
+<p>The artist's most notable to date works are "Queuelbum" (IMA award for Best Electronic Album);  project "Inkblot"  designed as a psychological test but expanded by additional senses (presented at music and art festivals around the world); and the immersive art game "Wurroom." </p>
+
+<p>Bulat's artistic approach is often perceived as a meditation on arts, philosophy, science, and society; and explores such diverse subjects as creativity, technology, reality, culture, and identity. Recent artistic activities include the release of the multi-format albums "Wurmenai", "Similarities Between Fish And A Chair" (a collaboration with artists from 10 countries), and the score for the experimental video game "Isolomus."</p>
+<a class="to-top" href="#top">Back to Top</a>
+</div>
 
 <div class="biobox" id="yee">
 <a name="yee"></a>
