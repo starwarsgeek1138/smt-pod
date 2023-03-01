@@ -28,7 +28,7 @@ A new episode released every Thursday, beginning January 26, 2026. Click on the 
 <li><b>Episode 2.3</b> (February 9, 2023) - Kimberly Soby, <a href="season02#e2.3">“A Gender-Analysis Approach to Settings of Chamisso’s Frauenliebe und -leben”</a></li>
 <li><b>Episode 2.4</b> (February 16, 2023) - Melissa Hoag, <a href="season02#e2.4">“Counterpoint Expanded: Integrating Music by Women and Composers of Color in the 18th-Century Counterpoint Classroom"</a></li>
 <li><b>Episode 2.5</b> (February 23, 2023) - Jenine Brown, <a href="season02#e2.5">“The Emotional Impact of the Double Upbeat”</a></li>
-<li><b>Episode 2.6</b> (March 2, 2023) - Rami Stucky, “What Green Book Got Wrong About Black Music”</li>
+<li><b>Episode 2.6</b> (March 2, 2023) - Rami Stucky, <a href="season02#e2.6">“What Green Book Got Wrong About Black Music”</a></li>
 <li><b>Episode 2.7</b> (March 9, 2023) - Phil Ewell, “Theorizing African-American Music” (1/5)</li>
 <li><b>Episode 2.8</b> (March 16, 2023) - Phil Ewell, (2/5)</li>
 <li><b>Episode 2.9</b> (March 23, 2023) - Phil Ewell, (3/5)</li>
