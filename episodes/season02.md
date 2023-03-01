@@ -257,7 +257,10 @@ Meredith Ziegler (voice), Kimberly Soby (piano/voice), and Elizabeth Austin (pia
 
 <p><strong>Keywords:</strong> <em>Green Book, Don Shirley, labor, Black music, essentialism</em></p>
 </div>
-<!--<div style="width: 100%; height: 180px; margin-top: 10px; margin-bottom: 10px; border-radius: 6px; overflow:hidden; clear:both;"><iframe style="width: 100%; height: 180px;" frameborder="no" scrolling="no" seamless src="https://player.captivate.fm/episode/10535077-b11b-49ec-8049-6a93d38a8e5a"></iframe></div>
+<!--Latest episode -->
+<div style="width: 100%; height: 200px; margin-bottom: 20px; border-radius: 6px; overflow: hidden;"><iframe style="width: 100%; height: 200px;" frameborder="no" scrolling="no" seamless src="https://player.captivate.fm/show/d9c88032-2609-4757-82c7-860198cb482f/latest/"></iframe></div>
+<!--Actual Episode-->
+<!--<div style="width: 100%; height: 180px; margin-top: 10px; margin-bottom: 10px; border-radius: 6px; overflow:hidden; clear:both;"><iframe style="width: 100%; height: 180px;" frameborder="no" scrolling="no" seamless src="https://player.captivate.fm/episode/fcadafb8-1fc7-4e86-836a-2304332bcd1f"></iframe></div>
 -->
 </div>
 
