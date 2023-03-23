@@ -25,12 +25,11 @@
 <li><b>Episode 2.4</b> (February 16, 2023) - Melissa Hoag, <a href="#e2.4">“Counterpoint Expanded: Integrating Music by Women and Composers of Color in the 18th-Century Counterpoint Classroom"</a></li>
 <li><b>Episode 2.5</b> (February 23, 2023) - Jenine Brown, <a href="#e2.5">“The Emotional Impact of the Double Upbeat”</a></li>
 <li><b>Episode 2.6</b> (March 2, 2023) - Rami Stucky, <a href="#e2.6">“What Green Book Got Wrong About Black Music”</a></li>
-<li><b>Episode 2.7</b> (March 9, 2023) - Philip Ewell, <a href="#e2.7">“Theorizing African American Music: Beginnings” (1/6)</a></li>
-<li><b>Episode 2.8</b> (March 16, 2023) - Christopher Jenkins, <a href="#e2.8">“Theorizing African American Music: The Concert” (2/6)</a></li>
-<li><b>Episode 2.9</b> (March 23, 2023) - Philip Ewell, "Theorizing African American Music" (3/6)</li>
-<li><b>Episode 2.10</b> (March 30, 2023) - Philip Ewell, "Theorizing African American Music" (4/6)</li>
-<li><b>Episode 2.11</b> (April 6, 2023) - Philip Ewell, "Theorizing African American Music" (5/6)</li>
-<li><b>Episode 2.12</b> (April 13, 2023) - Philip Ewell, "Theorizing African American Music" (6/6)</li>
+<li><b>Episode 2.7</b> (March 9, 2023) - Philip Ewell, <a href="#e2.7">“Theorizing African American Music: Beginnings” (1/5)</a></li>
+<li><b>Episode 2.8</b> (March 16, 2023) - Christopher Jenkins, <a href="#e2.8">“Theorizing African American Music: The Concert” (2/5)</a></li>
+<li><b>Episode 2.9</b> (March 23, 2023) - Philip Ewell, <a href="#e2.9">"Theorizing African American Music: The Keynote" (3/5)</a>x</li>
+<li><b>Episode 2.10</b> (March 30, 2023) - Philip Ewell, "Theorizing African American Music" (4/5)</li>
+<li><b>Episode 2.11</b> (April 6, 2023) - Philip Ewell, "Theorizing African American Music" (5/5)</li>
 </ul>
 </div>
 
@@ -266,7 +265,7 @@ Meredith Ziegler (voice), Kimberly Soby (piano/voice), and Elizabeth Austin (pia
 
 
 <div class="supplement" id="e2.7">
-<h3 class="supplement-title">2.7 - Theorizing African American Music: Beginnings (1/6)</h3>
+<h3 class="supplement-title">2.7 - Theorizing African American Music: Beginnings (1/5)</h3>
 <h4>Philip Ewell (Hunter College, CUNY)<br/><em>with appearances by Christopher Jenkins, Lydia Bangura, and Susan McClary</em></h4>
 <h5>Release Date: Thursday, March 9, 2023</h5>
 <div class="floatsupps">
@@ -290,7 +289,7 @@ Meredith Ziegler (voice), Kimberly Soby (piano/voice), and Elizabeth Austin (pia
 
 </div>
 <div style="float:right; width: 60%;">
-<p><em>This is the first episode of a six-part series on the Theorizing African American Music Conference that will be released through the end of Season 2.</em></p>
+<p><em>This is the first episode of a five-part series on the Theorizing African American Music Conference that will be released through the end of Season 2.</em></p>
 
 <p><strong>Bio:</strong> Philip Ewell is a Professor of Music Theory at Hunter College. His specialties include Russian music theory, Russian opera, modal theory, rap and hiphop, and race studies. His work has been featured in news outlets such as the BBC, Die Zeit, NPR, the New York Times, the New Yorker, and WQXR’s Aria Code. His monograph, <em>On Music Theory, And Making Music More Welcoming for Everyone</em>, will appear at the University of Michigan Press in April 2023. He is coauthoring a new music theory textbook, <em>The Engaged Musician: Theory and Analysis for the Twenty-First Century</em>, and he is the series editor for OUP’s <em>Theorizing African American Music</em>.</p>
 
@@ -302,7 +301,7 @@ Meredith Ziegler (voice), Kimberly Soby (piano/voice), and Elizabeth Austin (pia
 </div>
 
 <div class="supplement" id="e2.8">
-<h3 class="supplement-title">2.8 - Theorizing African American Music: The Concert (2/6)</h3>
+<h3 class="supplement-title">2.8 - Theorizing African American Music: The Concert (2/5)</h3>
 <h4>Christopher Jenkins (Oberlin Conservatory)<br/><em>with appearances by Philip Ewell, Lydia Bangura, Khari Joyner, and Theron Brown</em></h4>
 <h5>Release Date: Thursday, March 16, 2023</h5>
 <div class="floatsupps">
@@ -326,7 +325,7 @@ Meredith Ziegler (voice), Kimberly Soby (piano/voice), and Elizabeth Austin (pia
 
 </div>
 <div style="float:right; width: 60%;">
-<p><em>This is the second episode of a six-part series on the Theorizing African American Music Conference that will be released through the end of Season 2.</em></p>
+<p><em>This is the second episode of a five-part series on the Theorizing African American Music Conference that will be released through the end of Season 2.</em></p>
 
 <p><strong>Bio:</strong> Chris Jenkins is an Associate Dean at Oberlin Conservatory, Conservatory Liaison to the Office of DEI, and Visiting Assistant Professor of Musicology. He teaches courses in hip hop and racial politics in music. He is currently earning a DMA in viola performance from the Cleveland Institute of Music, and a PhD in Musicology from Case Western Reserve University (CWRU).<br/><br/>
 
@@ -336,14 +335,47 @@ In 2022, Chris and Philip Ewell were co-founders and co-organizers of the Theori
 <p><strong>Keywords:</strong> <em>African American music, African diasporic music, music theory, jazz, Black classical music</em></p>
 </div>
 
-<!--Latest episode -->
-<div style="width: 100%; height: 200px; margin-bottom: 20px; border-radius: 6px; overflow: hidden;"><iframe style="width: 100%; height: 200px;" frameborder="no" scrolling="no" seamless src="https://player.captivate.fm/show/d9c88032-2609-4757-82c7-860198cb482f/latest/"></iframe></div>
-<!--Actual Episode-->
-<!--<div style="width: 100%; height: 180px; margin-top: 10px; margin-bottom: 10px; border-radius: 6px; overflow:hidden; clear:both;"><iframe style="width: 100%; height: 180px;" frameborder="no" scrolling="no" seamless src="https://player.captivate.fm/episode/fcadafb8-1fc7-4e86-836a-2304332bcd1f"></iframe></div>
--->
+<div style="width: 100%; height: 180px; margin-top: 10px; margin-bottom: 10px; border-radius: 6px; overflow:hidden; clear:both;"><iframe style="width: 100%; height: 180px;" frameborder="no" scrolling="no" seamless src="https://player.captivate.fm/episode/7cd7f02c-74f9-49bd-aa4f-7214c6f64cbe"></iframe></div>
 </div>
 
 <a class="to-top" href="#top">Back to Top</a>
 </div>
 
+<div class="supplement" id="e2.9">
+<h3 class="supplement-title">2.9 - Theorizing African American Music: The Keynote (3/5)</h3>
+<h4>Philip Ewell (Hunter College, CUNY)<br/><em>with an appearance by Dwight Andrews</em></h4>
+<h5>Release Date: Thursday, March 23, 2023</h5>
+<div class="floatsupps">
+<div style="float:left; width: 40%;">
+<p style="clear:both; padding-top: 10px;"><a href="https://case.edu/artsci/music/taam-conf-06.16-18.2022" target="_blank">2022 TAAM Conference Website</a><br/>
+<a href="http://www.philipewell.com/ " target="_blank">Author's Website</a></p>
+
+<p style="font-size: 12px;">
+<span style="color:#de4d00;"><strong>Production Credits</strong></span><br/>
+<strong>Team Leads:</strong> Megan Lyons, Lydia Bangura<br/>
+<strong>Production Lead:</strong> Megan Lyons<br/>
+<strong>Peer Reviewer:</strong> Kwami Coleman</p>
+
+<p style="font-size: 12px;">
+<span style="color:#de4d00;"><strong>Music Credits</strong></span><br/>
+<strong>SMT-Pod Theme Music:</strong> <a href="/music#lu">Zhangcheng Lu</a><br/>
+<strong>Closing Music:</strong> <a href="/music#voss">David Voss</a><br/>
+<strong>Other Music Performances:</strong><a href="/music/season02#burleson"> Geoffrey Burleson</a></p>
+
+</div>
+<div style="float:right; width: 60%;">
+<p><em>This is the third episode of a five-part series on the Theorizing African American Music Conference that will be released through the end of Season 2.</em> </p>
+<p><a href="#e2.7">See author information</a> for the first episode of the series.</p>
+<p><strong>Keywords:</strong> <em>African American music, music theory, music conferences, Dwight Andrews, Yale University, Amiri Baraka</em></p>
+</div>
+
+<!--Latest episode -->
+<div style="width: 100%; height: 200px; margin-bottom: 20px; border-radius: 6px; overflow: hidden;"><iframe style="width: 100%; height: 200px;" frameborder="no" scrolling="no" seamless src="https://player.captivate.fm/show/d9c88032-2609-4757-82c7-860198cb482f/latest/"></iframe></div>
+<!--Actual Episode-->
+<!--<div style="width: 100%; height: 180px; margin-top: 10px; margin-bottom: 10px; border-radius: 6px; overflow:hidden; clear:both;"><iframe style="width: 100%; height: 180px;" frameborder="no" scrolling="no" seamless src="https://player.captivate.fm/episode/7cd7f02c-74f9-49bd-aa4f-7214c6f64cbe"></iframe></div>
+-->
+
+</div>
+<a class="to-top" href="#top">Back to Top</a>
+</div>
 </div>
