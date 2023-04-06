@@ -32,8 +32,8 @@ A new episode released every Thursday, beginning January 26, 2026. Click on the 
 <li><b>Episode 2.7</b> (March 9, 2023) - Philip Ewell, <a href="season02#e2.7">“Theorizing African American Music: Beginnings” (1/5)</a></li>
 <li><b>Episode 2.8</b> (March 16, 2023) - Christopher Jenkins, <a href="season02#e2.8">“Theorizing African American Music: The Concert” (2/5)</a></li>
 <li><b>Episode 2.9</b> (March 23, 2023) - Philip Ewell, <a href="season02#e2.9">“Theorizing African American Music: The Keynote" (3/5)</a></li>
-<li><b>Episode 2.10</b> (March 30, 2023) - Philip Ewell, <a href="season02#e2.10">“Theorizing African American Music" (4/5)</a></li>
-<li><b>Episode 2.11</b> (April 6, 2023) - Philip Ewell, “Theorizing African American Music" (5/5)</li>
+<li><b>Episode 2.10</b> (March 30, 2023) - Philip Ewell, <a href="season02#e2.10">“Theorizing African American Music: The Participants" (4/5)</a></li>
+<li><b>Episode 2.11</b> (April 6, 2023) - Philip Ewell, <a href="season02#e2.11">“Theorizing African American Music: Black Women in Academic Music, and Final Thoughts"(5/5)</a></li>
 </ul>
 </div>
 <hr/>
