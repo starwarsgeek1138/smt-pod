@@ -4,8 +4,8 @@
   </div>
 </div>
 
->Calls for a new season begin in May of each year.<br/>
->See the Archived Season 2 Call for Podcasts below.
+>Calls for season 3 currently open.<br/>
+>Deadline for Season 3 Proposals is June 15, 2023 @ 11:59pm EST
 
 ### Overview
 
@@ -29,20 +29,20 @@ The initial proposal (300–500 words) should include information about the topi
 <!------------>
 <div class="accordTab">
     <input type="checkbox" id="tmln" class="accordionInput">
-    <label class="accordTab-label" for="tmln">Season 2 Timeline</label>
+    <label class="accordTab-label" for="tmln">Season 3 Timeline</label>
 
     <div class="accordTab-content">
     <p style="font-style: italic; font-weight: 700; padding-top: 15px;"></p>
-<ul><li>May 5, 2022: Call for Season 2 Proposals Opens</li>
-<li> June 15, 2022: Proposals due by 11:59 pm EST</li>
-<li>July 1, 2022:
-<ul><li>Notification of acceptances for Season 2</li>
+<ul><li>May 5, 2023: Call for Season 3 Proposals Opens</li>
+<li> June 15, 2023: Proposals due by 11:59 pm EST</li>
+<li>July 1, 2023:
+<ul><li>Notification of acceptances for Season 3</li>
 <li>Reach out to peer reviewers with timeline for their review of episodes (must accept or reject by July 15)</li></ul></li>
-<li>July TBD, 2022: Zoom meeting with accepted authors and SMT-Pod Board to outline guidelines and answer questions.</li>
-<li> August 31, 2022: <strong>Audio Draft of episode due to board</strong> (to be sent out for peer review/audio quality control)</li>
-<li>September 30, 2022: Peer Reviewer feedback and comments due (or earlier if possible!)</li>
-<li>November 1, 2022: <strong>Final audio due to SMT-Pod Board </strong></li>
-<li>January 26, 2023 (tentative): First episode of Season 2 released</li>
+<li>Early July 2023: Zoom meeting with accepted authors and SMT-Pod Board to outline guidelines and answer questions.</li>
+<li> August 15, 2023: <strong>Audio Draft of episode due to board</strong> (to be sent out for peer review/audio quality control)</li>
+<li>September 15, 2023: Peer Reviewer feedback and comments due (or earlier if possible!)</li>
+<li>October 1, 2023: <strong>Final audio due to SMT-Pod Board </strong></li>
+<li>January 2024: First episode of Season 3 released</li>
 </ul>
 
 
@@ -59,7 +59,7 @@ The initial proposal (300–500 words) should include information about the topi
     <div class="accordTab-content">
     <p style="font-style: italic; font-weight: 700; padding-top: 15px;">Call for Proposals</p>
     <ul>
-    <li>Authors interested in submitting their work for consideration in the next season of SMT-Pod should submit their proposal using this <a href="https://forms.gle/C9i76uoeXsXbwMAb8" target="_blank">Google Form</a>. <strong>Proposals must be received by 11:59 pm EST on June 15, 2022 for consideration in Season 2.</strong></li>
+    <li>Authors interested in submitting their work for consideration in the next season of SMT-Pod should submit their proposal using this <a href="https://forms.gle/C9i76uoeXsXbwMAb8" target="_blank">Google Form</a>. <strong>Proposals must be received by 11:59 pm EST on June 15, 2023 for consideration in Season 2.</strong></li>
 <li>The materials for submission include the following:</li>
 <ol style="font-size: 12px;">
   <li>Name (First and Last)</li>
