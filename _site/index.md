@@ -5,7 +5,7 @@
 </div>
 
 <div class="announce">
-<h4><strong>Call for Season 3 Proposals Open </strong></h4>
+<h4><strong><a href="../submit">Call for season 3 proposals</a> is open </strong></h4>
 Proposals for season 3 due by 11:59pm EST on June 15, 2023.
 </div>
 
@@ -15,7 +15,7 @@ _SMT-Pod_ is a [Open Collaborative Peer-Reviewed](../submit/OCPR) and creative v
 <div><p class="socmedia">follow <a href="http://www.twitter.com/smt_pod" target="_blank"><img height="30px" width="30px" alt="twitter; credit: freepik" src="../images/twitter.png"/></a></p></div>
 # Latest News
 
-**May 2023** : Call for season 3 proposals opens - deadline for Spring 2024 podcast season is June 15, 2023 at 11:59pm EST.
+**May 2023** : [Call for season 3](submit) opens - deadline for Spring 2024 podcast season is June 15, 2023 at 11:59pm EST.
 
 **January 2023** : New season launches! Join us every Thursday beginning on January 26, 2023 for a weekly podcast episode.
 
