@@ -6,7 +6,7 @@
 
 <div class="announce">
 <h4><strong><a href="../submit">Call for season 3 proposals</a> is open </strong></h4>
-Proposals for season 3 due by 11:59pm EST on June 15, 2023.
+Proposals for season 3 has been extended to 11:59pm EST on July 15, 2023.
 </div>
 
 _SMT-Pod_ is a [Open Collaborative Peer-Reviewed](../submit/OCPR) and creative venue for timely conversations about music theory. Audio-only podcasts offer a unique—though non-traditional—way of engaging with music, analysis, and contemporary issues in the field. As opposed to the heavy, jargon-laden publications we are used to working through at our desks, _SMT-Pod_ publications are easy to listen to and think about in the car, on your run, or while grading.. [Read more about _SMT-Pod_ here.](about)
@@ -14,6 +14,8 @@ _SMT-Pod_ is a [Open Collaborative Peer-Reviewed](../submit/OCPR) and creative v
 <hr>
 <div><p class="socmedia">follow <a href="http://www.twitter.com/smt_pod" target="_blank"><img height="30px" width="30px" alt="twitter; credit: freepik" src="../images/twitter.png"/></a></p></div>
 # Latest News
+
+**June 2023** : [Call for season 3](submit) deadline for Spring 2024 podcast season is extended to July 15, 2023 at 11:59pm EST.
 
 **May 2023** : [Call for season 3](submit) opens - deadline for Spring 2024 podcast season is June 15, 2023 at 11:59pm EST.
 

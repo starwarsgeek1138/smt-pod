@@ -5,7 +5,7 @@
 </div>
 
 >Calls for season 3 currently open.<br/>
->Deadline for Season 3 Proposals is June 15, 2023 @ 11:59pm EST
+>Deadline for Season 3 Proposals is extended to July 15, 2023 @ 11:59pm EST
 
 ### Overview
 
