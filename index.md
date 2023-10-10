@@ -5,8 +5,8 @@
 </div>
 
 <div class="announce">
-<h4><strong><a href="../submit">Call for season 3 proposals</a> is open </strong></h4>
-Proposals for season 3 has been extended to 11:59pm EST on July 15, 2023.
+<h4><strong>Season 3 in production!</strong></h4>
+Check back in January 2024 for season 3 episodes!
 </div>
 
 _SMT-Pod_ is a [Open Collaborative Peer-Reviewed](../submit/OCPR) and creative venue for timely conversations about music theory. Audio-only podcasts offer a unique—though non-traditional—way of engaging with music, analysis, and contemporary issues in the field. As opposed to the heavy, jargon-laden publications we are used to working through at our desks, _SMT-Pod_ publications are easy to listen to and think about in the car, on your run, or while grading.. [Read more about _SMT-Pod_ here.](about)

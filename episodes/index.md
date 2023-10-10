@@ -7,7 +7,7 @@
 ### Listen to the latest episode
 
 <div class="announce">
-<strong>Season 2:</strong> A new episode launches every Thursday at 9am EST beginning January 26, 2023.
+<strong>Season 3:</strong> Check back in January 2024 for our new season!
 </div>
 
 <iframe style="width: 100%; height:200px; border:none;" frameborder="no" scrolling="no" seamless src="https://player.captivate.fm/show/d9c88032-2609-4757-82c7-860198cb482f/"></iframe>
