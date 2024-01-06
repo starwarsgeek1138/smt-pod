@@ -4,8 +4,8 @@
   </div>
 </div>
 
->Calls for season 3 currently open.<br/>
->Deadline for Season 3 Proposals is June 15, 2023 @ 11:59pm EST
+>Season 3 is currently in production.<br/>
+>Season 4 Proposals will open in Summer 2024.
 
 ### Overview
 

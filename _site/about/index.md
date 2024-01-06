@@ -7,7 +7,6 @@
 ### Mission Statement
 _SMT-Pod_ is a creative venue for timely conversations about music, with episodes chosen through an open, collaborative peer review process. Audio-only podcasts offer a unique—though non-traditional—way of engaging with music, analysis, and contemporary issues in the field. This new publication medium affords our society both the ability to face outwards, by engaging in public scholarship, and inwards, by hosting meaningful conversations about the activity of music analysis. The variety of episode topics will reflect the diversity of the scholars and their scholarship in our field, making _SMT-Pod_ an invaluable publication for music analysts at any stage. Through its goal of promoting a sense of community and inclusivity, _SMT-Pod_ will reach beyond the boundaries of the SMT at this critical moment of calls for the revitalization of our field
 
-
 >#### [Read more about our submission process](../submit)
 >#### [Read more about our Open Collaborative Peer Review (OCPR)](../submit/OCPR)
 >#### [Read about our ethics and standards for publication](ethics)
@@ -18,17 +17,16 @@ If you have any questions about the process, please feel free to contact the [_S
 
 Contact us at [smt-pod@societymusictheory.org](mailto:smt-pod@societymusictheory.org).
 
-#### Chairs
+#### Co-Editors
 <div class="biobox"> <img class="biopic" src="../images/bio_beavers.jpg"/>
 <p><span class="biotitle">Jennifer Beavers</span> (University of Texas, San Antonio) is a music theory professor who specializes in early twentieth-century analysis, sound-based analytical approaches, and music theory pedagogy. Some of her diverse research interests include timbre studies, the music of Maurice Ravel, 1920s jazz, pitch matching, and public music theory projects. She is committed to diversifying the academic pipeline by creating inclusive teaching practices, mentoring first-gen college students, and conducting various outreach and research projects with her Music Theory Club. She has published in Music Theory Online, Indiana Theory Review, Journal of Music Theory Pedagogy, Journal of Music Teacher Education, and has chapters in The Routledge Companion to Aural Skills Pedagogy, and The Oxford Handbook of Public Music Theory.</p>
 <p><strong>Favorite Podcasts:</strong> <a href="https://themoth.org/podcast" target="_blank">The Moth</a>, <a href="https://anothermotherrunner.com/category/another-mother-runner-podcast/" target="_blank">Another Mother Runner</a>, <a href="https://gimletmedia.com/shows/reply-all" target="_blank">Reply All</a>, <a href="https://switchedonpop.com" target="_blank">Switched on Pop</a>, <a href="https://www.npr.org/podcasts/510357/louder-than-a-riot" target="_blank">Louder than a Riot</a>.</p>
 </div>
 
-
 <div class="biobox"><img class="biopic" src="../images/bio_lyons.jpg" /> <p><span class="biotitle">Megan Lyons</span> (Furman University) is an Assistant Professor of Music Theory. She received her PhD in music theory and history from the University of Connecticut. Her research areas include music theory pedagogy, music encoding and its analysis, Joni Mitchell’s alternate guitar tunings, and the art songs of Amy Beach. She is co-author with Dr. Philip Ewell of “Don’t You Cry for Me: A Critical-Race Analysis of Undergraduate Music Theory Instruction,” a chapter in the forthcoming edited volume Teaching and Learning Difficult Topics in the Music Classroom.</p>
 </div>    
 
-#### Program Committee
+#### Program Committee & Team Leaders
 
 <div class="biobox"><img class="biopic" src="../images/bio_bangura.jpg" /> <p><span class="biotitle">Lydia Bangura</span> (University of Michigan) is a lifelong music performer, with experience studying viola and voice. She holds a bachelor's degree from Northern Arizona University (Class of 2019), a master's degree from the Chicago College of Performing Arts at Roosevelt University (Class of 2021), and is currently enrolled at the University of Michigan studying music theory. She has recently launched a podcast series titled "The Theory Club: A Music Theory and Musicology Podcast," co-hosted by fellow CCPA student, Emily Zwijack.</p>
 <p><strong>Personal Podcast:</strong> <a href="" target="_blank">The Theory Club: A Music Theory and Musicology Podcast</a></p>
@@ -45,11 +43,19 @@ Contact us at [smt-pod@societymusictheory.org](mailto:smt-pod@societymusictheory
 <div class="biobox"><img class="biopic" src="../images/bio_weaver.jpg" /> <p><span class="biotitle">Jennifer Weaver</span> (Dallas Baptist University) is an Assistant Professor of Music. She earned her Ph.D. and a Master's degree in Music Theory at the University of North Texas and a Bachelor's degree in Music Education from Cedarville University. Jennifer has worked within the leadership of several arts organizations, including Shakespeare Dallas and the Murchison Center for the Performing Arts. Her major research areas include twentieth-century music, history of music theory, opera, and music theory pedagogy. Jennifer sings in the Dallas Symphony Chorus and is a member of Wilshire Baptist Church in Dallas.</p>
 </div>
 
+#### Composition Committee
 <div class="biobox"><img class="biopic" src="../images/bio_yee.jpg" /> <p><span class="biotitle">Thomas Yee</span> (University of Texas, San Antonio): Some composers found their love of music at the symphony hearing Brahms or Beethoven — Thomas (b. 1992) discovered his from the beeps and boops of the family Super Nintendo. Blending the roles of composer and music theorist, Thomas specializes in writing for percussion, wind ensemble, and Holocaust remembrance music; his research focuses on music semiotics and the representation of gender, race, and religion in video game music. Thomas completed his DMA at the University of Texas at Austin and is an Assistant Professor of Instruction in Music Theory at UTSA.</p>
 <p><strong>Favorite Podcasts:</strong> <a href="https://www.npr.org/podcasts/510312/codeswitch" target="_blank">Code Switch</a>, <a href="https://www.cnn.com/audio/podcasts/chasing-life" target="_blank">Chasing Life</a>, <a href="https://www.stubbornheroes.com" target="_blank">The Stubborn Heroes</a>, <a href="https://brenebrown.com/podcasts/" target="_blank">Unlocking Us with Brené Brown</a>, <a href="https://www.premierchristianradio.com/Shows/Saturday/Unbelievable" target="_blank">Unbelievable?</a></p>
 </div>
 
 #### Production Committee
+<div class="biobox"><img class="biopic" src="../images/bio_garza.jpg" /> <p><span class="biotitle">Jose Garza</span> (Texas State University) is a Lecturer of Music Theory and Aural Skills. He received his Bachelor’s degree in Music Studies and Master’s degree in Music Theory from Texas State University, then attended Florida State University, where he received his Ph.D. in Music Theory. His scholarship deals primarily with rhythm, meter, and musical meaning in popular music, particularly metal and punk rock. His other research interests include video game music, percussion repertoire, and twentieth- and twenty-first-century art music repertoire.
+</p>
+</div>
+
+<div class="biobox"><img class="biopic" src="../images/bio_lloyd.jpg" /> <p><span class="biotitle">Zachary Lloyd</span> (Florida State University) is a Ph.D. Candidate in Music Theory. He holds a Masters degree in Music Theory from Michigan State University and a Bachelors in Music from Appalachian State University. As a music theorist, Zachary is interested in the ways that meaning is expressed through music. His research has explored various musical styles ranging from 20th century piano repertoire by Florence Price to musical theater scores as recent as 2022.</p>
+</div>
+
 <div class="biobox"><img class="biopic" src="../images/bio_roush.jpg" /> <p><span class="biotitle">Katrina Roush</span> (University of Texas, Rio Grande Valley) is an Assistant Professor of Music Theory. Her current research interests include music theory pedagogy, especially online teaching and issues of diversity, equity, and inclusion; analysis of subjective listening experiences; and narrative uses of music in video games and television. She received her Ph.D. in music theory at Indiana University, M.M. in music theory at Michigan State University, and B.A. in piano at Indiana Wesleyan University. Together with her husband Charley, Katrina hosts her video podcast (see below) as part of UTRGV’s iConnect initiative. In her free time, Katrina enjoys eating sushi, petting dogs, taking long walks in the Texas sunshine, and playing in a faculty rock band.</p>
 <p><strong>Personal Podcast:</strong> <a href="https://www.youtube.com/playlist?list=PLTAZdsUnl7kDAPQVD-THIMwGR8KXaIAbJ" target="_blank">Keys to Success for Music Majors</a></p>
 <p><strong>Favorite Podcasts:</strong> <a href="https://slate.com/podcasts/big-mood-little-mood" target="_blank">Big Mood,Little Mood with Daniel M. Lavery (previously called Dear Prudence)</a>, <a href="https://getmortified.com/audio/podcast/" target="_blank">The Mortified Podcast</a></p>
@@ -61,12 +67,13 @@ Contact us at [smt-pod@societymusictheory.org](mailto:smt-pod@societymusictheory
 <p><strong>Favorite Podcasts:</strong> <a href="https://davidpakman.com" target="_blank">The David Pakman Show</a>, <a href="https://storicmedia.com/fabcast/" target="_blank">Fabcast</a>, <a href="https://barpodcast.fireside.fm" target="_blank">Blocked and Reported</a>, <a href="https://www.kcrw.com/news/shows/left-right-center" target="_blank">Left, Right, and Center</a>, lots of true crime podcasts</p>
 </div>
 
+#### Accessibility Chair
+<div class="biobox"><img class="biopic" src="../images/bio_mcalister.jpg"/> <p><span class="biotitle">Shannon Mcalister</span> (University of Connecticut)is a PhD student in music theory and history and a graduate teaching assistant. She is also currently pursuing a Graduate Certificate of Interdisciplinary Disability Studies in Public Health at UConn. Shannon earned her MA in Music Theory and a Graduate Certificate in College Instruction from the University of Connecticut and a BM in Music Education from the University of Delaware. Her research areas include music and disability studies, as well as music theory pedagogy.</p>
+</div>
+
 #### Website and Technology Committee
 <div class="biobox"><img class="biopic" src="../images/bio_acevedo.jpg" /> <p><span class="biotitle">Stefanie Acevedo</span> (University of Connecticut) is an Assistant Professor of Music Theory. Her research focuses on the analysis and cognition of musical expectation & style and music theory pedagogy. She received her PhD in theory from Yale University, and holds master’s degrees in psychology (University at Buffalo) and theory (Bowling Green State University) and a bachelor's in music composition (University of Florida). Prior to UConn, she taught at the University of Dayton. Stefanie is committed to diversifying the field of music theory by modifying curricula and expanding opportunities for underprivileged and minority groups.</p>
 <p><strong>Favorite Podcasts:</strong> <a href="https://sostrangely.com" target="_blank"> The So Strangely Podcast</a>, <a href="https://www.sciencefriday.com/radio/" target="_blank">Science Friday</a>, <a href="https://www.npr.org/podcasts/381443927/performance-today-s-piano-puzzler" target="_blank">Piano Puzzler</a></p>
-</div>
-
-<div class="biobox"><img class="biopic" src="../images/bio_mcalister.jpg"/> <p><span class="biotitle">Shannon Mcalister</span> (University of Connecticut)is a PhD student in music theory and history and a graduate teaching assistant. She is also currently pursuing a Graduate Certificate of Interdisciplinary Disability Studies in Public Health at UConn. Shannon earned her MA in Music Theory and a Graduate Certificate in College Instruction from the University of Connecticut and a BM in Music Education from the University of Delaware. Her research areas include music and disability studies, as well as music theory pedagogy.</p>
 </div>
 
 <div class="biobox"><img class="biopic" src="../images/bio_ohara.jpg" /> <p><span class="biotitle">William O’Hara</span> (Gettysburg College), Assistant Professor of Music Theory, is a music theorist, historian, and media scholar with broad research and teaching interests, including tonal analysis, the history of music theory, popular music, and music in media contemporary media (including film, video games, and social media). His current research projects are concerned with recomposition in music theory, chromatic harmony in the music of Amy Beach, and popular music in video games and on YouTube. He earned his PhD from Harvard, and previously taught at Tufts.</p>

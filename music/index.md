@@ -11,7 +11,9 @@ As part of our mission to include diverse voices in our scholarship, _SMT-Pod_ a
 <h2>Featured Musicians</h2>
 <p>Theme music composer bios appear <a href="#composerbios">below</a>. Visit our season pages to read more about composers and performers featured in each season's episodes:</p>
 <uL><li><a href="season01">Season 1 (Spring 2022) Music</a></li>
-<li><a href="season02">Season 2 (Spring 2023) Music</a></li></ul>
+<li><a href="season02">Season 2 (Spring 2023) Music</a></li>
+<li><a href="season03">Season 3 (Spring 2024) Music</a></li>
+</ul>
 
 <p>Compositions were submitted as part of a Call for Compositions (see archived call below). Theme and closing music were selected from the submissions by a panel  of judges consisting of the members of the Editorial Board. Bumper/transitional music is chosen on an as-needed basis from the corpus of submissions.</p>
 

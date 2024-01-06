@@ -4,10 +4,10 @@
   </div>
 </div>
 
-### Listen to the latest episode
+### Listen to the Latest Episode
 
 <div class="announce">
-<strong>Season 3:</strong> Check back in January 2024 for our new season!
+<strong>Season 3:</strong> Check back on January 25, 2024 for our new season!
 </div>
 
 <iframe style="width: 100%; height:200px; border:none;" frameborder="no" scrolling="no" seamless src="https://player.captivate.fm/show/d9c88032-2609-4757-82c7-860198cb482f/"></iframe>
@@ -19,11 +19,11 @@ _<a href="https://player.captivate.fm/show/d9c88032-2609-4757-82c7-860198cb482f/
 </div>
 <hr>
 
-<h3><a href="season02">Season 2</a> (Spring 2023)</h3>
-A new episode released every Thursday, beginning January 26, 2026. Click on the <a href="season02">Season 2 </a> title to see the full list of Season 2 episodes or on an episode name below for credits and supplementary materials (updated throughout the season).
+<h3><a href="season03">Season 3</a> (Spring 2024)</h3>
+A new episode released every Thursday, beginning January 25, 2024. Click on the <a href="season03">Season 3 </a> title to see the full list of Season 3 episodes or on an episode name below for credits and supplementary materials (updated throughout the season).
 
-<div style="margin-left:20px;">
-<ul><li><b>Episode 2.1</b> (January 26, 2023) - Katrina Roush, <a href="season02#e2.1">“From Piece to Music: Analyzing Your Own Listening”</a></li>
+<div>
+<!--<ul><li><b>Episode 2.1</b> (January 26, 2023) - Katrina Roush, <a href="season02#e2.1">“From Piece to Music: Analyzing Your Own Listening”</a></li>
 <li><b>Episode 2.2</b> (February 2, 2023) - Matthew Ferrandino & Frank Nawrot, <a href="season02#e2.2">“Tonal Polymodality in Tool's Ænima” </a></li>
 <li><b>Episode 2.3</b> (February 9, 2023) - Kimberly Soby, <a href="season02#e2.3">“A Gender-Analysis Approach to Settings of Chamisso’s Frauenliebe und -leben”</a></li>
 <li><b>Episode 2.4</b> (February 16, 2023) - Melissa Hoag, <a href="season02#e2.4">“Counterpoint Expanded: Integrating Music by Women and Composers of Color in the 18th-Century Counterpoint Classroom"</a></li>
@@ -34,10 +34,11 @@ A new episode released every Thursday, beginning January 26, 2026. Click on the 
 <li><b>Episode 2.9</b> (March 23, 2023) - Philip Ewell, <a href="season02#e2.9">“Theorizing African American Music: The Keynote" (3/5)</a></li>
 <li><b>Episode 2.10</b> (March 30, 2023) - Philip Ewell, <a href="season02#e2.10">“Theorizing African American Music: The Participants" (4/5)</a></li>
 <li><b>Episode 2.11</b> (April 6, 2023) - Philip Ewell, <a href="season02#e2.11">“Theorizing African American Music: Black Women in Academic Music, and Final Thoughts"(5/5)</a></li>
-</ul>
+</ul>-->
 </div>
 <hr/>
 <h3>Archive</h3>
 <div style="margin-left:20px;" id="archive">
 <h4><a href="season01">Season 1</a> (Spring 2022)</h4>
+<h4><a href="season02">Season 2</a> (Spring 2023)</h4>
 </div>

@@ -16,7 +16,7 @@
 
 <hr>
 
-<div style="margin-left:20px;">
+<div>
 <h2>Season 1 Episodes</h2>
 <ul><li><b>Episode 1.1</b> (January 13, 2022) - Scott Murphy, <a href="#e1.1">“Buxtehude Beats Bach? Qualifying a Canonic Claim”</a></li>
 <li><b>Episode 1.2</b> (January 20, 2022) - Joe Straus, <a href="#e1.2">“Musicking While Old: Old Age as Culture” (1/5)</a></li>

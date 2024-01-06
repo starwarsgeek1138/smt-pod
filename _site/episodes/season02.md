@@ -3,10 +3,10 @@
 </div>
 
 <div class="seasonplayer" id="podcastPlayer">
-<iframe style="float: left; width: 60%; height: 380px; padding: 0px;" frameborder="no" scrolling="no" seamless src="https://player.captivate.fm/show/d9c88032-2609-4757-82c7-860198cb482f"></iframe>
+<iframe style="float: left; width: 60%; height: 380px; padding: 0px;" frameborder="no" scrolling="no" seamless src="https://player.captivate.fm/collection/fdb67e61-1ddb-413f-bf0d-7d47938c4b6c"></iframe>
 
 <div id="streamingButtons" style="padding: 10px; text-align: center;">
-<p><a style="font-style: italic; padding-left: 5px;" href="https://player.captivate.fm/show/d9c88032-2609-4757-82c7-860198cb482f/" target="_blank">Click here to open player in a new window</a></p>
+<p><a style="font-style: italic; padding-left: 5px;" href="https://player.captivate.fm/collection/fdb67e61-1ddb-413f-bf0d-7d47938c4b6c" target="_blank">Click here to open player in a new window</a></p>
 
 <p>Stream on your favorite podcast app:</p>
 <a href="https://podcasts.apple.com/us/podcast/smt-pod/id1570119752" target="_blank"><img class="podimage" src="/images/ApplePodcasts.svg" alt="Listen on Apple Podcasts"/></a>
@@ -16,7 +16,7 @@
 
 <hr>
 
-<div style="margin-left:20px;">
+<div>
 <h2>Season 2 Episodes</h2>
 
 <ul><li><b>Episode 2.1</b> (January 26, 2023) - Katrina Roush, <a href="#e2.1">“From Piece to Music: Analyzing Your Own Listening”</a></li>
