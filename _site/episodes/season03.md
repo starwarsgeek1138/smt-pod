@@ -19,7 +19,7 @@
 <div>
 <h2>Season 3 Episodes</h2>
 
-<ul><li><b>Episode 3.1</b> (January 25, 2024) - Joe Straus, <a href="#e3.1">"Introduction to Stravinsky’s 1911 <em>Petrushka</em>”</a></li>
+<ul><li><b>Episode 3.1</b> (January 25, 2024) - Joseph Straus, <a href="#e3.1">"Introduction to Stravinsky’s 1911 <em>Petrushka</em>”</a></li>
 <li><b>Episode 3.2</b> (February 1, 2024) - Abigail Lindo, <!--<a href="#e3.2">-->“Muito Beleza – Ana’s Hands: Postcolonial Gendered Legacies of the Viola da Terra”<!--</a>--></li>
 <li><b>Episode 3.3</b> (February 8, 2024) - Stephen Rodgers, <!--<a href="#e3.3">-->"Listening a Page at a Time"<!--</a>--></li>
 <li><b>Episode 3.4</b> (February 15, 2024) - Nariá Assis & Luís Raimundo, <!--<a href="#e3.4">-->"Interrelating Concepts of 'Texture' and 'Rhythm' in Massive Textures and Beatless Rhythms"<!--</a>--></li>
@@ -44,7 +44,7 @@
 <h5>Release Date: Thursday, January 25, 2024</h5>
 <div class="floatsupps">
 <div style="float:left; width: 40%;">
-<img class="biopic" alt="Joe Straus Headshot" src="../supplements/season03/s03Ep01straus.jpg">
+<img class="biopic" alt="Joseph Straus Headshot" src="../supplements/season03/S03Ep01straus.jpg">
 
 <p style="font-size: 12px; clear:both; padding-top: 10px;">
 <span style="color:#de4d00;"><strong>Production Credits</strong></span><br/>
