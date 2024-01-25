@@ -5,8 +5,7 @@
 </div>
 
 <div class="announce">
-<h4><strong>Season 3 in production.</strong></h4>
-Check back on January 25, 2024 for our season 3 premiere!
+<h4><strong>Season 3 launch:</strong></h4> Listen every Thursday beginning January 25, 2024 for new season 3 episodes!
 </div>
 
 _SMT-Pod_ is a [Open Collaborative Peer-Reviewed](../submit/OCPR) and creative venue for timely conversations about music theory. Audio-only podcasts offer a unique—though non-traditional—way of engaging with music, analysis, and contemporary issues in the field. As opposed to the heavy, jargon-laden publications we are used to working through at our desks, _SMT-Pod_ publications are easy to listen to and think about in the car, on your run, or while grading.. [Read more about _SMT-Pod_ here.](about)
@@ -15,7 +14,7 @@ _SMT-Pod_ is a [Open Collaborative Peer-Reviewed](../submit/OCPR) and creative v
 <div><p class="socmedia">follow <a href="http://www.twitter.com/smt_pod" target="_blank"><img height="30px" width="30px" alt="twitter; credit: freepik" src="../images/twitter.png"/></a></p></div>
 # Latest News
 
-**January 2024** : Season 3 launches! Join us every Thursday beginning on January 25, 2023 for a weekly podcast episode.
+**January 2024** : Season 3 launches! Join us every Thursday beginning on January 25, 2024 for a weekly podcast episode.
 
 **June 2023** : [Call for season 3](submit) deadline for Spring 2024 podcast season is extended to July 15, 2023 at 11:59pm EST.
 
