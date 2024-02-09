@@ -21,7 +21,7 @@
 
 <ul><li><b>Episode 3.1</b> (January 25, 2024) - Joseph Straus, <a href="#e3.1">"Introduction to Stravinsky’s 1911 <em>Petrushka</em>”</a></li>
 <li><b>Episode 3.2</b> (February 1, 2024) - Abigail Lindo, <a href="#e3.2">“Muito Beleza – Ana’s Hands: Postcolonial Gendered Legacies of the Viola da Terra”</a></li>
-<li><b>Episode 3.3</b> (February 8, 2024) - Stephen Rodgers, <!--<a href="#e3.3">-->"Listening a Page at a Time"<!--</a>--></li>
+<li><b>Episode 3.3</b> (February 8, 2024) - Stephen Rodgers, <a href="#e3.3">"Listening a Page at a Time"</a></li>
 <li><b>Episode 3.4</b> (February 15, 2024) - Nariá Assis & Luís Raimundo, <!--<a href="#e3.4">-->"Interrelating Concepts of 'Texture' and 'Rhythm' in Massive Textures and Beatless Rhythms"<!--</a>--></li>
 <li><b>Episode 3.5</b> (February 22, 2024) - Thomas B. Yee, <!--<a href="#e3.5">-->"What if Octaves Aren't Equivalent? – A Composer's Guide to Non-Octave-Repeating Scales"<!--</a>--></li>
 <li><b>Episode 3.6</b> (February 29, 2024) - Matthew Ferrandino, Brent Ferguson & George Reid, <!--<a href="#e3.6">-->"Playing with Ghosts: Timbre and the Chiptuning of Canon in the Bardcore Video Game Projects"<!--</a>--></li>
@@ -100,56 +100,56 @@ Author's IG:<a href="https://www.instagram.com/ayeabby/" target="_blank">@ethnow
 <p><strong>Bio:</strong> Abigail Lindo is a Jamaican-born researcher, educator, vocalist, and cultural theorist whose academic interests include Black sonic expression and identity, Jamaican popular music and gender dynamics, the politics of community music-making, and Portuguese popular music consumption and festival culture in the Azores - which is the topic of her forthcoming dissertation. Her work has been presented nationally and internationally, supported by funding from the Society for Ethnomusicology, American Musicological Society, the Fulbright Commission of Portugal, and University of Florida. She is a former K-12 teacher, classically trained mezzo-soprano, and she enjoys composing in her downtime.</p>
 <p><strong>Keywords:</strong> <em>Azores, Portugal, Viola da Terra, Gender, Feminism, Estado Novo</em></p>
 </div>
-<div style="width: 100%; height: 200px; margin-bottom: 20px; border-radius: 6px; overflow: hidden;"><iframe style="width: 100%; height: 200px;" frameborder="no" scrolling="no" seamless src="https://player.captivate.fm/show/d9c88032-2609-4757-82c7-860198cb482f/latest/"></iframe></div>
 
-<!--<div style="width: 100%; height: 200px; margin-bottom: 20px; border-radius: 6px; overflow: hidden;"><iframe style="width: 100%; height: 200px;" frameborder="no" scrolling="no" seamless src="https://player.captivate.fm/episode/ee86e417-c0ab-483b-8843-2dca7755da99"></iframe></div>-->
+<div style="width: 100%; height: 200px; margin-bottom: 20px; border-radius: 6px; overflow: hidden;"><iframe style="width: 100%; height: 200px;" frameborder="no" scrolling="no" seamless src="https://player.captivate.fm/episode/ee86e417-c0ab-483b-8843-2dca7755da99"></iframe></div>
 </div>
 <a class="to-top" href="#top">Back to Top</a>
 </div>
 
-<!--
+
 <div class="supplement" id="e3.3">
-<h3 class="supplement-title">2.3 - A Gender-Analysis Approach to Settings of Chamisso’s Frauenliebe und -leben</h3>
-<h4>Kimberly Soby (University of Connecticut)</h4>
-<h5>Release Date: Thursday, February 9, 2024</h5>
+<h3 class="supplement-title">3.3 - Listening a Page at a Time</h3>
+<h4>Stephen Rodgers (University of Oregon)</h4>
+<h5>Release Date: Thursday, February 8, 2024</h5>
 <div class="floatsupps">
 <div style="float:left; width: 40%;">
-<img class="biopic" alt="Kim Soby Headshot" src="../supplements/season03/S03Ep03soby.jpg">
-<p style="clear:both; padding-top: 10px;"><a href="https://www.kimberlysoby.com" target="_blank">Author's Website</a><br/>
-Author's Social (Twitter/Instagram): @futuredrsoby</p>
+<img class="biopic" alt="Stephen Rodgers Headshot" src="../supplements/season03/S03Ep03rodgers.jpeg">
+<p style="clear:both; padding-top: 10px;"><a href="https://musicanddance.uoregon.edu/directory/profiles/all/ser" target="_blank">Author's Website</a><br/>
+Author's Social (X/IG): @artsongsteve<br/>
+<a href="https://www.facebook.com/stephen.rodgers.7370" target="_blank">Author's Facebook</a><br/>
+<a href="https://resoundingverse.buzzsprout.com/" target="_blank">Author's Podcast</a><br/>
+</p>
 
-<p style="clear:both; padding-top: 10px;"><a href="../supplements/season03/S03Ep03Supp_soby.pdf" target="_blank">Supplemental Materials (PDF)</a></p>
+<p style="clear:both; padding-top: 10px;"><a href="../supplements/season03/S03Ep03Supp_rodgers.pdf" target="_blank">Supplemental Materials (PDF)</a></p>
 
 <p style="font-size: 12px;">
 <span style="color:#de4d00;"><strong>Production Credits</strong></span><br/>
-<strong>Team & Production Lead:</strong> Jennifer Beavers<br/>
-<strong>Peer Reviewer:</strong> Amy Cimini<br/>
-<strong>Recording Engineer:</strong> Aaron Cherry</p>
+<strong>Team Lead:</strong> Jennifer Weaver<br/>
+<strong>Production Lead:</strong> Jose Garza<br/>
+<strong>Peer Reviewer:</strong> Matt BaileyShea</p>
 
 <p style="font-size: 12px;">
 <span style="color:#de4d00;"><strong>Music Credits</strong></span><br/>
 <strong>SMT-Pod Theme Music:</strong> <a href="/music#lu">Zhangcheng Lu</a><br/>
 <strong>Closing Music:</strong> <a href="/music#voss">David Voss</a><br/>
 
-<strong>Other Performances:</strong>
-Meredith Ziegler (voice), Kimberly Soby (piano/voice), and Elizabeth Austin (piano)<br/>
-<strong>Other Original Compositions:</strong> <a href="/music/season03#yee">Thomas Yee</a>
-</p>
+<strong>Other Acknowledgments:</strong>
+<a href="https://www.artsongaugmented.org/" target="_blank">Learn about Maude Valerie White's music</a><br/>
+Special thanks to Hyperion Records for permissions.</p>
 
 </div>
 <div style="float:right; width: 60%;">
-<p><strong>Bio:</strong> Kim Soby is a PhD student studying Music Theory and History at the University of Connecticut, where she also earned her BM in Vocal Performance. In addition to her core curricular activities, she is working toward a Graduate Certificate in Feminist Studies. Kim’s scholarship is informed by a national performing career, and she holds dual Masters degrees in Vocal Performance and Opera Studies from New England Conservatory. Research interests include the synthesis of performance and analysis and the feminist perspective to musical studies. Other interests include the beach, cats, and Oxford commas, and she is currently reading through all of the Pulitzer Prize-winning novels.</p>
-<p>Kim Soby's complete interview with Elizabeth Austin is available <a href="https://drive.google.com/file/d/1vZBp8KfzyLNsmhtf7BSnwq-Bi-LaT0TJ/view?usp=share_link">here</a> (hosted on Google Drive).</p>
-<p><strong>Keywords:</strong> <em>Gender, lieder, Robert Schumann, Carl Loewe, Elizabeth Austin, song cycle, feminism, interview
+<p><strong>Bio:</strong> Stephen Rodgers is Edmund A. Cykler Chair in Music and Professor of Music Theory and Musicianship at the University of Oregon, where he has been teaching since 2005. He specializes in the study of song, especially songs by underrepresented composers. His book, <em>The Songs of Clara Schumann</em>, was published in 2023 by Cambridge University Press, and his edited collection, <em>The Songs of Fanny Hensel</em>, appeared with Oxford University Press in 2021. He also hosts a podcast about poetry and song, called <em>Resounding Verse</em>, as well a website devoted to songs by composers whose music has been marginalized, called Art Song Augmented.</p>
+<p><strong>Keywords:</strong> <em>Music theory pedagogy, musical form, processual listening, George Saunders, Maude Valerie White
 </em></p>
 </div>
-<div style="width: 100%; height: 180px; margin-top: 10px; margin-bottom: 10px; border-radius: 6px; overflow:hidden; clear:both;"><iframe style="width: 100%; height: 180px;" frameborder="no" scrolling="no" seamless src="https://player.captivate.fm/episode/b52c4970-b7c9-4771-9737-7f48fefba4af"></iframe></div>
+<div style="width: 100%; height: 200px; margin-bottom: 20px; border-radius: 6px; overflow: hidden;"><iframe style="width: 100%; height: 200px;" frameborder="no" scrolling="no" seamless src="https://player.captivate.fm/show/d9c88032-2609-4757-82c7-860198cb482f/latest/"></iframe></div>
 
 </div>
 
 <a class="to-top" href="#top">Back to Top</a>
 </div>
-
+<!--
 <div class="supplement" id="e3.4">
 <h3 class="supplement-title">2.4 - Counterpoint Expanded: Integrating Music by Women and Composers of Color in the 18th-Century Counterpoint Classroom</h3>
 <h4>Melissa Hoag (Oakland University)</h4>
