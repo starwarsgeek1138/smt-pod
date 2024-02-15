@@ -26,7 +26,7 @@ A new episode released every Thursday, beginning January 25, 2024. Click on the 
 <ul><li><b>Episode 3.1</b> (January 25, 2024) - Joseph Straus, <a href="season03#e3.1">“Introduction to Stravinsky’s 1911 <em>Petrushka</em>”</a></li>
 <li><b>Episode 3.2</b> (February 1, 2024) - Abigail Lindo, <a href="season03#e3.2">“Muito Beleza – Ana’s Hands: Postcolonial Gendered Legacies of the Viola da Terra” </a></li>
 <li><b>Episode 3.3</b> (February 8, 2024) - Stephen Rodgers, <a href="season03#e3.3">“Listening a Page at a Time”</a></li>
-<li><b>Episode 3.4</b> (February 15, 2024) - Nariá Assis & Luís Raimundo, <!--<a href="season03#e3.4">-->“Interrelating Concepts of 'Texture' and 'Rhythm' in Massive Textures and Beatless Rhythms"<!--</a>--></li>
+<li><b>Episode 3.4</b> (February 15, 2024) - Nariá Assis & Luís Raimundo, <a href="season03#e3.4">“Interrelating Concepts of 'Texture' and 'Rhythm' in Massive Textures and Beatless Rhythms"</a></li>
 <li><b>Episode 3.5</b> (February 22, 2024) - Thomas B. Yee, <!--<a href="season03#e3.5">-->“What if Octaves Aren't Equivalent? – A Composer's Guide to Non-Octave-Repeating Scales”<!--</a>--></li>
 <li><b>Episode 3.6</b> (February 29, 2024) - Matthew Ferrandino, Brent Ferguson & George Reid, <!--<a href="season03#e3.6">-->“Playing with Ghosts: Timbre and the Chiptuning of Canon in the Bardcore Video Game Projects”<!--</a>--></li>
 <li><b>Episode 3.7</b> (March 7, 2024) - Alejandro Cueto, <!--<a href="season03#e3.7">-->“Otherworldly Sound in The 5th Dimension’s ‘Age of Aquarius/Let the Sunshine In’ (1969)”<!--</a>--></li>
