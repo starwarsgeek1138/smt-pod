@@ -9,9 +9,11 @@ As part of our mission to include diverse voices in our scholarship, _SMT-Pod_ a
 <hr>
 <div id="s3features">
 <p>The following composers and performers are featured in Season 3's episodes (updated as episodes are released)</p>
-<!--<ul>
-<li><a href="#"></a></li>
-</ul>-->
+<ul>
+<li><a href="#obregon">Luis Javier Obregon</a></li>
+<li><a href="#weston">Craig Weston</a></li>
+<li><a href="#yee">Thomas B. Yee</a></li>
+</ul>
 
 <p>Credits for individual episodes can be seen on our <a href="/episodes/season03">Season 3 episodes</a> page.</p>
 <hr>
@@ -19,13 +21,35 @@ As part of our mission to include diverse voices in our scholarship, _SMT-Pod_ a
 <h3>Musician Biographies</h3>
 <p><em>Theme and Closing music composers are listed in our main <a href="/music#composerbios">music</a> page. Season 3 composers and performers listed below in alphabetical order by last name.</em></p>
 
-<!--
-<div class="biobox" id="burleson">
-<a name="burleson"></a>
-<h4><strong>Geoffrey Burleson</strong></h4>
-<p style="font-size: 14px; font-weight: bold;"><a href="http://geoffreyburleson.com/" target="_blank">Performer's Website</a><br/>Piece Title: Before I'd Be a Slave" by Udine Smith Moore featured in <a href="/episodes/season02/#e2.7">episodes 2.7 through 2.11</a></p>
 
-<p>Equally active as a recitalist, concerto soloist, chamber musician, and jazz performer, Geoffrey Burleson, pianist, has performed to wide acclaim throughout Europe and North America. Current recording projects include Camille Saint-Saëns: Complete Piano Works, on 6 CDs, for the Naxos Grand Piano label. The first five volumes have been released to high acclaim from Gramophone, International Record Review, Diapason (France) and elsewhere. Mr. Burleson’s concerto appearances include the Buffalo Philharmonic, New England Philharmonic, Boston Musica Viva, and the Holland Symfonia in the Netherlands.  Mr. Burleson teaches piano at Princeton University and is Professor/Director of Piano Studies at Hunter College-CUNY.</p>
+<div class="biobox" id="obregon">
+<a name="obregon"></a>
+<h4><strong>Luis Javier Obregon</strong></h4>
+<p style="font-size: 14px; font-weight: bold;">
+Piece Titles: Mvmt. II: Ligero from <em>Bells of Silk and Wood for Piano and Erhu</em> featured in <a href="/episodes/season03/#e3.5">Episode 3.5</a><br/>
+</p>
 <a class="to-top" href="#top">Back to Top</a>
-</div>-->
+</div>
+
+<div class="biobox" id="weston">
+<a name="weston"></a>
+<h4><strong>Craig Weston</strong></h4>
+<p style="font-size: 14px; font-weight: bold;">
+Piece Titles: Mvmt. III: Sweetly Swinging from <em>Glancing Spirals</em> - for Violin, Clarinet, and Piano featured in <a href="/episodes/season03/#e3.5">Episode 3.5</a><br/>
+</p>
+<a class="to-top" href="#top">Back to Top</a>
+</div>
+
+<div class="biobox" id="yee">
+<a name="yee"></a>
+<h4><strong>Thomas Yee</strong></h4>
+<p style="font-size: 14px; font-weight: bold;"><a href="https://www.thomasbyee.com" target="_blank">Composer's Website</a><br/>
+Piece Titles: Segments from <em>Eva and the Angel of Death</em> - A Holocaust Rememberance Opera, <em>Earthrise for Saxophone Quartet</em>, and <em>Concerto Ludus for Piano and Gameboy</em> featured in <a href="/episodes/season03/#e3.5">Episode 3.5</a><br/>
+</p>
+<p>Some composers found their love of music hearing Brahms or Beethoven — Thomas (b. 1992) discovered his from the beeps and boops of the Super Nintendo. Thomas composes transformative Holocaust Remembrance opera (<em><a href="https://vimeo.com/793376598" target="_blank">Eva and the Angel of Death</a></em>) and concert pieces remixing live performance with the chiptune aesthetics of retro video game soundworlds. Thomas' research analyzes the representation of gender, race, and religion in video game music and the compositional innovations of Japanese 8-bit era video game composers. Thomas is Assistant Professor of Instruction in Theory & Composition at the <a href="https://colfa.utsa.edu/music/" target="_blank">University of Texas at San Antonio School of Music</a>.
+</p>
+<a class="to-top" href="#top">Back to Top</a>
+</div>
+
+</div>
 </div>
