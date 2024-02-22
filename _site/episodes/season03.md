@@ -23,8 +23,8 @@
 <li><b>Episode 3.2</b> (February 1, 2024) - Abigail Lindo, <a href="#e3.2">“Muito Beleza – Ana’s Hands: Postcolonial Gendered Legacies of the Viola da Terra”</a></li>
 <li><b>Episode 3.3</b> (February 8, 2024) - Stephen Rodgers, <a href="#e3.3">"Listening a Page at a Time"</a></li>
 <li><b>Episode 3.4</b> (February 15, 2024) - Nariá Assis & Luís Raimundo, <a href="#e3.4">"Interrelating Concepts of 'Texture' and 'Rhythm' in Massive Textures and Beatless Rhythms"</a></li>
-<li><b>Episode 3.5</b> (February 22, 2024) - Thomas B. Yee, <!--<a href="#e3.5">-->"What if Octaves Aren't Equivalent? – A Composer's Guide to Non-Octave-Repeating Scales"<!--</a>--></li>
-<li><b>Episode 3.6</b> (February 29, 2024) - Matthew Ferrandino, Brent Ferguson & George Reid, <!--<a href="#e3.6">-->"Playing with Ghosts: Timbre and the Chiptuning of Canon in the Bardcore Video Game Projects"<!--</a>--></li>
+<li><b>Episode 3.5</b> (February 22, 2024) - Thomas B. Yee, <a href="#e3.5">"What if Octaves Aren't Equivalent? – A Composer's Guide to Non-Octave-Repeating Scales"</a></li>
+<li><b>Episode 3.6</b> (February 29, 2024) - Matthew Ferrandino, Brent Ferguson & George Reid, <!--<a href="#e3.6">-->"Playing with Ghosts: Timbre and the Chiptuning of Canon in the Bardcore Video Game Project"<!--</a>--></li>
 <li><b>Episode 3.7</b> (March 7, 2024) - Alejandro Cueto, <!--<a href="#e3.7">-->"Otherworldly Sound in The 5th Dimension’s ‘Age of Aquarius/Let the Sunshine In’ (1969)"<!--</a>--></li>
 <li><b>Episode 3.8</b> (March 14, 2024) - Brent Ferguson, Nykia Osborne, Alani Pranzo, & Carter Falkenstein <!--<a href="#e3.8">-->"Agency and Practical Model Composition in the Music Theory Classroom"<!--</a>--></li>
 <li><b>Episode 3.9</b> (March 21, 2024) - Tori Vilches, <!--<a href="#e3.9">-->"‘Somos la Resistencia, No?’: Memory and Manipulation in Netflix's <em>La Casa de Papel</em>"<!--</a>--></li>
@@ -186,49 +186,54 @@ Additionally, Luís contributes as a program note writer for the Calouste Gulben
 
 <div style="width: 100%; height: 200px; margin-bottom: 20px; border-radius: 6px; overflow: hidden;"><iframe style="width: 100%; height: 200px;" frameborder="no" scrolling="no" seamless src="https://player.captivate.fm/episode/b3e3bec7-905c-45fa-99ab-89ae158c75c7"></iframe></div>
 
-<!--<div style="width: 100%; height: 200px; margin-bottom: 20px; border-radius: 6px; overflow: hidden;"><iframe style="width: 100%; height: 200px;" frameborder="no" scrolling="no" seamless src="https://player.captivate.fm/show/d9c88032-2609-4757-82c7-860198cb482f/latest/"></iframe></div>-->
 </div>
 <a class="to-top" href="#top">Back to Top</a>
 </div>
-<!--
 
 <div class="supplement" id="e3.5">
-<h3 class="supplement-title">2.5 - The Emotional Impact of the Double Upbeat</h3>
-<h4>Jenine Brown (Peabody Conservatory of the John Hopkins University)</h4>
-<h5>Release Date: Thursday, February 23, 2024</h5>
+<h3 class="supplement-title">3.5 - What if Octaves <em>Aren’t</em> Equivalent? A Composer’s Guide to Non-Octave-Repeating Scales</h3>
+<h4>Thomas B. Yee (The University of Texas at San Antonio School of Music)</h4>
+<h5>Release Date: Thursday, February 22, 2024</h5>
 <div class="floatsupps">
 <div style="float:left; width: 40%;">
-<img class="biopic" alt="Jenine Brown Headshot" src="../supplements/season03/S03Ep05brown.jpg">
+<img class="biopic" alt="Thomas Yee Headshot" src="../supplements/season03/S03Ep05yee.jpg"><br/>
+<p style="clear:both; padding-top: 10px;"><a href="https://www.thomasbyee.com" target="_blank">Author's Website</a><br/>
+Author's IG: @thomas.b.yee</p>
 
-<p style="clear:both; padding-top: 10px;"><a href="../supplements/season03/S03Ep05Supp_brown.pdf" target="_blank">Supplemental Materials (PDF)</a></p>
+<p style="clear:both; padding-top: 10px;"><!--<a href="../supplements/season03/S03Ep05Supp_yee.pdf" target="_blank">-->Supplemental Materials (PDF)<!--</a>--></p>
 
 <p style="font-size: 12px;">
 <span style="color:#de4d00;"><strong>Production Credits</strong></span><br/>
-<strong>Team Lead:</strong> Anna Rose Nelson<br/>
-<strong>Production Lead:</strong> David Thurmaier<br/>
-<strong>Peer Reviewer:</strong> Nancy Murphy<br/>
-<strong>Special Thanks:</strong> Jenny Beavers, Megan Lyons</p>
+<strong>Team Lead:</strong> Jennifer Weaver<br/>
+<strong>Production Lead:</strong> Katrina Roush<br/>
+<strong>Peer Reviewer:</strong> Craig Weston<br/>
+<strong>Special Thanks:</strong> Special thanks to Craig Weston, Luis Javier Obregon, David Forrest, Liam Hynes-Tawa, and Jenny Beavers for literature recommendations, draft feedback, and insights helpful in producing this episode.</p>
 
 <p style="font-size: 12px;">
 <span style="color:#de4d00;"><strong>Music Credits</strong></span><br/>
 <strong>SMT-Pod Theme Music:</strong> <a href="/music#lu">Zhangcheng Lu</a><br/>
 <strong>Closing Music:</strong> <a href="/music#voss">David Voss</a><br/>
-<strong>Other Original Compositions:</strong> <a href="/music/season03#bulat">Serge Bulat</a>
+<strong>Other Original Compositions:</strong> Luis Javier Obregon, Thomas B. Yee, Craig Weston
 </p>
 
 </div>
 <div style="float:right; width: 60%;">
-<p><strong>Bio:</strong> Jenine Brown is Associate Professor of Music Theory and Coordinator of Ear Training at the Peabody Institute of the Johns Hopkins University. Her research can be read in <em>Music Theory Spectrum</em>, <em>Music Perception</em>, the <em>Journal of New Music Research</em>, the <em>Journal of Music Theory Pedagogy</em>, <em>Engaging Students</em>, and <em>Empirical Musicology Review</em>, among others. Brown currently serves as President of the Music Theory Society of the Mid-Atlantic and is Associate Editor of <em>Music Theory Online</em>. She received a Ph.D. in music theory from the Eastman School of Music in 2014.</p>
+<p><strong>Bio:</strong> Some composers found their love of music hearing Brahms or Beethoven — Thomas (b. 1992) discovered his from the beeps and boops of the Super Nintendo. Thomas composes transformative Holocaust Remembrance opera (<em><a href="https://vimeo.com/793376598" target="_blank">Eva and the Angel of Death</a></em>) and concert pieces remixing live performance with the chiptune aesthetics of retro video game soundworlds. Thomas' research analyzes the representation of gender, race, and religion in video game music and the compositional innovations of Japanese 8-bit era video game composers. Thomas is Assistant Professor of Instruction in Theory & Composition at the <a href="https://colfa.utsa.edu/music/" target="_blank">University of Texas at San Antonio School of Music</a>.
 
-<p><strong>Keywords:</strong> <em>Cover song, double upbeat, metric reinterpretation, Ellie Goulding, Elton John</em></p>
+</p>
+
+<p><strong>Keywords:</strong> <em>Non-octave repeating scales, Jing Fang’s (京房) Three-scale Rise/Fall Tuning, Koizumi Fumio’s (小泉文夫) two-tetrachord theory of traditional Japanese modes, George Russell’s Lydian Chromatic Concept, music of living composers
+</em></p>
 </div>
-<div style="width: 100%; height: 180px; margin-top: 10px; margin-bottom: 10px; border-radius: 6px; overflow:hidden; clear:both;"><iframe style="width: 100%; height: 180px;" frameborder="no" scrolling="no" seamless src="https://player.captivate.fm/episode/10535077-b11b-49ec-8049-6a93d38a8e5a"></iframe></div>
+<!--<div style="width: 100%; height: 200px; margin-bottom: 20px; border-radius: 6px; overflow: hidden;"><iframe style="width: 100%; height: 200px;" frameborder="no" scrolling="no" seamless src="https://player.captivate.fm/show/d9c88032-2609-4757-82c7-860198cb482f/latest/"></iframe></div>-->
+
+<div style="width: 100%; height: 180px; margin-top: 10px; margin-bottom: 10px; border-radius: 6px; overflow:hidden; clear:both;"><iframe style="width: 100%; height: 180px;" frameborder="no" scrolling="no" seamless src="https://player.captivate.fm/show/d9c88032-2609-4757-82c7-860198cb482f/latest/"></iframe></div>
 
 </div>
 
 <a class="to-top" href="#top">Back to Top</a>
 </div>
-
+<!--
 <div class="supplement" id="e3.6">
 <h3 class="supplement-title">2.6 - What <em>Green Book</em> Got Wrong About Black Music</h3>
 <h4>Rami Stucky (Washington University, St. Louis)</h4>
