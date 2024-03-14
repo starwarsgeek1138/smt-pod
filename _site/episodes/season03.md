@@ -331,8 +331,8 @@
       <div style="float:left; width: 40%;">
         <img class="biopic" alt="Vilches Headshot" src="../supplements/season03/S03Ep08vilches.jpg">
 
-        <!--<p style="clear:both; padding-top: 10px;"><a href="../supplements/season03/S03Ep08Supp_vilches.pdf" target="_blank">Supplemental Materials (PDF)</a>
-        </p>-->
+        <p style="clear:both; padding-top: 10px;"><a href="../supplements/season03/S03Ep08Supp_vilches.pdf" target="_blank">Supplemental Materials (PDF)</a>
+        </p>
 
         <p style="font-size: 12px;">
         <span style="color:#de4d00;"><strong>Production Credits</strong></span><br/>
