@@ -31,7 +31,7 @@
     <li><b>Episode 3.6</b> (February 29, 2024) - Brent Ferguson, George Reid & Matthew Ferrandino, <a href="#e3.6">"Playing with Ghosts: Timbre and the Chiptuning of Canon in the <em>Bardcore</em> Video Game Project"</a></li>
     <li><b>Episode 3.7</b> (March 7, 2024) - Alejandro Cueto, <a href="#e3.7">"'How do you color a sound?': Hearing Afrofuturism in The 5th Dimension’s 'Age of Aquarius/Let the Sunshine In' (1969)"</a></li>
     <li><b>Episode 3.8</b> (March 14, 2024) - Tori Vilches, <a href="#e3.8">"‘Somos la Resistencia, No?’: Memory and Manipulation in Netflix's <em>La Casa de Papel</em>"</a></li>
-    <li><b>Episode 3.9</b> (March 21, 2024) - Jeremy Orosz, <!--<a href="#e3.9">-->"Tracing The 'Disappearance' of the Third Chorus in Recent Popular Music: Why Are Songs with Two Chorus Statements More Common Now?"<!--</a>--></li>
+    <li><b>Episode 3.9</b> (March 21, 2024) - Jeremy Orosz, <a href="#e3.9">"Three’s a Crowd: Understanding the Rise of Two-Chorus Form in Recent Popular Music"</a></li>
     <li><b>Episode 3.10</b> (March 28, 2024) - Brent Ferguson, Nykia Osborne, Alani Pranzo, & Carter Falkenstein <!--<a href="#e3.10">-->"Agency and Practical Model Composition in the Music Theory Classroom"<!--</a>--></li>
     <li><b>Episode 3.11</b> (April 4, 2024) - Stefanie Bilidas & Grace Gollmar, <!--<a href="#e3.11">-->"Considering the Impact of Timbre on Perceptions of Genre in Recorded Popular Music"<!--</a>--></li>
   </ul>
@@ -354,8 +354,44 @@
         <p><strong>Keywords:</strong> <em>Semiotics, Palimpsest, Netflix, resistance, La Casa de Papel</em>
         </p>
       </div>
-      <!--<div style="width: 100%; height: 180px; margin-top: 10px; margin-bottom: 10px; border-radius: 6px; overflow:hidden; clear:both;"><iframe style="width: 100%; height: 180px;" frameborder="no" scrolling="no" seamless src="https://player.captivate.fm/show/d9c88032-2609-4757-82c7-860198cb482f/latest/"></iframe>-->
       <div style="width: 100%; height: 200px; margin-bottom: 20px; border-radius: 6px; overflow: hidden;"><iframe style="width: 100%; height: 200px;" frameborder="no" scrolling="no" seamless src="https://player.captivate.fm/episode/085392cf-4fd7-4cec-afd0-7aef77c06a0e"></iframe>
+      </div>
+    <a class="to-top" href="#top">Back to Top</a>
+  </div>  
+  <!----DIVIDER: Episode 3.9 ------------------------------------------------------------------------------------------------------------>
+  <div class="supplement" id="e3.9">
+    <h3 class="supplement-title">3.9 - Three’s a Crowd: Understanding the Rise of Two-Chorus Form in Recent Popular Music</h3>
+    <h4>Jeremy Orosz (University of Memphis)</h4>
+    <h5>Release Date: Thursday, March 21, 2024</h5>
+    <div class="floatsupps">
+      <div style="float:left; width: 40%;">
+        <img class="biopic" alt="Orosz Headshot" src="../supplements/season03/S03Ep09orosz.jpg">
+
+        <p style="clear:both; padding-top: 10px;"><a href="../supplements/season03/S03Ep09Supp_orosz.pdf" target="_blank">Supplemental Materials (PDF)</a>
+        </p>
+
+        <p style="font-size: 12px;">
+        <span style="color:#de4d00;"><strong>Production Credits</strong></span><br/>
+        <strong>Team Lead:</strong> Anna Rose Nelson<br/>
+        <strong>Production Lead:</strong> Zach Lloyd<br/>
+        <strong>Peer Reviewer:</strong> Trevor deClercq
+        </p>
+
+        <p style="font-size: 12px;">
+        <span style="color:#de4d00;"><strong>Music Credits</strong></span><br/>
+        <strong>SMT-Pod Theme Music:</strong> <a href="/music#lu">Zhangcheng Lu</a><br/>
+        <strong>Closing Music:</strong> <a href="/music#voss">David Voss</a>
+        </p>
+
+      </div>
+      <div style="float:right; width: 60%;">
+        <p><strong>Bio:</strong> Jeremy Orosz is an Associate Professor of Music Theory at the University of Memphis. He earned an M.A. and Ph.D. in Music at the University of Minnesota, where he also pursued a master's degree in linguistics. His research interests include the study of musical borrowing, music for television and film, and form in popular music. He has read papers at academic conferences across North and South America, and published articles and essays in a wide range of scholarly and public-facing venues.
+        </p>
+        <p><strong>Keywords:</strong> <em>Popular music, form, chorus, NPR, Billboard</em>
+        </p>
+      </div>
+      <div style="width: 100%; height: 180px; margin-top: 10px; margin-bottom: 10px; border-radius: 6px; overflow:hidden; clear:both;"><iframe style="width: 100%; height: 180px;" frameborder="no" scrolling="no" seamless src="https://player.captivate.fm/show/d9c88032-2609-4757-82c7-860198cb482f/latest/"></iframe>
+      <!--<div style="width: 100%; height: 200px; margin-bottom: 20px; border-radius: 6px; overflow: hidden;"><iframe style="width: 100%; height: 200px;" frameborder="no" scrolling="no" seamless src="https://player.captivate.fm/episode/085392cf-4fd7-4cec-afd0-7aef77c06a0e"></iframe>-->
       </div>
     <a class="to-top" href="#top">Back to Top</a>
   </div>  

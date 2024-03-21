@@ -31,7 +31,7 @@ A new episode released every Thursday, beginning January 25, 2024. Click on the 
 <li><b>Episode 3.6</b> (February 29, 2024) - Brent Ferguson, George Reid & Matthew Ferrandino, <a href="season03#e3.6">“Playing with Ghosts: Timbre and the Chiptuning of Canon in the <em>Bardcore</em> Video Game Project”</a></li>
 <li><b>Episode 3.7</b> (March 7, 2024) - Alejandro Cueto, <a href="season03#e3.7">"'How do you color a sound?': Hearing Afrofuturism in The 5th Dimension’s 'Age of Aquarius/Let the Sunshine In' (1969)"</a></li>
 <li><b>Episode 3.8</b> (March 14, 2024) - Tori Vilches, <a href="season03#e3.8">“‘Somos la Resistencia, No?’: Memory and Manipulation in Netflix's <em>La Casa de Papel</em>"</a></li>
-<li><b>Episode 3.9</b> (March 21, 2024) - Jeremy Orosz, <!--<a href="season03#e3.9">-->“Tracing The 'Disappearance' of the Third Chorus in Recent Popular Music: Why Are Songs with Two Chorus Statements More Common Now?"<!--</a>--></li>
+<li><b>Episode 3.9</b> (March 21, 2024) - Jeremy Orosz, <a href="season03#e3.9">“Three’s a Crowd: Understanding the Rise of Two-Chorus Form in Recent Popular Music"</a></li>
 <li><b>Episode 3.10</b> (March 28, 2024) - Brent Ferguson, Nykia Osborne, Alani Pranzo, & Carter Falkenstein, <!--<a href="season03#e3.10">-->“Agency and Practical Model Composition in the Music Theory Classroom”<!--</a>--></li>
 <li><b>Episode 3.11</b> (April 4, 2024) - Stefanie Bilidas & Grace Gollmar, <!--<a href="season03#e3.11">-->“Considering the Impact of Timbre on Perceptions of Genre in Recorded Popular Music"<!--</a>--></li>
 </ul>
