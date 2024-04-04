@@ -33,7 +33,7 @@
     <li><b>Episode 3.8</b> (March 14, 2024) - Tori Vilches, <a href="#e3.8">"‘Somos la Resistencia, No?’: Memory and Manipulation in Netflix's <em>La Casa de Papel</em>"</a></li>
     <li><b>Episode 3.9</b> (March 21, 2024) - Jeremy Orosz, <a href="#e3.9">"Three’s a Crowd: Understanding the Rise of Two-Chorus Form in Recent Popular Music"</a></li>
     <li><b>Episode 3.10</b> (March 28, 2024) - Brent Ferguson, Nykia Osborne, Alani Pranzo, & Carter Falkenstein <a href="#e3.10">"Agency and Practical Model Composition in the Music Theory Classroom"</a></li>
-    <li><b>Episode 3.11</b> (April 4, 2024) - Stefanie Bilidas & Grace Gollmar, <!--<a href="#e3.11">-->"Considering the Impact of Timbre on Perceptions of Genre in Recorded Popular Music"<!--</a>--></li>
+    <li><b>Episode 3.11</b> (April 4, 2024) - Stefanie Bilidas & Grace Gollmar, <a href="#e3.11">"The Impact of Timbre on Perceptions of Genre in Recorded Popular Music"</a></li>
   </ul>
 </div>
 
@@ -432,9 +432,45 @@
         <p><strong>Keywords:</strong> <em>Pedagogy, composition, universal design learning, model composition, video games, buffet</em>
         </p>
       </div>
-      <div style="width: 100%; height: 180px; margin-top: 10px; margin-bottom: 10px; border-radius: 6px; overflow:hidden; clear:both;"><iframe style="width: 100%; height: 180px;" frameborder="no" scrolling="no" seamless src="https://player.captivate.fm/show/d9c88032-2609-4757-82c7-860198cb482f/latest/"></iframe>
-      <!--<div style="width: 100%; height: 200px; margin-bottom: 20px; border-radius: 6px; overflow: hidden;"><iframe style="width: 100%; height: 200px;" frameborder="no" scrolling="no" seamless src="https://player.captivate.fm/episode/085392cf-4fd7-4cec-afd0-7aef77c06a0e"></iframe>-->
+      <div style="width: 100%; height: 180px; margin-top: 10px; margin-bottom: 10px; border-radius: 6px; overflow:hidden; clear:both;"><iframe style="width: 100%; height: 180px;" frameborder="no" scrolling="no" seamless src="https://player.captivate.fm/episode/03500679-fb32-428a-a1a5-a6b7bb3518fb"></iframe>
       </div>
     <a class="to-top" href="#top">Back to Top</a>
   </div>  
+  <!----DIVIDER: Episode 3.11 ------------------------------------------------------------------------------------------------------------>
+  <div class="supplement" id="e3.11">
+    <h3 class="supplement-title">3.11 - The Impact of Timbre on Perceptions of Genre in Recorded Popular Music</h3>
+    <h4>Stefanie Bilidas & Grace Gollmar (University of Texas at Austin)</h4>
+    <h5>Release Date: Thursday, April 4, 2024</h5>
+    <div class="floatsupps">
+      <div style="float:left; width: 40%;">
+        <img class="biopic" alt="Bilidas Headshot" src="../supplements/season03/S03Ep11bilidas.jpg">
+        <img class="biopic" alt="Gollmar Headshot" src="../supplements/season03/S03Ep11gollmar.jpg">
+        <p style="clear:both; padding-top: 10px;"><!--<a href="../supplements/season03/S03Ep10Supp_ferguson.pdf" target="_blank">-->Supplemental Materials (PDF)
+        </p>
+
+        <p style="font-size: 12px;">
+        <span style="color:#de4d00;"><strong>Production Credits</strong></span><br/>
+        <strong>Team Lead:</strong> Thomas B. Yee<br/>
+        <strong>Production Lead:</strong> Jose Garza<br/>
+        <strong>Peer Reviewer:</strong> Eron Smith
+        </p>
+
+        <p style="font-size: 12px;">
+        <span style="color:#de4d00;"><strong>Music Credits</strong></span><br/>
+        <strong>SMT-Pod Theme Music:</strong> <a href="/music#lu">Zhangcheng Lu</a><br/>
+        <strong>Closing Music:</strong> <a href="/music#voss">David Voss</a></p>
+
+      </div>
+      <div style="float:right; width: 60%;">
+        <p><strong>Bio:</strong> Stefanie Bilidas is a Ph.D. candidate in music theory and assistant instructor in music theory at the University of Texas at Austin. Her primary research focuses on the intersection of timbre and genre in popular music. She also researches rhythm tap dance choreography and improvisation, examining how movement informs perspectives of rhythm, meter, and form. She has presented her research on popular music and dance across the United States and Canada. In her free time, she is a tap dancer, Scottish Highland Dancer, and dog mom to two corgis. </p>
+
+        <p><strong>Bio:</strong> Grace Gollmar is a Ph.D. student and assistant instructor in music theory at the University of Texas at Austin. Her primary research interests include studies of timbre and recording technology and issues of genre crossover. Grace has recently presented research on textural schemata in Massive Attack’s discography and timbral relationships between choirs and soloists in contemporary opera. An active composer and vocalist, she has toured nationally as a choral singer and been commissioned by sacred and secular choral ensembles.</p>
+
+        <p><strong>Keywords:</strong> <em>Timbre, genre, schema, trip-hop, cover songs</em>
+        </p>
+      </div>
+      <div style="width: 100%; height: 180px; margin-top: 10px; margin-bottom: 10px; border-radius: 6px; overflow:hidden; clear:both;"><iframe style="width: 100%; height: 180px;" frameborder="no" scrolling="no" seamless src="https://player.captivate.fm/episode/3244d647-96fb-408c-b878-a01379c145ef"></iframe>
+      </div>
+    <a class="to-top" href="#top">Back to Top</a>
+  </div>
 </div>
