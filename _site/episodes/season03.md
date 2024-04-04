@@ -445,7 +445,7 @@
       <div style="float:left; width: 40%;">
         <img class="biopic" alt="Bilidas Headshot" src="../supplements/season03/S03Ep11bilidas.jpg">
         <img class="biopic" alt="Gollmar Headshot" src="../supplements/season03/S03Ep11gollmar.jpg">
-        <p style="clear:both; padding-top: 10px;"><!--<a href="../supplements/season03/S03Ep10Supp_ferguson.pdf" target="_blank">-->Supplemental Materials (PDF)
+        <p style="clear:both; padding-top: 10px;"><a href="../supplements/season03/S03Ep11Supp_bilidas_gollmar.pdf" target="_blank">Supplemental Materials (PDF)</a>
         </p>
 
         <p style="font-size: 12px;">
