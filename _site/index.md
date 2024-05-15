@@ -5,7 +5,7 @@
 </div>
 
 <div class="announce">
-<h4><strong>Season 3 launch:</strong></h4> Listen every Thursday beginning January 25, 2024 for new season 3 episodes!
+<strong>Season 3</strong> was a huge success! Check out our <a href="submit">Pitch a Pod</a> page for the Season 4 Call for Episodes (Submissions Due July 15!).
 </div>
 
 _SMT-Pod_ is a [Open Collaborative Peer-Reviewed](../submit/OCPR) and creative venue for timely conversations about music theory. Audio-only podcasts offer a unique—though non-traditional—way of engaging with music, analysis, and contemporary issues in the field. As opposed to the heavy, jargon-laden publications we are used to working through at our desks, _SMT-Pod_ publications are easy to listen to and think about in the car, on your run, or while grading.. [Read more about _SMT-Pod_ here.](about)
@@ -14,8 +14,13 @@ _SMT-Pod_ is a [Open Collaborative Peer-Reviewed](../submit/OCPR) and creative v
 <div><p class="socmedia">follow <a href="http://www.twitter.com/smt_pod" target="_blank"><img height="30px" width="30px" alt="twitter; credit: freepik" src="../images/twitter.png"/></a></p></div>
 # Latest News
 
+**May 2024** : [Call for season 4 podcasts is open!](submit) Deadline for Spring 2025 podcast season proposals is July 15, 2024 at 11:59pm EST.
+
+**April 2024** : That's a wrap on Season 3. Thank you to all of our authors, reviewers, producers, musicians, and board members for a great season!
+
 **January 2024** : Season 3 launches! Join us every Thursday beginning on January 25, 2024 for a weekly podcast episode.
 
+<!--
 **June 2023** : [Call for season 3](submit) deadline for Spring 2024 podcast season is extended to July 15, 2023 at 11:59pm EST.
 
 **May 2023** : [Call for season 3](submit) opens - deadline for Spring 2024 podcast season is June 15, 2023 at 11:59pm EST.
@@ -37,6 +42,7 @@ _SMT-Pod_ is a [Open Collaborative Peer-Reviewed](../submit/OCPR) and creative v
 **September 2021** : **Congrats to Zhangcheng Lu.** Their composition, BGM Scales, was selected as our theme..
 
 **June 1, 2021** : _Hello World._ We've launched! _**Listen to our trailer**_ to learn more about SMT-Pod, the new Podcast for the [Society for Music Theory](http://www.societymusictheory.org).
+-->
 
 <hr>
 <h2>Listen to the Latest Episode</h2>
