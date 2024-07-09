@@ -4,7 +4,7 @@
 /* dark grey */
 .site-header { background-color: #de4d00; text-color: #fff; link-color: #ffffcc; page-link: #ffffcc; margin-bottom: 0px; }
 
-button.headerbutton { background-color: #000; transition-duration: 0.4s; color: #ffffff; padding: 10px; text-align: center; text-decoration: none; display: inline-block; box-shadow: none; border: 0px; float: right; margin: 20px 10px; font-size: 14px; }
+.headerbutton { background-color: #000; transition-duration: 0.4s; color: #ffffff; padding: 10px; text-align: center; text-decoration: none; display: inline-block; box-shadow: none; border: 0px; float: right; margin: 20px 10px; font-size: 14px; }
 
 .headerbutton:hover { background-color: #ffffcc; color: #de4d00; }
 
