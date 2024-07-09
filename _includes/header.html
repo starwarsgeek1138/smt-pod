@@ -1,16 +1,20 @@
 <header class="site-header">
 
   <div class="wrapper">
-<a aria-description="Top of Page Link Target" name="top"></a>
-  <a class="site-title" href="{{ "/" | relative_url }}"><img src="https://smt-pod.org/images/smtpodlogo.jpg" alt="SMT-Pod logo" height="150" width="150"></a>
-<nav class="site-nav">
-      {% for link in site.data.navigation.main %}
-        {% if link.url contains "http" %}
-          {% assign url = link.url %}
-        {% else %}
-          {% assign url = link.url | relative_url %}
-        {% endif %}
-        <a class="page-link" href="{{ url }}">{{ link.title }}</a>
-      {% endfor %}
-    </nav>
+    <a aria-description="Top of Page Link Target" name="top"></a>
+  <div class="header-logo">
+    <a class="site-title" href="{{ "/" | relative_url }}"><img src="https://smt-pod.org/images/smtpodlogo.jpg" alt="SMT-Pod logo" height="150" width="150"></a>
+    <a href="https://societymusictheory.org/smtdonations" target="_blank"><button class="headerbutton" type="button" name="donatebutton">Donate to SMT</button></a>
+  <nav class="site-nav">
+        {% for link in site.data.navigation.main %}
+          {% if link.url contains "http" %}
+            {% assign url = link.url %}
+          {% else %}
+            {% assign url = link.url | relative_url %}
+          {% endif %}
+          <a class="page-link" href="{{ url }}">{{ link.title }}</a>
+        {% endfor %}
+  </nav>
+  </div>
+  </div>
 </header>

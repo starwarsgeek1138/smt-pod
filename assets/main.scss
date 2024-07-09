@@ -14,13 +14,13 @@ $base-line-height: 1.5;
 
 $spacing-unit:     30px;
 
-$text-color:       #252525;
+$text-color:       #252525; /* blackish */
 $link-color:       #de4d00;
 $background-color: #fff;
-$brand-color:      #de4d00;
-$contrast-color:   #ffffcc;
+$brand-color:      #de4d00; /* orange */
+$contrast-color:   #ffffcc;  /* light yellow */
 
-$grey-color:       #535A58;
+$grey-color:       #535A58; /* dark grey */
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
@@ -35,6 +35,38 @@ $on-laptop:        800px;
     link-color: $contrast-color;
     page-link: $contrast-color;
     margin-bottom: 0px;
+  }
+
+button.headerbutton{
+    background-color: #000;
+    transition-duration: 0.4s;
+    color: #ffffff;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    box-shadow: none;
+    border: 0px;
+    float:right;
+    margin: 20px 10px;
+    font-size: 14px;}
+
+.headerbutton:hover {
+      background-color: #ffffcc;
+      color: #de4d00;
+    }
+
+.headerbutton:active {
+      background-color: #535A58;
+      box-shadow: 0 5px #252525;
+      transform: translateY(4px);
+    }
+
+div.header-logo {
+  display: inline-block;
+  float: left;
+  margin-right: 15px;
+  vertical-align: bottom;
 }
 
 div.announce {
@@ -147,7 +179,6 @@ padding: $spacing-unit/2
        border-top: 1px solid $brand-color;
        border-bottom: 1px solid $brand-color;
     }
-
 
 // whiteglass also includes a mixin for defining media queries.
 // Use media queries like this:
