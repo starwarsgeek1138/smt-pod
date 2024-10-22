@@ -77,7 +77,7 @@ Contact us at [smt-pod@societymusictheory.org](mailto:smt-pod@societymusictheory
 
 #### Accessibility Chair
 
-<div class="biobox"><img class="biopic" src="../images/bio_mcalister.jpg"/><p><span class="biotitle">Shannon Mcalister</span> (2022–2025; Seasons 2–4) is a PhD student in music theory and history and a graduate teaching assistant at the University of Connecticut. She is also currently pursuing a Graduate Certificate of Interdisciplinary Disability Studies in Public Health at UConn. Shannon earned her MA in Music Theory and a Graduate Certificate in College Instruction from the University of Connecticut and a BM in Music Education from the University of Delaware. Her research areas include music and disability studies, as well as music theory pedagogy.</p></div>
+<div class="biobox"><img class="biopic" src="../images/bio_mcalister.jpg"/><p><span class="biotitle">Shannon McAlister</span> (2022–2025; Seasons 2–4) is a PhD student in music theory and history and a graduate teaching assistant at the University of Connecticut. She is also currently pursuing a Graduate Certificate of Interdisciplinary Disability Studies in Public Health at UConn. Shannon earned her MA in Music Theory and a Graduate Certificate in College Instruction from the University of Connecticut and a BM in Music Education from the University of Delaware. Her research areas include music and disability studies, as well as music theory pedagogy.</p></div>
 
 #### Website Committee
 
