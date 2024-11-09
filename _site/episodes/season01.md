@@ -1,3 +1,4 @@
+<!----DIVIDER: Top of Page ------------------------------------------------------------------------------------------------------------>
 <div class="seasonheader">
     <h1 class="seasonheader-text">Season 1 (Spring 2022)</h1>
 </div>
@@ -15,7 +16,7 @@
 </div>
 
 <hr>
-
+<!----DIVIDER: Table of Contents ------------------------------------------------------------------------------------------------------------>
 <div>
 <h2>Season 1 Episodes</h2>
 <ul><li><b>Episode 1.1</b> (January 13, 2022) - Scott Murphy, <a href="#e1.1">“Buxtehude Beats Bach? Qualifying a Canonic Claim”</a></li>

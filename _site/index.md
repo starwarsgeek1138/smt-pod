@@ -5,14 +5,16 @@
 </div>
 
 <div class="announce">
-<strong>Season 3</strong> was a huge success! Check out our <a href="submit">Pitch a Pod</a> page for the Season 4 Call for Episodes (Submissions Due July 15!).
+<strong>Season 4</strong> is currently under production. SMT-Pod is music to be used in Season 4 - please see the <a href="music/callformusic">call for music</a>!
 </div>
 
 _SMT-Pod_ is a [Open Collaborative Peer-Reviewed](../submit/OCPR) and creative venue for timely conversations about music theory. Audio-only podcasts offer a unique—though non-traditional—way of engaging with music, analysis, and contemporary issues in the field. As opposed to the heavy, jargon-laden publications we are used to working through at our desks, _SMT-Pod_ publications are easy to listen to and think about in the car, on your run, or while grading.. [Read more about _SMT-Pod_ here.](about)
 
 <hr>
 <div><p class="socmedia">follow <a href="http://www.twitter.com/smt_pod" target="_blank"><img height="30px" width="30px" alt="twitter; credit: freepik" src="../images/twitter.png"/></a></p></div>
+
 # Latest News
+**November 2024** : [Call for Music is open!](music/callformusic) Deadline for music to be used in Season 4 (Spring 2025) podcast is December 9, 2024 at 11:59pm EST.
 
 **May 2024** : [Call for season 4 podcasts is open!](submit) Deadline for Spring 2025 podcast season proposals is July 15, 2024 at 11:59pm EST.
 
