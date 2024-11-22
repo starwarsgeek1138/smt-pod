@@ -24,7 +24,7 @@ The Society for Music Theory’s _SMT-Pod_ invites music makers to submit high-q
         <li><strong>Audio Format:</strong> WAV files only (no scores, please).</li>
         <li><strong>Deadline:</strong> December 9, 2024, 11:59 PM Central/Chicago Time.</li>
         <li><strong>Results:</strong> January 9, 2025, 11:59 PM Central/Chicago Time.</li>
-        <li><strong>Submission Form:</strong> TBA</li>
+        <li><strong>Submission Form:</strong> <a href="https://forms.gle/7HjLdqVxJnJRQDin6" target="_blank">Google Form</a></li>
         <li><strong>Questions? Contact:</strong> Dr. Frank Nawrot - <a href="Fnawrot@gmail.com">Fnawrot[a]gmail.com</a></li>
 
       </ul>
